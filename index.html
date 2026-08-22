@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Frag das Rudel – ASK THE DOGS</title>
+<meta name="description" content="Echte Fragen von Hundehaltern, beantwortet von Felix, Roqsy, Louis, Frida und Luna.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Karla:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/site.css">
+</head>
+<body>
+
+<nav class="site-nav">
+  <a class="brand" href="../index.html"><span class="brand-mark">🐾</span> ASK THE DOGS</a>
+  <div class="nav-links">
+    <a href="index.html" class="active">Frag das Rudel</a>
+    <a href="../empfehlungen/index.html">Empfehlungen</a>
+    <a class="nav-ig" href="https://instagram.com/askthedogs" target="_blank" rel="noopener">Instagram →</a>
+  </div>
+</nav>
+
+<header class="page-hero">
+  <span class="eyebrow">Frag das Rudel</span>
+  <h1>Deine Frage. Ihre Antwort.</h1>
+  <p class="lede">Jede Woche beantwortet einer von uns eine echte Frage von euch – ehrlich, aus Hundesicht, ohne Fachchinesisch. Stell deine Frage über den Sticker in unserer Instagram- oder Facebook-Story.</p>
+</header>
+
+<div class="filter-row" id="filters">
+  <button class="filter-pill is-active" data-filter="alle">Alle</button>
+  <button class="filter-pill" data-filter="verhalten">Verhalten</button>
+  <button class="filter-pill" data-filter="angst">Angst &amp; Stress</button>
+  <button class="filter-pill" data-filter="pflege">Pflege</button>
+  <button class="filter-pill" data-filter="koerpersprache">Körpersprache</button>
+</div>
+
+<div class="card-grid" id="grid">
+
+  <a class="q-card" data-cats="verhalten" href="warum-dreht-sich-mein-hund-im-kreis.html">
+    <div class="who">
+      <img src="../assets/felix.png" alt="Felix">
+      <span>Felix antwortet</span>
+    </div>
+    <h3>Warum dreht sich mein Hund im Kreis, bevor er sich hinlegt?</h3>
+    <p>Ein uralter Instinkt aus der Wildnis – erklärt von jemandem, der ihn immer noch nicht abgelegt hat.</p>
+    <div class="tag-row"><span class="tag">Verhalten</span></div>
+  </a>
+
+  <a class="q-card" data-cats="angst koerpersprache" href="warum-hat-mein-hund-angst-bei-gewitter.html">
+    <div class="who">
+      <img src="../assets/roqsy.png" alt="Roqsy">
+      <span>Roqsy antwortet</span>
+    </div>
+    <h3>Warum hat mein Hund solche Angst bei Gewitter?</h3>
+    <p>Roqsy kennt das Problem aus erster Pfote – und erklärt, was Frauchen dabei geholfen hat, es wirklich zu verstehen.</p>
+    <div class="tag-row"><span class="tag">Angst &amp; Stress</span><span class="tag">Körpersprache</span></div>
+  </a>
+
+  <!-- Neue Frage hinzufügen: diesen ganzen <a class="q-card">-Block kopieren,
+       Bild/Namen/Titel/Text/data-cats/href anpassen, fertig. -->
+
+</div>
+
+<footer class="site-footer">
+  <p>ASK THE DOGS ist ein eigenständiges Affiliate-Content-Projekt von Dr. Griet Capek-Zoller.</p>
+  <div class="footer-links">
+    <a href="https://instagram.com/askthedogs" target="_blank" rel="noopener">Instagram</a>
+    <a href="https://facebook.com/askthedogs" target="_blank" rel="noopener">Facebook</a>
+    <a href="../impressum.html">Impressum</a>
+    <a href="../datenschutz.html">Datenschutz</a>
+  </div>
+</footer>
+
+<script>
+  // Simple client-side filter — no backend needed.
+  const pills = document.querySelectorAll('.filter-pill');
+  const cards = document.querySelectorAll('.q-card');
+  pills.forEach(pill => {
+    pill.addEventListener('click', () => {
+      pills.forEach(p => p.classList.remove('is-active'));
+      pill.classList.add('is-active');
+      const filter = pill.dataset.filter;
+      cards.forEach(card => {
+        const cats = card.dataset.cats || '';
+        card.style.display = (filter === 'alle' || cats.includes(filter)) ? '' : 'none';
+      });
+    });
+  });
+</script>
+
+</body>
+</html>

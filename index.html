@@ -49,11 +49,11 @@
     <p>Felix erklärt, warum das ein uralter Instinkt ist – und warum er trotzdem auf dem Teppich nicht davon ablässt.</p>
     <a class="link-arrow" href="frag-das-rudel/warum-dreht-sich-mein-hund-im-kreis.html">Antwort lesen →</a>
   </div>
-  <div class="teaser">
+  <div class="teaser" id="teaser-empfehlung">
     <span class="eyebrow">Neueste Empfehlung</span>
-    <h2>Fluffino Hundehandtuch</h2>
-    <p>Luna testet, was bei waschechten Wasserratten wirklich hilft – saugfähig, schnelltrocknend, im Doppelpack.</p>
-    <a class="link-arrow" href="empfehlungen/fluffino-handtuch.html">Empfehlung ansehen →</a>
+    <h2 id="teaser-empf-title">…</h2>
+    <p id="teaser-empf-text"></p>
+    <a class="link-arrow" id="teaser-empf-link" href="#">Empfehlung ansehen →</a>
   </div>
 </section>
 
@@ -130,7 +130,7 @@
 <script>
   document.querySelectorAll('.js-empfehlungen').forEach(span => {
     const dog = span.getAttribute('data-dog');
-    const matches = EMPFEHLUNGEN.filter(e => e.dogKey === dog);
+    const matches = EMPFEHLUNGEN.slice().reverse().filter(e => e.dogKey === dog);
     matches.forEach(e => {
       const a = document.createElement('a');
       a.href = 'empfehlungen/produkt.html?p=' + encodeURIComponent(e.id);
@@ -138,6 +138,14 @@
       span.appendChild(a);
     });
   });
+
+  // Neueste-Empfehlung-Teaser oben auf der Startseite befüllen
+  const newest = EMPFEHLUNGEN[EMPFEHLUNGEN.length - 1];
+  if (newest) {
+    document.getElementById('teaser-empf-title').textContent = newest.productName;
+    document.getElementById('teaser-empf-text').textContent = newest.dogName + ' empfiehlt: ' + newest.quote;
+    document.getElementById('teaser-empf-link').href = 'empfehlungen/produkt.html?p=' + encodeURIComponent(newest.id);
+  }
 </script>
 
 </body>

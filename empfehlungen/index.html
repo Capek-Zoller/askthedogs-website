@@ -45,7 +45,8 @@
 <script src="../assets/empfehlungen-data.js"></script>
 <script>
   const grid = document.getElementById('card-grid');
-  EMPFEHLUNGEN.forEach(e => {
+  // .slice().reverse() zeigt die neueste Empfehlung zuerst (Datenliste ist chronologisch, älteste zuerst)
+  EMPFEHLUNGEN.slice().reverse().forEach(e => {
     const a = document.createElement('a');
     a.className = 'p-card';
     a.href = 'produkt.html?p=' + encodeURIComponent(e.id);

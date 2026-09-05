@@ -189,5 +189,56 @@ const EMPFEHLUNGEN = [
     ],
     "link": "https://www.amazon.de/OSDUE-Futterschn%C3%BCffel-Futtermatte-Hunde-Schn%C3%BCffelmatte-Welpen-Trainingsmatte-Schn%C3%BCffelspielzeug/dp/B0DNJYVCG7?th=1&linkCode=ll2&tag=askthedogs-21&linkId=223a56f224331c5558281d5c3c6a4eb9&ref_=as_li_ss_tl",
     "pageTitle": "Felix empfiehlt: Schnüffelteppich – ASK THE DOGS"
+  },
+  {
+    "id": "furminator",
+    "dogKey": "luna",
+    "dogName": "Luna",
+    "dogBreed": "Golden Retriever",
+    "quote": "Einmal schütteln – und es schneit Haare!",
+    "productImg": "assets/furminator.jpg",
+    "productName": "FURminator deShedding-Tool",
+    "productSub": "Größe L, für langhaariges Fell",
+    "reasons": [
+      "Entfernt bis zu 99 % der losen Unterwolle beim Fellwechsel",
+      "Sanft und hautschonend – ideal für zwei Anwendungen pro Woche",
+      "Spürbar weniger Haare auf Couch, im Auto und in der Wohnung"
+    ],
+    "link": "https://www.amazon.de/FURminator-deShedding-Tool-Hund-Gr%C3%B6%C3%9Fe-Langhaar/dp/B07NSL5V36?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=NPTOZYYRTLFL&dib=eyJ2IjoiMSJ9.VbkPN0CCUumJ0j3ibvSaurKa4euBZj5L2B1RJTJx869VPdgZLffCUzegP_nLXN6h_cH1TmPW7_ogtKjhWx_Jm600oXDd5Ej8LUC-8NOG08sB0_a2Ex2H6HdHIkyAhyt39vcFKPgnNubI7Q7-h_aX-WivKYRJlofIylt5cjXHaW5NG9fvRxaBYfbPXOc0rp0MgoSHa2mSw2u4EZNfUooxqXQQaoYcDcmCaGEqcXPX_9_0KL5IQ20PeNukqliTXselsk3CghN-pEPeNakvp8ZL9VbY91zh8Oc6yf0z9qDY72U.EvLt_-YrKC7tNKKIDH0mrC3T0cHrVRrIIWWVH_afHtc&dib_tag=se&keywords=fellwechsel%2BdeShedding%2Btool&qid=1788509257&sprefix=fellwechsel%2Bdeshedding%2Btool%2Caps%2C133&sr=8-8&th=1&linkCode=ll2&tag=askthedogs-21&linkId=a92fb9de5b7161f969657f9b4695eb9e&ref_=as_li_ss_tl",
+    "pageTitle": "Luna empfiehlt: FURminator deShedding-Tool – ASK THE DOGS"
+  },
+  {
+    "id": "tierhaarentferner",
+    "dogKey": "luna",
+    "dogName": "Luna",
+    "dogBreed": "Golden Retriever",
+    "quote": "Nicht viele Haare sind auch genug.",
+    "productImg": "assets/tierhaarentferner.jpg",
+    "productName": "BluePet RolloTollo Tierhaarentferner",
+    "productSub": "mit Mini-Fusselrolle, wiederverwendbar",
+    "reasons": [
+      "Zieht Tierhaare mühelos aus Polstern, Kleidung und Autositzen",
+      "Einfach abrollen, Kammer leeren, fertig – keine Einwegteile nötig",
+      "Kinderleicht zu handhaben und zu reinigen"
+    ],
+    "link": "https://www.amazon.de/Bluepet%C2%AE-RolloTollo-Selbstreinigende-Fusselrolle-Tierhaarentferner/dp/B093389KGJ?crid=2B81ZAWC5I5TX&dib=eyJ2IjoiMSJ9.YHpdw1l0oNOSOLsEctg-ElZdXWHvrxnkM8QVFurj6QV5uXsg2PVrgmA5__1k02KKAx5i6kXT2FzNGxMvQ7vF1C80nxD8xvvU6HIjHCsOOWbJRa_1frVPDUmEZ_EBbBxNEUbHAtog-YAECUrw3X0H_lLWRdX01XB-y-fbv6a4pPfpdVABnUc6rJsQIaXSHYoGVmgcs2FfSxvdFXDMvci3YErstRqScCF6RPJ0qo4Pz8kWLgKkOte0Hb-fDlp5uch3I_55Po35_1_X2fj7prtMBySBNPPo20Zlnrhwsgp9cOM.CbG88IY5ZH7ehPeQIvC04StUpdQrya61aNZiHsI0rFo&dib_tag=se&keywords=bluepet%2Btierhaarentferner&qid=1788509516&sprefix=BLUEPET%2BTierhaa%2Caps%2C154&sr=8-1-spons&aref=EE9YfO5k7H&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=askthedogs-21&linkId=0bb0e737d956776cdf8aba0f6c9b11b3&ref_=as_li_ss_tl",
+    "pageTitle": "Luna empfiehlt: BluePet Tierhaarentferner – ASK THE DOGS"
+  },
+  {
+    "id": "pfotentrimmer",
+    "dogKey": "frida",
+    "dogName": "Frida",
+    "dogBreed": "Riesenschnauzer, Senior",
+    "quote": "Heute stehe ich wie ein Fels auf meinen vier Pfoten.",
+    "productImg": "assets/pfotentrimmer.jpg",
+    "productName": "oneisall Pfotentrimmer für Hunde",
+    "productSub": "2 Geschwindigkeitsstufen, wasserdicht, USB-C",
+    "reasons": [
+      "Schert Haare zwischen den Pfotenballen sicher und geräuscharm (49 dB)",
+      "Wasserdicht, kabellos und dank USB-C in 2 Stunden einsatzbereit",
+      "Vibrationsarm und leise – auch für unsichere Hunde gut geeignet"
+    ],
+    "link": "https://www.amazon.de/oneisall-Schermaschine-Pfotenschermaschine-Pfotentrimmer-Hundeschermaschine/dp/B093GB3CCW?pd_rd_w=0DMjM&content-id=amzn1.sym.bbac26bb-3f7b-44dd-a8a5-c10fcfb1ed60%3Aamzn1.symc.30e3dbb4-8dd8-4bad-b7a1-a45bcdbc49b8&pf_rd_p=bbac26bb-3f7b-44dd-a8a5-c10fcfb1ed60&pf_rd_r=7M4F0W8KQF33PQ0DCWAH&pd_rd_wg=faXZy&pd_rd_r=4ea56ac9-8d53-4e7b-b0f2-d821108de12e&pd_rd_i=B093GB3CCW&th=1&linkCode=ll2&tag=askthedogs-21&linkId=2fa1bd1af4b2ef8cf4a41978d578e7ef&ref_=as_li_ss_tl",
+    "pageTitle": "Frida empfiehlt: oneisall Pfotentrimmer – ASK THE DOGS"
   }
 ];

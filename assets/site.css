@@ -111,9 +111,11 @@ a{ color:inherit; }
   background:var(--forest);
   color:var(--white) !important;
   border:none !important;
-  padding:8px 14px;
+  padding:8px 14px 8px 14px !important;
+  border-bottom:none !important;
   border-radius:999px;
   font-weight:700 !important;
+  line-height:1;
 }
 
 /* ---------- Breadcrumb ---------- */

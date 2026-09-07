@@ -247,7 +247,7 @@ const EMPFEHLUNGEN = [
     "dogName": "Roqsy",
     "dogBreed": "Bolonka Zwetna",
     "quote": "Das ist fast wie entspanntes Streicheln.",
-    "productImg": "assets/hundeschermaschine.jpg",
+    "productImg": "assets/schermaschine.jpg",
     "productName": "oneisall Hundeschermaschine",
     "productSub": "6 Kammaufsätze, leise, für langes Fell",
     "reasons": [

@@ -240,5 +240,22 @@ const EMPFEHLUNGEN = [
     ],
     "link": "https://www.amazon.de/oneisall-Schermaschine-Pfotenschermaschine-Pfotentrimmer-Hundeschermaschine/dp/B093GB3CCW?pd_rd_w=0DMjM&content-id=amzn1.sym.bbac26bb-3f7b-44dd-a8a5-c10fcfb1ed60%3Aamzn1.symc.30e3dbb4-8dd8-4bad-b7a1-a45bcdbc49b8&pf_rd_p=bbac26bb-3f7b-44dd-a8a5-c10fcfb1ed60&pf_rd_r=7M4F0W8KQF33PQ0DCWAH&pd_rd_wg=faXZy&pd_rd_r=4ea56ac9-8d53-4e7b-b0f2-d821108de12e&pd_rd_i=B093GB3CCW&th=1&linkCode=ll2&tag=askthedogs-21&linkId=2fa1bd1af4b2ef8cf4a41978d578e7ef&ref_=as_li_ss_tl",
     "pageTitle": "Frida empfiehlt: oneisall Pfotentrimmer – ASK THE DOGS"
+  },
+  {
+    "id": "hundeschermaschine",
+    "dogKey": "roqsy",
+    "dogName": "Roqsy",
+    "dogBreed": "Bolonka Zwetna",
+    "quote": "Das ist fast wie entspanntes Streicheln.",
+    "productImg": "assets/hundeschermaschine.jpg",
+    "productName": "oneisall Hundeschermaschine",
+    "productSub": "6 Kammaufsätze, leise, für langes Fell",
+    "reasons": [
+      "Extra leise – kein stressiges Surren, ideal für sensible Hunde",
+      "6 Kammaufsätze für unterschiedliche Fellhöhen, plus Kamm und Schere im Set",
+      "Akkubetrieben mit LED-Anzeige, zuverlässig auch bei dichtem oder lockigem Fell"
+    ],
+    "link": "https://www.amazon.de/dp/B0F1ZTQY9J?psc=1&pd_rd_i=B0F1ZTQY9J&pd_rd_w=Fu6s2&content-id=amzn1.sym.a638e6fd-a5ee-48b3-bb72-755f74d4d946&pf_rd_p=a638e6fd-a5ee-48b3-bb72-755f74d4d946&pf_rd_r=GHYRR4YAKSAF9FHW183V&pd_rd_wg=mnNT8&pd_rd_r=541aa1f0-7fbe-455c-afc9-b0011913181f&aref=Z1ZY6tzZKI&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM&linkCode=ll2&tag=askthedogs-21&linkId=4d09d9ffc9197b99481088d3cd23fb88&ref_=as_li_ss_tl",
+    "pageTitle": "Roqsy empfiehlt: oneisall Hundeschermaschine – ASK THE DOGS"
   }
 ];

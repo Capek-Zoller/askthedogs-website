@@ -257,5 +257,22 @@ const EMPFEHLUNGEN = [
     ],
     "link": "https://www.amazon.de/dp/B0F1ZTQY9J?psc=1&pd_rd_i=B0F1ZTQY9J&pd_rd_w=Fu6s2&content-id=amzn1.sym.a638e6fd-a5ee-48b3-bb72-755f74d4d946&pf_rd_p=a638e6fd-a5ee-48b3-bb72-755f74d4d946&pf_rd_r=GHYRR4YAKSAF9FHW183V&pd_rd_wg=mnNT8&pd_rd_r=541aa1f0-7fbe-455c-afc9-b0011913181f&aref=Z1ZY6tzZKI&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM&linkCode=ll2&tag=askthedogs-21&linkId=4d09d9ffc9197b99481088d3cd23fb88&ref_=as_li_ss_tl",
     "pageTitle": "Roqsy empfiehlt: oneisall Hundeschermaschine – ASK THE DOGS"
+  },
+  {
+    "id": "anti-schling-napf",
+    "dogKey": "louis",
+    "dogName": "Louis",
+    "dogBreed": "Französische Bulldogge",
+    "quote": "Jeder Happen muss erobert werden – mon Dieu!",
+    "productImg": "assets/anti-schling-napf.jpg",
+    "productName": "OHMO Anti-Schling-Napf",
+    "productSub": "spülmaschinenfest, für langsameres Fressen",
+    "reasons": [
+      "Verlangsamt das Fressen um bis zu das Zehnfache – bessere Verdauung, weniger Blähbauch",
+      "Bereichert die Mahlzeit durch interaktives 'Erobern' jedes Happens",
+      "Spülmaschinenfest und ohne Krümel-Chaos nach dem Essen"
+    ],
+    "link": "https://www.amazon.de/OHMO-Schling-Katzen-Feeder-Hellgrün/dp/B0DBZK3M8Z?dib=eyJ2IjoiMSJ9.0gXILd3pm5TNHg9DJJfa83e8N-_tETMQ6fWaXkKrkEH0NO6WqYUvCMMoTGHy_mWN4NJtugkBLzAouEvhgK4kzpZelwzcZre8urHxsr82rzQuTHg2miOIOLgR7M6M4bs2TB_On0Bc86z0tBR5NYQxu01gN0Z7Ubic-9AwMwVoju310AkPqxY-MCME-S0V5CmTuVt_zB6OO9xeFjWtF3c4K_pZmr5GVpG56r1epVfoFo1tmDbZL3Kzh62pJP2gqlLsslbsYjAY9FS3stHuCIC7OOoiZOjKbKD0K28LiNABARc.akczEl_jTVAs46QEU6oEpRBvguoKoil4PvDgELzC0A0&dib_tag=se&keywords=antischlingnapf&qid=1789330072&sr=8-7&th=1&linkCode=ll2&tag=askthedogs-21&linkId=b8d36483dcce91736725ad47a6f24ceb&ref_=as_li_ss_tl",
+    "pageTitle": "Louis empfiehlt: OHMO Anti-Schling-Napf – ASK THE DOGS"
   }
 ];

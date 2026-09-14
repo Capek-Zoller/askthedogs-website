@@ -274,5 +274,22 @@ const EMPFEHLUNGEN = [
     ],
     "link": "https://www.amazon.de/OHMO-Schling-Katzen-Feeder-Hellgrün/dp/B0DBZK3M8Z?dib=eyJ2IjoiMSJ9.0gXILd3pm5TNHg9DJJfa83e8N-_tETMQ6fWaXkKrkEH0NO6WqYUvCMMoTGHy_mWN4NJtugkBLzAouEvhgK4kzpZelwzcZre8urHxsr82rzQuTHg2miOIOLgR7M6M4bs2TB_On0Bc86z0tBR5NYQxu01gN0Z7Ubic-9AwMwVoju310AkPqxY-MCME-S0V5CmTuVt_zB6OO9xeFjWtF3c4K_pZmr5GVpG56r1epVfoFo1tmDbZL3Kzh62pJP2gqlLsslbsYjAY9FS3stHuCIC7OOoiZOjKbKD0K28LiNABARc.akczEl_jTVAs46QEU6oEpRBvguoKoil4PvDgELzC0A0&dib_tag=se&keywords=antischlingnapf&qid=1789330072&sr=8-7&th=1&linkCode=ll2&tag=askthedogs-21&linkId=b8d36483dcce91736725ad47a6f24ceb&ref_=as_li_ss_tl",
     "pageTitle": "Louis empfiehlt: OHMO Anti-Schling-Napf – ASK THE DOGS"
+  },
+  {
+    "id": "augenpflege-pads",
+    "dogKey": "felix",
+    "dogName": "Felix",
+    "dogBreed": "West Highland White Terrier",
+    "quote": "Ich bin wieder schneeweiß im Gesicht – wie sich das gehört, hihi.",
+    "productImg": "assets/augenpflege-pads.jpg",
+    "productName": "Canosept Augenpflege-Pads",
+    "productSub": "100 Stück, mit Aloe Vera, entfernt Tränenflecken",
+    "reasons": [
+      "Entfernt Rostspuren und Tränenflecken zuverlässig und sanft",
+      "Mit beruhigendem Aloe-Vera-Extrakt für die empfindliche Augenpartie",
+      "Fertig getränkte Pads – schnell und einfach, kein Einweichen nötig"
+    ],
+    "link": "https://www.amazon.de/Canosept-Augenpflege-Pads-Fingerlinge-Augenumfelds-Tränenstein/dp/B07RHNTGZW?th=1&linkCode=ll2&tag=askthedogs-21&linkId=8ea51510035eaf476027173fd78dab14&ref_=as_li_ss_tl",
+    "pageTitle": "Felix empfiehlt: Canosept Augenpflege-Pads – ASK THE DOGS"
   }
 ];

@@ -285,7 +285,7 @@ const EMPFEHLUNGEN = [
     "productName": "Canosept Augenpflege-Pads",
     "productSub": "100 Stück, mit Aloe Vera, entfernt Tränenflecken",
     "reasons": [
-      "Entfernt Rostspuren und Tränenflecken zuverlässig und sanft",
+      "Entfernt Tränenflecken zuverlässig und sanft",
       "Mit beruhigendem Aloe-Vera-Extrakt für die empfindliche Augenpartie",
       "Fertig getränkte Pads – schnell und einfach, kein Einweichen nötig"
     ],

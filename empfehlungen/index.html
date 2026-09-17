@@ -46,18 +46,20 @@
   const grid = document.getElementById('card-grid');
   // .slice().reverse() zeigt die neueste Empfehlung zuerst (Datenliste ist chronologisch, älteste zuerst)
   EMPFEHLUNGEN.slice().reverse().forEach(e => {
-    const a = document.createElement('a');
-    a.className = 'p-card';
-    a.href = 'produkt.html?p=' + encodeURIComponent(e.id);
-    a.innerHTML = `
-      <img src="${e.productImg}" alt="${e.productName}">
-      <div class="body">
-        <div class="who">${e.dogName} empfiehlt</div>
-        <h3>${e.productName}</h3>
-        <div class="price">${e.productSub}</div>
-      </div>
+    const card = document.createElement('div');
+    card.className = 'p-card';
+    card.innerHTML = `
+      <a class="p-card-link" href="produkt.html?p=${encodeURIComponent(e.id)}">
+        <img src="${e.productImg}" alt="${e.productName}">
+        <div class="body">
+          <div class="who">${e.dogName} empfiehlt</div>
+          <h3>${e.productName}</h3>
+          <div class="price">${e.productSub}</div>
+        </div>
+      </a>
+      <a class="p-card-cta" href="${e.link}" target="_blank" rel="noopener sponsored">Jetzt auf Amazon</a>
     `;
-    grid.appendChild(a);
+    grid.appendChild(card);
   });
 </script>
 

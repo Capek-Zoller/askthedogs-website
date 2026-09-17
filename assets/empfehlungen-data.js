@@ -291,5 +291,22 @@ const EMPFEHLUNGEN = [
     ],
     "link": "https://www.amazon.de/Canosept-Augenpflege-Pads-Fingerlinge-Augenumfelds-Tränenstein/dp/B07RHNTGZW?th=1&linkCode=ll2&tag=askthedogs-21&linkId=8ea51510035eaf476027173fd78dab14&ref_=as_li_ss_tl",
     "pageTitle": "Felix empfiehlt: Canosept Augenpflege-Pads – ASK THE DOGS"
+  },
+  {
+    "id": "hundemantel",
+    "dogKey": "louis",
+    "dogName": "Louis",
+    "dogBreed": "Französische Bulldogge",
+    "quote": "Außen wetterfest, innen weich und warm – c'est parfait!",
+    "productImg": "assets/hundemantel.jpg",
+    "productName": "LUOWAN Hundemantel mit Geschirr",
+    "productSub": "wasserdicht, mit integriertem Geschirr und Reißverschluss",
+    "reasons": [
+      "Wasserdicht außen, weich gefüttert innen – hält auch bei kaltem Herbstregen warm",
+      "Geschirr und Reißverschluss fix eingebaut – kein separates Anziehen nötig",
+      "Weiter Brustschnitt, passt auch breiteren Rassen wie Französischen Bulldoggen"
+    ],
+    "link": "https://www.amazon.de/LUOWAN-Hundemantel-Französische-Hundegeschirr-Verschiedene/dp/B08YDQYJ9F?th=1&linkCode=ll2&tag=askthedogs-21&linkId=f97abc29cb9c76ec1b7a83e1f8eed06d&ref_=as_li_ss_tl",
+    "pageTitle": "Louis empfiehlt: LUOWAN Hundemantel – ASK THE DOGS"
   }
 ];

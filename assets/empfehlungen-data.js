@@ -55,23 +55,6 @@ const EMPFEHLUNGEN = [
     "pageTitle": "Luna empfiehlt: Hunde-Transportbox – ASK THE DOGS"
   },
   {
-    "id": "natur-shampoo",
-    "dogKey": "felix",
-    "dogName": "Felix",
-    "dogBreed": "West Highland White Terrier",
-    "quote": "Nach dem Schlammloch ist vor dem Kuscheln.",
-    "productImg": "assets/natur-shampoo.jpg",
-    "productName": "ROQSY Natur-Hundeshampoo",
-    "productSub": "mild, für empfindliche Haut",
-    "reasons": [
-      "Mild und natürlich – ganz ohne Hautjucken",
-      "Wäscht auch hartnäckigen Schlammloch-Duft zuverlässig raus",
-      "Sanfte Formel, die Fell und Haut nicht austrocknet"
-    ],
-    "link": "https://www.amazon.de/dp/B07FPMXDRD?th=1&linkCode=ll2&tag=askthedogs-21&linkId=6f37093b0b2a875548b1f5c3e521fc1c&ref_=as_li_ss_tl",
-    "pageTitle": "Felix empfiehlt: Natur-Hundeshampoo – ASK THE DOGS"
-  },
-  {
     "id": "hunderampe",
     "dogKey": "frida",
     "dogName": "Frida",
@@ -308,5 +291,22 @@ const EMPFEHLUNGEN = [
     ],
     "link": "https://www.amazon.de/BEDSURE-orthop%C3%A4disches-Hundebett-Grosse-Hunde/dp/B07QW4X9PY?dib=eyJ2IjoiMSJ9.yKn5GQybW1mwdssIR9ATDFvArMPzGDA7wkI764lsl_H0AX4tRkfAwm6M-J0WMbgHeTuNEHPxuiwcN3QfzUatwXBE4m1i1tpvl7-bsG_R2_0ZthqZNt6sVy3Hcv4CvlQv8MMJM-fK_Fs3PFp-EhWCgG5CZNSAQ9BoqBKUbgpXoU8J0m0DIUBt62UflUho1VcwZgcHC-bKrGuxUJHq5d0BJ56EesAcUwLQZJsc9pxCD6y045LMywUP1fHTLRdUJ8Jr_mOPaKSX0WPE1BBFwOmPzAOKCYbYi2UzDYUmaDKD0AE.td7JzMbohef4XhRcQHDFAlSSLlVcTChSaxORpVNBstc&dib_tag=se&keywords=bedsure&qid=1787236505&sr=8-3-spons&aref=ZCQYGjTiCq&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=askthedogs-21&linkId=202353c96e28891b6bc377f71c0cf2ba&ref_=as_li_ss_tl",
     "pageTitle": "Frida empfiehlt: Orthopädisches Hundebett – ASK THE DOGS"
+  },
+  {
+    "id": "natur-shampoo",
+    "dogKey": "felix",
+    "dogName": "Felix",
+    "dogBreed": "West Highland White Terrier",
+    "quote": "Nach dem Schlammloch ist vor dem Kuscheln.",
+    "productImg": "assets/natur-shampoo.jpg",
+    "productName": "ROQSY Natur-Hundeshampoo",
+    "productSub": "mild, für empfindliche Haut",
+    "reasons": [
+      "Mild und natürlich – ganz ohne Hautjucken",
+      "Wäscht auch hartnäckigen Schlammloch-Duft zuverlässig raus",
+      "Sanfte Formel, die Fell und Haut nicht austrocknet"
+    ],
+    "link": "https://www.amazon.de/dp/B07FPMXDRD?th=1&linkCode=ll2&tag=askthedogs-21&linkId=6f37093b0b2a875548b1f5c3e521fc1c&ref_=as_li_ss_tl",
+    "pageTitle": "Felix empfiehlt: Natur-Hundeshampoo – ASK THE DOGS"
   }
 ];

@@ -308,5 +308,22 @@ const EMPFEHLUNGEN = [
     ],
     "link": "https://www.amazon.de/dp/B07FPMXDRD?th=1&linkCode=ll2&tag=askthedogs-21&linkId=6f37093b0b2a875548b1f5c3e521fc1c&ref_=as_li_ss_tl",
     "pageTitle": "Felix empfiehlt: Natur-Hundeshampoo – ASK THE DOGS"
+  },
+  {
+    "id": "ivvi-probiotic",
+    "dogKey": "roqsy",
+    "dogName": "Roqsy",
+    "dogBreed": "Bolonka Zwetna",
+    "quote": "Kein Sodbrennen mehr – einfach Ruhe im Bauch!",
+    "productImg": "assets/ivvi-probiotic.jpg",
+    "productName": "ivvi PROBIOTIC Hunde-Leckerli",
+    "productSub": "mit Bacillus Subtilis & Enterococcus Faecium, für die Verdauung",
+    "reasons": [
+      "Reguliert die Darmflora mit 2 Probiotikastämmen (Bacillus Subtilis & Enterococcus Faecium)",
+      "Reich an Kürbisfleisch, Leinsamen und Hafer für eine gesunde Verdauung",
+      "Als tägliches Leckerli einfach zu füttern – keine Kapseln oder Pulver nötig"
+    ],
+    "link": "https://www.amazon.de/ivvi-PROBIOTIC-Hunde-Probiotika-Leckerli/dp/B0BC2B6K5B?crid=39OS9ABCBYXQL&dib=eyJ2IjoiMSJ9.-h-SVq6JfpE5S9o0VrreV9iW_IxKts619SmWP5YfxGO1vzVE-RM8lDBq0xTIjZqIuf6OjZvYt4OZIwNwdId37Ta0-lN2fF03f9zPHo5SJcb6JCApbzEcAuZSG3t-vtsHORNeEGqX3pn5Sk_II053ak5vA7GfYdtUZf5YAdDan89niByYmqaYOjTKUO17ADx9P3VXfopxtUOLsymIzNhfKJoXcAI8SF75Ryb_iq2-l_CL6iPT_dvs_IYne5G7KyzIkgSH6mK9LGfFgHVebPKTK7V3D7a9OR_ZV4Fj1_qQ_2M.zW6NNqveq1anap8WgR7JvI1DP87T6TeYkfGa_A6dhfU&dib_tag=se&keywords=ivvi%2Bprobiotic%2Bhunde%2Bprobiotika&qid=1790332851&sprefix=ivvi%2Caps%2C150&sr=8-1-spons&aref=haspi8KXlz&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=askthedogs-21&linkId=1f174e8f0ac35d51117c11b812290692&ref_=as_li_ss_tl",
+    "pageTitle": "Roqsy empfiehlt: ivvi PROBIOTIC – ASK THE DOGS"
   }
 ];

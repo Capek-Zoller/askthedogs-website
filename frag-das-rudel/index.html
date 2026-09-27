@@ -34,60 +34,7 @@
 </div>
 
 <div class="card-grid" id="grid">
-
-  <a class="q-card" data-cats="verhalten" href="warum-dreht-sich-mein-hund-im-kreis.html">
-    <div class="who">
-      <img src="../assets/felix.png" alt="Felix">
-      <span>Felix antwortet</span>
-    </div>
-    <h3>Warum dreht sich mein Hund im Kreis, bevor er sich hinlegt?</h3>
-    <p>Ein uralter Instinkt aus der Wildnis – erklärt von jemandem, der ihn immer noch nicht abgelegt hat.</p>
-    <div class="tag-row"><span class="tag">Verhalten</span></div>
-  </a>
-
-  <a class="q-card" data-cats="angst koerpersprache" href="warum-hat-mein-hund-angst-bei-gewitter.html">
-    <div class="who">
-      <img src="../assets/roqsy.png" alt="Roqsy">
-      <span>Roqsy antwortet</span>
-    </div>
-    <h3>Warum hat mein Hund solche Angst bei Gewitter?</h3>
-    <p>Roqsy kennt das Problem aus erster Pfote – und erklärt, was Frauchen dabei geholfen hat, es wirklich zu verstehen.</p>
-    <div class="tag-row"><span class="tag">Angst &amp; Stress</span><span class="tag">Körpersprache</span></div>
-  </a>
-
-  <a class="q-card" data-cats="koerpersprache" href="warum-legt-mein-hund-den-kopf-schief.html">
-    <div class="who">
-      <img src="../assets/luna.png" alt="Luna">
-      <span>Luna antwortet</span>
-    </div>
-    <h3>Warum legt mein Hund den Kopf schief, wenn ich mit ihm rede?</h3>
-    <p>Luna erklärt, was im Kopf passiert, wenn ein Wort mal nicht zum Alltag gehört.</p>
-    <div class="tag-row"><span class="tag">Körpersprache</span></div>
-  </a>
-
-  <a class="q-card" data-cats="pflege" href="warum-schlaeft-mein-hund-im-alter-mehr.html">
-    <div class="who">
-      <img src="../assets/frida.png" alt="Frida">
-      <span>Frida antwortet</span>
-    </div>
-    <h3>Warum schläft mein Hund im Alter so viel mehr?</h3>
-    <p>Frida erklärt, was bei Senior-Hunden normal ist – und was beim Schlafen wirklich hilft.</p>
-    <div class="tag-row"><span class="tag">Pflege</span></div>
-  </a>
-
-  <a class="q-card" data-cats="verhalten" href="warum-wedelt-mein-hund-beim-fressen.html">
-    <div class="who">
-      <img src="../assets/louis.png" alt="Louis">
-      <span>Louis antwortet</span>
-    </div>
-    <h3>Warum wedelt mein Hund beim Fressen mit dem Schwanz?</h3>
-    <p>Louis verrät, was hinter dem wedelnden Schwanz beim Napf wirklich steckt.</p>
-    <div class="tag-row"><span class="tag">Verhalten</span></div>
-  </a>
-
-  <!-- Neue Frage hinzufügen: diesen ganzen <a class="q-card">-Block kopieren,
-       Bild/Namen/Titel/Text/data-cats/href anpassen, fertig. -->
-
+  <!-- wird automatisch aus assets/frag-das-rudel-data.js befüllt -->
 </div>
 
 <footer class="site-footer">
@@ -102,16 +49,37 @@
   </div>
 </footer>
 
+<script src="../assets/frag-das-rudel-data.js"></script>
 <script>
+  const grid = document.getElementById('grid');
+  // .slice().reverse() zeigt die neueste Antwort zuerst (Datenliste ist chronologisch, älteste zuerst)
+  FRAGEN.slice().reverse().forEach(f => {
+    const catKeys = f.tags.map(t => t.key).join(' ');
+    const tagsHtml = f.tags.map(t => `<span class="tag">${t.label}</span>`).join('');
+    const a = document.createElement('a');
+    a.className = 'q-card';
+    a.dataset.cats = catKeys;
+    a.href = f.id + '.html';
+    a.innerHTML = `
+      <div class="who">
+        <img src="../assets/${f.dogKey}.png" alt="${f.dogName}">
+        <span>${f.dogName} antwortet</span>
+      </div>
+      <h3>${f.title}</h3>
+      <p>${f.teaser}</p>
+      <div class="tag-row">${tagsHtml}</div>
+    `;
+    grid.appendChild(a);
+  });
+
   // Simple client-side filter — no backend needed.
   const pills = document.querySelectorAll('.filter-pill');
-  const cards = document.querySelectorAll('.q-card');
   pills.forEach(pill => {
     pill.addEventListener('click', () => {
       pills.forEach(p => p.classList.remove('is-active'));
       pill.classList.add('is-active');
       const filter = pill.dataset.filter;
-      cards.forEach(card => {
+      document.querySelectorAll('.q-card').forEach(card => {
         const cats = card.dataset.cats || '';
         card.style.display = (filter === 'alle' || cats.includes(filter)) ? '' : 'none';
       });

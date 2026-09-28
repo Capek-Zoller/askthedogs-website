@@ -325,5 +325,22 @@ const EMPFEHLUNGEN = [
     ],
     "link": "https://www.amazon.de/ivvi-PROBIOTIC-Hunde-Probiotika-Leckerli/dp/B0BC2B6K5B?crid=39OS9ABCBYXQL&dib=eyJ2IjoiMSJ9.-h-SVq6JfpE5S9o0VrreV9iW_IxKts619SmWP5YfxGO1vzVE-RM8lDBq0xTIjZqIuf6OjZvYt4OZIwNwdId37Ta0-lN2fF03f9zPHo5SJcb6JCApbzEcAuZSG3t-vtsHORNeEGqX3pn5Sk_II053ak5vA7GfYdtUZf5YAdDan89niByYmqaYOjTKUO17ADx9P3VXfopxtUOLsymIzNhfKJoXcAI8SF75Ryb_iq2-l_CL6iPT_dvs_IYne5G7KyzIkgSH6mK9LGfFgHVebPKTK7V3D7a9OR_ZV4Fj1_qQ_2M.zW6NNqveq1anap8WgR7JvI1DP87T6TeYkfGa_A6dhfU&dib_tag=se&keywords=ivvi%2Bprobiotic%2Bhunde%2Bprobiotika&qid=1790332851&sprefix=ivvi%2Caps%2C150&sr=8-1-spons&aref=haspi8KXlz&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=askthedogs-21&linkId=1f174e8f0ac35d51117c11b812290692&ref_=as_li_ss_tl",
     "pageTitle": "Roqsy empfiehlt: ivvi PROBIOTIC – ASK THE DOGS"
+  },
+  {
+    "id": "snackball",
+    "dogKey": "luna",
+    "dogName": "Luna",
+    "dogBreed": "Golden Retriever",
+    "quote": "Seit ich diesen Snack-Ball hab, bin ich glücklich!",
+    "productImg": "assets/snackball.jpg",
+    "productName": "PawsOnly Snack-Ball",
+    "productSub": "Größe L, zum Befüllen mit Futter und Kaustangen",
+    "reasons": [
+      "Beschäftigung, wenn der Hund allein zu Hause ist – die Zeit vergeht wie im Flug",
+      "Lässt sich mit Trockenfutter oder Leckerlis befüllen",
+      "Auch Kaustangen passen hinein – so wird Kauen zum Spiel"
+    ],
+    "link": "https://link.amazon/B0fTPF9AY",
+    "pageTitle": "Luna empfiehlt: PawsOnly Snack-Ball – ASK THE DOGS"
   }
 ];

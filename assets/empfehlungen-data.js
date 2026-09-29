@@ -351,7 +351,7 @@ const EMPFEHLUNGEN = [
     "quote": "Sehr bequem – ich kann hecheln, trinken und sogar Leckerlis nehmen.",
     "productImg": "assets/baskerville-maulkorb.jpg",
     "productName": "Baskerville Ultra Maulkorb",
-    "productSub": "Größe 5, formbar mit warmem Wasser",
+    "productSub": "Größe 5, ermöglicht Hecheln und Trinken",
     "reasons": [
       "Patentiertes Design ermöglicht Hecheln und Trinken – auch bei Hitze oder Stress",
       "Mit warmem Wasser individuell an die Schnauzenform anpassbar",

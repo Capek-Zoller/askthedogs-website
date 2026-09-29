@@ -342,5 +342,22 @@ const EMPFEHLUNGEN = [
     ],
     "link": "https://link.amazon/B0fTPF9AY",
     "pageTitle": "Luna empfiehlt: PawsOnly Snack-Ball – ASK THE DOGS"
+  },
+  {
+    "id": "maulkorb-baskerville",
+    "dogKey": "frida",
+    "dogName": "Frida",
+    "dogBreed": "Riesenschnauzer, Senior",
+    "quote": "Sehr bequem – ich kann hecheln, trinken und sogar Leckerlis nehmen.",
+    "productImg": "assets/baskerville-maulkorb.jpg",
+    "productName": "Baskerville Ultra Maulkorb",
+    "productSub": "Größe 5, formbar, für Bergtouren geeignet",
+    "reasons": [
+      "Hunde können damit hecheln, fressen und trinken – auch auf langen Touren",
+      "Individuell formbar, in 6 Größen und 4 Farben erhältlich",
+      "Erfüllt die Maulkorbpflicht in den Bergbahnen, ohne die Bewegungsfreiheit einzuschränken"
+    ],
+    "link": "https://www.amazon.de/Baskerville-ULTRA-Maulkorb-Patentierter-Hunderassen/dp/B0051H45GC?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=JDJNYB1H27IA&dib=eyJ2IjoiMSJ9.fwFJI-PGVVXOFagZFRKxp4NlHLWpwTGDYGaTlAnRc16cSft9xbMwNn_NvUiOgfbThT9CjAYZylx32VG_XAt559JmsUM08MNSXJ2lANy8YgDxxwhf9sBF_B4ojthFGTFdXWqos-VFOfetiE8Y0SXZ6UPrx9rinAXbvqKTmNUuTKaFaQJIEOsxK4O5L0Rp9Hm_gW1DMkTKa7cN-zWoJ_ClaRxDwAjmblcJJbmKeDFjA9GOGoZMzrhoEntkDtQsfOnf5hsPrNnNk-0GpnYnyyJLsam_Agkrc5aReX-MwsYny58.27WmkY01cgWaS1Svpk2-J16q0EdlCDtv4SOvy4uQtaE&dib_tag=se&keywords=baskerville%2Bultra&qid=1790681676&s=pet-supplies&sprefix=baskerville%2Bultra%2Cpets%2C191&sr=1-1&th=1&linkCode=ll2&tag=askthedogs-21&linkId=74695b64d8dddfedf325badf04590349&ref_=as_li_ss_tl",
+    "pageTitle": "Frida empfiehlt: Baskerville Ultra Maulkorb – ASK THE DOGS"
   }
 ];

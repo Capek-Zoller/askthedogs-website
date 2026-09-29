@@ -351,7 +351,7 @@ const EMPFEHLUNGEN = [
     "quote": "Sehr bequem – ich kann hecheln, trinken und sogar Leckerlis nehmen.",
     "productImg": "assets/baskerville-maulkorb.jpg",
     "productName": "Baskerville Ultra Maulkorb",
-    "productSub": "Größe 5, formbar, für Bergtouren geeignet",
+    "productSub": "Größe 5, formbar",
     "reasons": [
       "Hunde können damit hecheln, fressen und trinken – auch auf langen Touren",
       "Individuell formbar, in 6 Größen und 4 Farben erhältlich",

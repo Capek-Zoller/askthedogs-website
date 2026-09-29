@@ -300,7 +300,7 @@ const EMPFEHLUNGEN = [
     "quote": "Nach dem Schlammloch ist vor dem Kuscheln.",
     "productImg": "assets/natur-shampoo.jpg",
     "productName": "ROQSY Natur-Hundeshampoo",
-    "productSub": "mild, für empfindliche Haut",
+    "productSub": "Vegan, pH-neutral, mild, für empfindliche Haut",
     "reasons": [
       "Mild und natürlich – ganz ohne Hautjucken",
       "Wäscht auch hartnäckigen Schlammloch-Duft zuverlässig raus",
@@ -317,7 +317,7 @@ const EMPFEHLUNGEN = [
     "quote": "Kein Sodbrennen mehr – einfach Ruhe im Bauch!",
     "productImg": "assets/ivvi-probiotic.jpg",
     "productName": "ivvi PROBIOTIC Hunde-Leckerli",
-    "productSub": "mit Bacillus Subtilis & Enterococcus Faecium, für die Verdauung",
+    "productSub": "mit Bacillus Subtilis & Enterococcus Faecium, gegen Sodbrennen",
     "reasons": [
       "Reguliert die Darmflora mit 2 Probiotikastämmen (Bacillus Subtilis & Enterococcus Faecium)",
       "Reich an Kürbisfleisch, Leinsamen und Hafer für eine gesunde Verdauung",
@@ -351,7 +351,7 @@ const EMPFEHLUNGEN = [
     "quote": "Sehr bequem – ich kann hecheln, trinken und sogar Leckerlis nehmen.",
     "productImg": "assets/baskerville-maulkorb.jpg",
     "productName": "Baskerville Ultra Maulkorb",
-    "productSub": "Größe 5, ermöglicht Hecheln und Trinken",
+    "productSub": "Größe 5, formbar, ermöglicht Hecheln und Trinken",
     "reasons": [
       "Patentiertes Design ermöglicht Hecheln und Trinken – auch bei Hitze oder Stress",
       "Mit warmem Wasser individuell an die Schnauzenform anpassbar",

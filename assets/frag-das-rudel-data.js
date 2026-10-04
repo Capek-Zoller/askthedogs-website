@@ -53,5 +53,15 @@ const FRAGEN = [
     "tags": [
       { "key": "verhalten", "label": "Verhalten" }
     ]
+  },
+  {
+    "id": "warum-wandert-mein-hund-nachts-durchs-haus",
+    "dogKey": "frida",
+    "dogName": "Frida",
+    "title": "Warum wandert mein älterer Hund nachts durchs Haus?",
+    "teaser": "Frida erklärt, was hinter der nächtlichen Unruhe steckt – und wann der Tierarzt gefragt ist.",
+    "tags": [
+      { "key": "verhalten", "label": "Verhalten" }
+    ]
   }
 ];

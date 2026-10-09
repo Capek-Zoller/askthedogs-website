@@ -359,5 +359,22 @@ const EMPFEHLUNGEN = [
     ],
     "link": "https://www.amazon.de/Baskerville-ULTRA-Maulkorb-Patentierter-Hunderassen/dp/B0051H45GC?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=JDJNYB1H27IA&dib=eyJ2IjoiMSJ9.fwFJI-PGVVXOFagZFRKxp4NlHLWpwTGDYGaTlAnRc16cSft9xbMwNn_NvUiOgfbThT9CjAYZylx32VG_XAt559JmsUM08MNSXJ2lANy8YgDxxwhf9sBF_B4ojthFGTFdXWqos-VFOfetiE8Y0SXZ6UPrx9rinAXbvqKTmNUuTKaFaQJIEOsxK4O5L0Rp9Hm_gW1DMkTKa7cN-zWoJ_ClaRxDwAjmblcJJbmKeDFjA9GOGoZMzrhoEntkDtQsfOnf5hsPrNnNk-0GpnYnyyJLsam_Agkrc5aReX-MwsYny58.27WmkY01cgWaS1Svpk2-J16q0EdlCDtv4SOvy4uQtaE&dib_tag=se&keywords=baskerville%2Bultra&qid=1790681676&s=pet-supplies&sprefix=baskerville%2Bultra%2Cpets%2C191&sr=1-1&th=1&linkCode=ll2&tag=askthedogs-21&linkId=74695b64d8dddfedf325badf04590349&ref_=as_li_ss_tl",
     "pageTitle": "Frida empfiehlt: Baskerville Ultra Maulkorb – ASK THE DOGS"
-  },{"id": "kong-senior", "dogKey": "louis", "dogName": "Louis", "dogBreed": "Französische Bulldogge", "quote": "Ich muss es nur durch die Gegend rollen – dann fallen die Leckerlies raus!", "productImg": "assets/kong-senior.jpg", "productName": "KONG Senior Hundespielzeug", "productSub": "Größe M, hüpft unberechenbar, befüllbar mit Leckerlies", "reasons": ["Der unregelmäßige Hüpfer sorgt für Bewegung und Spaß beim Spielen und Apportieren", "Mit Leckerlies und Futter befüllbar – das beschäftigt jeden Feinschmecker", "Weicher Naturkautschuk, sanft zu Zähnen und Zahnfleisch"], "link": "https://www.amazon.de/Kong-Hundespielzeug-Senior-Gr-M/dp/B000S6O49O?th=1&linkCode=ll2&tag=askthedogs-21&linkId=43738e8ae2d0b4c17ca7d5d17e822dd3", "pageTitle": "Louis empfiehlt: KONG Senior Hundespielzeug – ASK THE DOGS"}
+  },{"id": "kong-senior", "dogKey": "louis", "dogName": "Louis", "dogBreed": "Französische Bulldogge", "quote": "Ich muss es nur durch die Gegend rollen – dann fallen die Leckerlies raus!", "productImg": "assets/kong-senior.jpg", "productName": "KONG Senior Hundespielzeug", "productSub": "Größe M, hüpft unberechenbar, befüllbar mit Leckerlies", "reasons": ["Der unregelmäßige Hüpfer sorgt für Bewegung und Spaß beim Spielen und Apportieren", "Mit Leckerlies und Futter befüllbar – das beschäftigt jeden Feinschmecker", "Weicher Naturkautschuk, sanft zu Zähnen und Zahnfleisch"], "link": "https://www.amazon.de/Kong-Hundespielzeug-Senior-Gr-M/dp/B000S6O49O?th=1&linkCode=ll2&tag=askthedogs-21&linkId=43738e8ae2d0b4c17ca7d5d17e822dd3", "pageTitle": "Louis empfiehlt: KONG Senior Hundespielzeug – ASK THE DOGS"},
+  {
+    "id": "curli-vest-harness-camo",
+    "dogKey": "roqsy",
+    "dogName": "Roqsy",
+    "dogBreed": "Bolonka Zwetna",
+    "quote": "Stylish, oder? Und so leicht – ich spüre es kaum!",
+    "productImg": "assets/curli-vest-harness-camo.jpg",
+    "productName": "curli Vest Harness Brustgeschirr, Air-Mesh",
+    "productSub": "Camo, mit D-Ring-Buckle, in verschiedenen Größen",
+    "reasons": [
+      "Leicht, luftdurchlässig und schnelltrocknend dank Air-Mesh",
+      "Zum Anlegen einfach hineinsteigen, ein Klick, fertig",
+      "Robust, in verschiedenen Farben und Größen erhältlich"
+    ],
+    "link": "https://link.amazon/B03vakhNB",
+    "pageTitle": "Roqsy empfiehlt: curli Vest Harness Camo – ASK THE DOGS"
+  }
 ];

@@ -391,7 +391,7 @@ const EMPFEHLUNGEN = [
       "3 Leuchtfarben und 3 Leuchtmodi, einfach per ON/OFF-Schalter bedienbar",
       "Weicher, voll verstellbarer Gurt, wasserdicht und per Micro-USB aufladbar"
     ],
-    "link": "https://link.amazon/B0cas9P1F",
+    "link": "https://link.amazon/B0dSUQQPG",
     "pageTitle": "Frida empfiehlt: KOSKILL LED Leuchthalsband – ASK THE DOGS"
   }
 ];

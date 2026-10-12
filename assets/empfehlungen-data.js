@@ -323,7 +323,7 @@ const EMPFEHLUNGEN = [
       "Reich an Kürbisfleisch, Leinsamen und Hafer für eine gesunde Verdauung",
       "Als tägliches Leckerli einfach zu füttern – keine Kapseln oder Pulver nötig"
     ],
-    "link": "https://www.amazon.de/ivvi-PROBIOTIC-Hunde-Probiotika-Leckerli/dp/B0BC2B6K5B?crid=39OS9ABCBYXQL&dib=eyJ2IjoiMSJ9.-h-SVq6JfpE5S9o0VrreV9iW_IxKts619SmWP5YfxGO1vzVE-RM8lDBq0xTIjZqIuf6OjZvYt4OZIwNwdId37Ta0-lN2fF03f9zPHo5SJcb6JCApbzEcAuZSG3t-vtsHORNeEGqX3pn5Sk_II053ak5vA7GfYdtUZf5YAdDan89niByYmqaYOjTKUO17ADx9P3VXfopxtUOLsymIzNhfKJoXcAI8SF75Ryb_iq2-l_CL6iPT_dvs_IYne5G7KyzIkgSH6mK9LGfFgHVebPKTK7V3D7a9OR_ZV4Fj1_qQ_2M.zW6NNqveq1anap8WgR7JvI1DP87T6TeYkfGa_A6dhfU&dib_tag=se&keywords=ivvi%2Bprobiotic%2Bhunde%2Bprobiotika&qid=1790332851&sprefix=ivvi%2Caps%2C150&sr=8-1-spons&aref=haspi8KXlz&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=askthedogs-21&linkId=1f174e8f0ac35d51117c11b812290692&ref_=as_li_ss_tl",
+    "link": "https://link.amazon/B0gKjd0Af",
     "pageTitle": "Roqsy empfiehlt: ivvi PROBIOTIC – ASK THE DOGS"
   },
   {
@@ -340,7 +340,7 @@ const EMPFEHLUNGEN = [
       "Lässt sich mit Trockenfutter oder Leckerlis befüllen",
       "Auch Kaustangen passen hinein – so wird Kauen zum Spiel"
     ],
-    "link": "https://link.amazon/B0fTPF9AY",
+    "link": "https://link.amazon/B06tgcyQm",
     "pageTitle": "Luna empfiehlt: PawsOnly Snack-Ball – ASK THE DOGS"
   },
   {
@@ -357,7 +357,7 @@ const EMPFEHLUNGEN = [
       "Mit warmem Wasser individuell an die Schnauzenform anpassbar",
       "Robustes TPE-Material verhindert Bisse zuverlässig, gepolsterte Riemen für bequemen Sitz"
     ],
-    "link": "https://www.amazon.de/Baskerville-ULTRA-Maulkorb-Patentierter-Hunderassen/dp/B0051H45GC?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=JDJNYB1H27IA&dib=eyJ2IjoiMSJ9.fwFJI-PGVVXOFagZFRKxp4NlHLWpwTGDYGaTlAnRc16cSft9xbMwNn_NvUiOgfbThT9CjAYZylx32VG_XAt559JmsUM08MNSXJ2lANy8YgDxxwhf9sBF_B4ojthFGTFdXWqos-VFOfetiE8Y0SXZ6UPrx9rinAXbvqKTmNUuTKaFaQJIEOsxK4O5L0Rp9Hm_gW1DMkTKa7cN-zWoJ_ClaRxDwAjmblcJJbmKeDFjA9GOGoZMzrhoEntkDtQsfOnf5hsPrNnNk-0GpnYnyyJLsam_Agkrc5aReX-MwsYny58.27WmkY01cgWaS1Svpk2-J16q0EdlCDtv4SOvy4uQtaE&dib_tag=se&keywords=baskerville%2Bultra&qid=1790681676&s=pet-supplies&sprefix=baskerville%2Bultra%2Cpets%2C191&sr=1-1&th=1&linkCode=ll2&tag=askthedogs-21&linkId=74695b64d8dddfedf325badf04590349&ref_=as_li_ss_tl",
+    "link": "https://link.amazon/B0gwiqX8p",
     "pageTitle": "Frida empfiehlt: Baskerville Ultra Maulkorb – ASK THE DOGS"
   },{"id": "kong-senior", "dogKey": "louis", "dogName": "Louis", "dogBreed": "Französische Bulldogge", "quote": "Ich muss es nur durch die Gegend rollen – dann fallen die Leckerlies raus!", "productImg": "assets/kong-senior.jpg", "productName": "KONG Senior Hundespielzeug", "productSub": "Größe M, hüpft unberechenbar, befüllbar mit Leckerlies", "reasons": ["Der unregelmäßige Hüpfer sorgt für Bewegung und Spaß beim Spielen und Apportieren", "Mit Leckerlies und Futter befüllbar – das beschäftigt jeden Feinschmecker", "Weicher Naturkautschuk, sanft zu Zähnen und Zahnfleisch"], "link": "https://www.amazon.de/Kong-Hundespielzeug-Senior-Gr-M/dp/B000S6O49O?th=1&linkCode=ll2&tag=askthedogs-21&linkId=43738e8ae2d0b4c17ca7d5d17e822dd3", "pageTitle": "Louis empfiehlt: KONG Senior Hundespielzeug – ASK THE DOGS"},
   {

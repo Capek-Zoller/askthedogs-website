@@ -102,7 +102,7 @@ const EMPFEHLUNGEN = [
       "Single-Protein und getreidefrei, ohne Zusätze",
       "Schonend getrocknet, Made in Germany"
     ],
-    "link": "https://www.amazon.de/ROQSY-Natur-D%C3%B6rrfisch-Trockenfisch-Barf-Erg%C3%A4nzung-getreidefrei/dp/B0C7LF89GB?dib=eyJ2IjoiMSJ9.Ysl5SnHQ0uoXL9-lFlIeXtiseRSi_sBEn0ztmnXx3VDldWe4_ye1dV0cZHVlPDnf9nXCeWxFVx1U_B4xJpqjEL-4INR_uLL8gKOr_G0VmsZDEWz7b80xnP_yytQqAui934vhak5gBrFojQjI3lLD6jCoJAt-Yns6KutG6deMSWdgwWZmxzY77wGhhRedw5NctL70avmprM_bi_YzLYBCZvZbiGDNWeTA6TPjmZ1gL5Q._3wAaz95J2-3zlTx5PzBao5sg4LkYgaUlqnDXS6stcc&dib_tag=se&keywords=roqsy&qid=1785153715&sr=8-18&th=1&linkCode=ll2&tag=askthedogs-21&linkId=a0c9ed052b58c63aa640b22dedac1cfe&ref_=as_li_ss_tl",
+    "link": "https://link.amazon/B05uJYb3J",
     "pageTitle": "Louis empfiehlt: Dorsch-Dörrfisch – ASK THE DOGS"
   },
   {
@@ -119,7 +119,7 @@ const EMPFEHLUNGEN = [
       "Entfernt Schmutz und Ohrenschmalz zuverlässig",
       "Ideal nach dem Schwimmen oder Baden – gerade bei Hängeohren wichtig"
     ],
-    "link": "https://www.amazon.de/Canosept-Ohrpflege-FingerPads-Hunde-St%C3%BCck/dp/B07RDKPPZX?th=1&linkCode=ll2&tag=askthedogs-21&linkId=eebdbd72cc7ad68251744d104751f98c&ref_=as_li_ss_tl",
+    "link": "https://link.amazon/B05BGbcq7",
     "pageTitle": "Luna empfiehlt: Ohrpflege-Fingerpads – ASK THE DOGS"
   },
   {
@@ -136,7 +136,7 @@ const EMPFEHLUNGEN = [
       "Erhöhte Sitzposition – bestes Kino durch die Scheibe",
       "Bezug abnehmbar und waschbar, auch nach nassen oder schmutzigen Pfoten"
     ],
-    "link": "https://www.amazon.de/GL-GLENSLAVE-Hunde-Autositz-Hundeautositz-Abnehmbarer/dp/B0DRT6YT9L?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&content-id=amzn1.sym.3b3493f3-8612-4501-b517-b018baece425%3Aamzn1.sym.3b3493f3-8612-4501-b517-b018baece425&crid=1N76LGOECDPH0&cv_ct_cx=hunde%2Bautositz&keywords=hunde%2Bautositz&pd_rd_i=B0DRT6YT9L&pd_rd_r=8e484165-a8a7-4498-a16c-dece0c0d297b&pd_rd_w=XfGSL&pd_rd_wg=i8OYu&pf_rd_p=3b3493f3-8612-4501-b517-b018baece425&pf_rd_r=N23W3XZSZDGYBCP01MNA&qid=1784824391&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=hundeautositz%2Caps%2C132&sr=1-5-6e6ea531-5af4-4866-af75-1ef299d1c279-spons&aref=8LYOX4y6sQ&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&th=1&linkCode=ll2&tag=askthedogs-21&linkId=7e02ff0e326d770703e1ec8bb133101c&ref_=as_li_ss",
+    "link": "https://link.amazon/B05nR0rNG",
     "pageTitle": "Roqsy empfiehlt: Hunde-Autositz – ASK THE DOGS"
   },
   {

@@ -17,7 +17,7 @@ const EMPFEHLUNGEN = [
       "Doppelpack: immer eins bereit, während das andere in der Wäsche ist",
       "Waschbar bei 60 °C – hält auch schlammige Tage aus"
     ],
-    "link": "https://www.amazon.de/Hundehandtuch-mittelgro%C3%9Fe-trocknendes-Mikrofaser-Handtuch-Grifftaschen/dp/B0CP7WNR8X?th=1&linkCode=ll2&tag=askthedogs-21&linkId=52f7f56b6abe1749dfe4b2bec183eecb&ref_=as_li_ss_tl",
+    "link": "https://link.amazon/B03eEgZOG",
     "pageTitle": "Luna empfiehlt: Fluffino Hundehandtuch – ASK THE DOGS"
   },
   {
@@ -34,7 +34,7 @@ const EMPFEHLUNGEN = [
       "Zeigt, welche Ursachen dahinterstecken – Genetik, Erfahrung, Sozialisierung",
       "Gibt konkrete Wege zu mehr Selbstvertrauen und Lebensqualität für den Hund"
     ],
-    "link": "https://www.amazon.de/Angst-bei-Hunden-%C3%A4ngstlichen-traumatisierten/dp/3440174557?dib_tag=se&keywords=martin+r%C3%BCtter+buch+angst&qid=1786886692&sr=8-1&linkCode=ll2&tag=askthedogs-21&linkId=b894db3800744b17cb560b3f3cd6dabc&ref_=as_li_ss_tl",
+    "link": "https://link.amazon/B0bPEuIlB",
     "pageTitle": "Roqsy empfiehlt: „Angst bei Hunden“ – ASK THE DOGS"
   },
   {
@@ -51,7 +51,7 @@ const EMPFEHLUNGEN = [
       "Sicherheitsverschluss, der bei einem Unfall nicht einfach aufspringt",
       "Passt in die meisten Kofferräume – leicht und trotzdem robust"
     ],
-    "link": "https://www.amazon.de/EUGAD-Hundetransportbox-Franz%C3%B6sische-Bulldogge-0010LL/dp/B0C81JZPTT?dib=eyJ2IjoiMSJ9.XzdjvcNaAt0u3C1ltDkVYdnmU2qhQU-lAivY5TeicdchEdGzGBYP7GklLBOR0Ks18HP4BW24iXgfSN9vX-pssWB29oDAmM4NewEvo0bBfF_9OiwOKFW9rBFJL53FUKEAWI7J1YiT0KtGOEgIl2wN5hLi19X9gQSmtMeN1MpOnvH3Z0eUi45adKSZbTthkVk5GeZawFA1Q7qqaTKf8uuhz7lKAluw0Iw1SKzkZ-5RBZ4JhDqoTxy-vYryBqJMr6fJvVlTylL23Nt7swrtZJHZgGiRtg7N0Y6oMAFn6wJI2uw.rJumF9ODuttmRhqmLKdaNpijOzupdXGzf-VnsRpYGlU&dib_tag=se&keywords=eugad%2Bhundetransportbox&qid=1784474590&sr=8-1-spons&aref=loXD5NaSDS&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=askthedogs-21&linkId=72d7a242b0b60f9ca59ffa5fa13b5529&ref_=as_li_ss_tl",
+    "link": "https://link.amazon/B04zZMW3j",
     "pageTitle": "Luna empfiehlt: Hunde-Transportbox – ASK THE DOGS"
   },
   {
@@ -68,7 +68,7 @@ const EMPFEHLUNGEN = [
       "Lang genug für einen sanften Einstieg, ganz ohne steiles Klettern",
       "Klappbar und leicht im Kofferraum zu verstauen"
     ],
-    "link": "https://www.amazon.de/Hunderampe-Klappbar-Teleskop-Rampe-gro%C3%9Fe/dp/B0CS9V77X8?th=1&linkCode=ll2&tag=askthedogs-21&linkId=95b54c98823bd3255ed443db626b4096&ref_=as_li_ss_tl",
+    "link": "https://link.amazon/B0euj63J6",
     "pageTitle": "Frida empfiehlt: Auto-Hunderampe – ASK THE DOGS"
   },
   {
@@ -85,7 +85,7 @@ const EMPFEHLUNGEN = [
       "Unterfütterte Schnalle für zusätzlichen Komfort",
       "Klettverschluss – mit einer Hand angezogen, ein Klick, fertig"
     ],
-    "link": "https://www.amazon.de/Harness-curli-Clasp-Air-Mesh-Black/dp/B09N9CQVFT?dib=eyJ2IjoiMSJ9.zLCE0LymstxliCvd4w-rDPzDTnnykGiDpK5BVgLnTQWproAIrHi0zPf7_NzfGIgkAOnkqpRvyzl5fOnBAllhBxvgVfT2DL1B8vO0XuzPNj__QpGzoyvBinJ4EDURr3f13-YrVsak9VlbNEDDu0Hm4VjOhFPM-OyextUEA1eRAVgjCsB1l7bDhALQRU_1_LzdOTQ80vT-4PpjOSlJcSf_J_2wS98X6BJIabMjGFmIkYQtSDxll2svApUGAsB1mMp4CdONqC_1-nr40b0rYUnFJixIhhsk5a7OsadZKC73BxY.2uWY841uf9E-wGxuUDYhvcFA8SrunqR5XCUaQvy6k3Y&dib_tag=se&keywords=hundegeschirr&qid=1786304518&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=8-7&th=1&linkCode=ll2&tag=askthedogs-21&linkId=43886869980de84cb31161e2972f08b8&ref_=as_li_ss_tl",
+    "link": "https://link.amazon/B02Jr8XAm",
     "pageTitle": "Louis empfiehlt: Hunde-Brustgeschirr – ASK THE DOGS"
   },
   {

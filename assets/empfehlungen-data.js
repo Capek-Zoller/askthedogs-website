@@ -272,7 +272,7 @@ const EMPFEHLUNGEN = [
       "Geschirr und Reißverschluss fix eingebaut – kein separates Anziehen nötig",
       "Weiter Brustschnitt, passt auch breiteren Rassen wie Französischen Bulldoggen"
     ],
-    "link": "https://www.amazon.de/LUOWAN-Hundemantel-Französische-Hundegeschirr-Verschiedene/dp/B08YDQYJ9F?th=1&linkCode=ll2&tag=askthedogs-21&linkId=f97abc29cb9c76ec1b7a83e1f8eed06d&ref_=as_li_ss_tl",
+    "link": "https://link.amazon/B08uUd9An",
     "pageTitle": "Louis empfiehlt: LUOWAN Hundemantel – ASK THE DOGS"
   },
   {
@@ -289,7 +289,7 @@ const EMPFEHLUNGEN = [
       "Rutschfester Boden – auch für ältere Hunde ein sicherer Stand",
       "Bezug abnehmbar und waschbar"
     ],
-    "link": "https://www.amazon.de/BEDSURE-orthop%C3%A4disches-Hundebett-Grosse-Hunde/dp/B07QW4X9PY?dib=eyJ2IjoiMSJ9.yKn5GQybW1mwdssIR9ATDFvArMPzGDA7wkI764lsl_H0AX4tRkfAwm6M-J0WMbgHeTuNEHPxuiwcN3QfzUatwXBE4m1i1tpvl7-bsG_R2_0ZthqZNt6sVy3Hcv4CvlQv8MMJM-fK_Fs3PFp-EhWCgG5CZNSAQ9BoqBKUbgpXoU8J0m0DIUBt62UflUho1VcwZgcHC-bKrGuxUJHq5d0BJ56EesAcUwLQZJsc9pxCD6y045LMywUP1fHTLRdUJ8Jr_mOPaKSX0WPE1BBFwOmPzAOKCYbYi2UzDYUmaDKD0AE.td7JzMbohef4XhRcQHDFAlSSLlVcTChSaxORpVNBstc&dib_tag=se&keywords=bedsure&qid=1787236505&sr=8-3-spons&aref=ZCQYGjTiCq&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=askthedogs-21&linkId=202353c96e28891b6bc377f71c0cf2ba&ref_=as_li_ss_tl",
+    "link": "https://link.amazon/B0fWLQe4q",
     "pageTitle": "Frida empfiehlt: Orthopädisches Hundebett – ASK THE DOGS"
   },
   {
@@ -306,7 +306,7 @@ const EMPFEHLUNGEN = [
       "Wäscht auch hartnäckigen Schlammloch-Duft zuverlässig raus",
       "Sanfte Formel, die Fell und Haut nicht austrocknet"
     ],
-    "link": "https://www.amazon.de/dp/B07FPMXDRD?th=1&linkCode=ll2&tag=askthedogs-21&linkId=6f37093b0b2a875548b1f5c3e521fc1c&ref_=as_li_ss_tl",
+    "link": "https://link.amazon/B02eLHER6",
     "pageTitle": "Felix empfiehlt: Natur-Hundeshampoo – ASK THE DOGS"
   },
   {

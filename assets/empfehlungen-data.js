@@ -376,5 +376,22 @@ const EMPFEHLUNGEN = [
     ],
     "link": "https://link.amazon/B03vakhNB",
     "pageTitle": "Roqsy empfiehlt: curli Vest Harness Camo – ASK THE DOGS"
+  },
+  {
+    "id": "koskill-leuchthalsband",
+    "dogKey": "frida",
+    "dogName": "Frida",
+    "dogBreed": "Riesenschnauzer, Senior",
+    "quote": "Jetzt sieht mich jeder – auch im dunklen Herbst!",
+    "productImg": "assets/koskill-leuchthalsband.jpg",
+    "productName": "KOSKILL LED Leuchthalsband",
+    "productSub": "Neongelb, leuchtet grün oder rot, mit ON/OFF-Schalter",
+    "reasons": [
+      "Sichtbar in der Dunkelheit – für mehr Sicherheit bei Herbst- und Winterspaziergängen",
+      "Leuchtet wahlweise in Grün oder Rot",
+      "Einfach per ON/OFF-Schalter bedienbar, mit stabilem Steckverschluss und D-Ring"
+    ],
+    "link": "https://link.amazon/B0cas9P1F",
+    "pageTitle": "Frida empfiehlt: KOSKILL LED Leuchthalsband – ASK THE DOGS"
   }
 ];

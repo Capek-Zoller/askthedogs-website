@@ -63,5 +63,15 @@ const FRAGEN = [
     "tags": [
       { "key": "verhalten", "label": "Verhalten" }
     ]
+  },
+  {
+    "id": "warum-knurrt-mein-hund-beim-spielen",
+    "dogKey": "felix",
+    "dogName": "Felix",
+    "title": "Warum knurrt mein Hund beim Spielen?",
+    "teaser": "Felix erklärt, warum Spielknurren größer klingt – und woran du erkennst, wann es wirklich nur Spiel ist.",
+    "tags": [
+      { "key": "verhalten", "label": "Verhalten" }
+    ]
   }
 ];

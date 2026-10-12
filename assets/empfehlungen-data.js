@@ -385,11 +385,11 @@ const EMPFEHLUNGEN = [
     "quote": "Jetzt sieht mich jeder – auch im dunklen Herbst!",
     "productImg": "assets/koskill-leuchthalsband.jpg",
     "productName": "KOSKILL LED Leuchthalsband",
-    "productSub": "Neongelb, leuchtet grün oder rot, mit ON/OFF-Schalter",
+    "productSub": "3 Leuchtfarben, 3 Modi, wasserdicht, per Micro-USB aufladbar",
     "reasons": [
-      "Sichtbar in der Dunkelheit – für mehr Sicherheit bei Herbst- und Winterspaziergängen",
-      "Leuchtet wahlweise in Grün oder Rot",
-      "Einfach per ON/OFF-Schalter bedienbar, mit stabilem Steckverschluss und D-Ring"
+      "Sehr hell leuchtend – in der Dunkelheit gut sichtbar, für mehr Sicherheit bei Herbst- und Winterspaziergängen",
+      "3 Leuchtfarben und 3 Leuchtmodi, einfach per ON/OFF-Schalter bedienbar",
+      "Weicher, voll verstellbarer Gurt, wasserdicht und per Micro-USB aufladbar"
     ],
     "link": "https://link.amazon/B0cas9P1F",
     "pageTitle": "Frida empfiehlt: KOSKILL LED Leuchthalsband – ASK THE DOGS"

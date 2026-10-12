@@ -374,7 +374,7 @@ const EMPFEHLUNGEN = [
       "Zum Anlegen einfach hineinsteigen, ein Klick, fertig",
       "Robust, in verschiedenen Farben und Größen erhältlich"
     ],
-    "link": "https://link.amazon/B03vakhNB",
+    "link": "https://link.amazon/B0hSwTDNa",
     "pageTitle": "Roqsy empfiehlt: curli Vest Harness Camo – ASK THE DOGS"
   },
   {

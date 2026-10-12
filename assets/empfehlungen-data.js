@@ -85,7 +85,7 @@ const EMPFEHLUNGEN = [
       "Unterfütterte Schnalle für zusätzlichen Komfort",
       "Klettverschluss – mit einer Hand angezogen, ein Klick, fertig"
     ],
-    "link": "https://www.amazon.de/Harness-curli-Clasp-Air-Mesh-Black/dp/B09N9CQVFT?dib=eyJ2IjoiMSJ9.zLCE0LymstxliCvd4w-rDPzDTnnykGiDpK5BVgLnTQWproAIrHi0zPf7_NzfGIgkAOnkqpRvyzl5fOnBAllhBxvgVfT2DL1B8vO0XuzPNj__QpGzoyvBinJ4EDURr3f13-YrVsak9VlbNEDDu0Hm4VjOhFPM-OyextUEA1eRAVgjCsB1l7bDhALQRU_1_LzdOTQ80vT-4PpjOSlJcSf_J_2wS98X6BJIabMjGFmIkYQtSDxll2svApUGAsB1mMp4CdONqC_1-nr40b0rYUnFJixIhhsk5a7OsadZKC73BxY.2uWY841uf9E-wGxuUDYhvcFA8SrunqR5XCUaQvy6k3Y&dib_tag=se&keywords=hundegeschirr&qid=1786304518&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=8-7&th=1&linkCode=ll2&tag=askthedogs-21&linkId=43886869980de84cb31161e2972f08b8&ref_=as_li_ss_tl",
+    "link": "https://link.amazon/B0bM0IBeS",
     "pageTitle": "Louis empfiehlt: Hunde-Brustgeschirr – ASK THE DOGS"
   },
   {

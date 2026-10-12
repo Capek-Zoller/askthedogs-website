@@ -153,7 +153,7 @@ const EMPFEHLUNGEN = [
       "Ideal zum Verstecken von Leckerlis – sinnvolle Beschäftigung für drinnen und draußen",
       "Waschbar und robust, für alle Hunderassen geeignet"
     ],
-    "link": "https://www.amazon.de/OSDUE-Futterschn%C3%BCffel-Futtermatte-Hunde-Schn%C3%BCffelmatte-Welpen-Trainingsmatte-Schn%C3%BCffelspielzeug/dp/B0DNJYVCG7?th=1&linkCode=ll2&tag=askthedogs-21&linkId=223a56f224331c5558281d5c3c6a4eb9&ref_=as_li_ss_tl",
+    "link": "https://link.amazon/B0fVxI0sE",
     "pageTitle": "Felix empfiehlt: Schnüffelteppich – ASK THE DOGS"
   },
   {
@@ -170,7 +170,7 @@ const EMPFEHLUNGEN = [
       "Sanft und hautschonend – ideal für zwei Anwendungen pro Woche",
       "Spürbar weniger Haare auf Couch, im Auto und in der Wohnung"
     ],
-    "link": "https://www.amazon.de/FURminator-deShedding-Tool-Hund-Gr%C3%B6%C3%9Fe-Langhaar/dp/B07NSL5V36?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=NPTOZYYRTLFL&dib=eyJ2IjoiMSJ9.VbkPN0CCUumJ0j3ibvSaurKa4euBZj5L2B1RJTJx869VPdgZLffCUzegP_nLXN6h_cH1TmPW7_ogtKjhWx_Jm600oXDd5Ej8LUC-8NOG08sB0_a2Ex2H6HdHIkyAhyt39vcFKPgnNubI7Q7-h_aX-WivKYRJlofIylt5cjXHaW5NG9fvRxaBYfbPXOc0rp0MgoSHa2mSw2u4EZNfUooxqXQQaoYcDcmCaGEqcXPX_9_0KL5IQ20PeNukqliTXselsk3CghN-pEPeNakvp8ZL9VbY91zh8Oc6yf0z9qDY72U.EvLt_-YrKC7tNKKIDH0mrC3T0cHrVRrIIWWVH_afHtc&dib_tag=se&keywords=fellwechsel%2BdeShedding%2Btool&qid=1788509257&sprefix=fellwechsel%2Bdeshedding%2Btool%2Caps%2C133&sr=8-8&th=1&linkCode=ll2&tag=askthedogs-21&linkId=a92fb9de5b7161f969657f9b4695eb9e&ref_=as_li_ss_tl",
+    "link": "https://link.amazon/B02vdUiqe",
     "pageTitle": "Luna empfiehlt: FURminator deShedding-Tool – ASK THE DOGS"
   },
   {
@@ -187,7 +187,7 @@ const EMPFEHLUNGEN = [
       "Einfach abrollen, Kammer leeren, fertig – keine Einwegteile nötig",
       "Kinderleicht zu handhaben und zu reinigen"
     ],
-    "link": "https://www.amazon.de/Bluepet%C2%AE-RolloTollo-Selbstreinigende-Fusselrolle-Tierhaarentferner/dp/B093389KGJ?crid=2B81ZAWC5I5TX&dib=eyJ2IjoiMSJ9.YHpdw1l0oNOSOLsEctg-ElZdXWHvrxnkM8QVFurj6QV5uXsg2PVrgmA5__1k02KKAx5i6kXT2FzNGxMvQ7vF1C80nxD8xvvU6HIjHCsOOWbJRa_1frVPDUmEZ_EBbBxNEUbHAtog-YAECUrw3X0H_lLWRdX01XB-y-fbv6a4pPfpdVABnUc6rJsQIaXSHYoGVmgcs2FfSxvdFXDMvci3YErstRqScCF6RPJ0qo4Pz8kWLgKkOte0Hb-fDlp5uch3I_55Po35_1_X2fj7prtMBySBNPPo20Zlnrhwsgp9cOM.CbG88IY5ZH7ehPeQIvC04StUpdQrya61aNZiHsI0rFo&dib_tag=se&keywords=bluepet%2Btierhaarentferner&qid=1788509516&sprefix=BLUEPET%2BTierhaa%2Caps%2C154&sr=8-1-spons&aref=EE9YfO5k7H&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=askthedogs-21&linkId=0bb0e737d956776cdf8aba0f6c9b11b3&ref_=as_li_ss_tl",
+    "link": "https://link.amazon/B0eUc5kZv",
     "pageTitle": "Luna empfiehlt: BluePet Tierhaarentferner – ASK THE DOGS"
   },
   {
@@ -359,7 +359,7 @@ const EMPFEHLUNGEN = [
     ],
     "link": "https://link.amazon/B0gwiqX8p",
     "pageTitle": "Frida empfiehlt: Baskerville Ultra Maulkorb – ASK THE DOGS"
-  },{"id": "kong-senior", "dogKey": "louis", "dogName": "Louis", "dogBreed": "Französische Bulldogge", "quote": "Ich muss es nur durch die Gegend rollen – dann fallen die Leckerlies raus!", "productImg": "assets/kong-senior.jpg", "productName": "KONG Senior Hundespielzeug", "productSub": "Größe M, hüpft unberechenbar, befüllbar mit Leckerlies", "reasons": ["Der unregelmäßige Hüpfer sorgt für Bewegung und Spaß beim Spielen und Apportieren", "Mit Leckerlies und Futter befüllbar – das beschäftigt jeden Feinschmecker", "Weicher Naturkautschuk, sanft zu Zähnen und Zahnfleisch"], "link": "https://www.amazon.de/Kong-Hundespielzeug-Senior-Gr-M/dp/B000S6O49O?th=1&linkCode=ll2&tag=askthedogs-21&linkId=43738e8ae2d0b4c17ca7d5d17e822dd3", "pageTitle": "Louis empfiehlt: KONG Senior Hundespielzeug – ASK THE DOGS"},
+  },{"id": "kong-senior", "dogKey": "louis", "dogName": "Louis", "dogBreed": "Französische Bulldogge", "quote": "Ich muss es nur durch die Gegend rollen – dann fallen die Leckerlies raus!", "productImg": "assets/kong-senior.jpg", "productName": "KONG Senior Hundespielzeug", "productSub": "Größe M, hüpft unberechenbar, befüllbar mit Leckerlies", "reasons": ["Der unregelmäßige Hüpfer sorgt für Bewegung und Spaß beim Spielen und Apportieren", "Mit Leckerlies und Futter befüllbar – das beschäftigt jeden Feinschmecker", "Weicher Naturkautschuk, sanft zu Zähnen und Zahnfleisch"], "link": "https://link.amazon/B048dfscR", "pageTitle": "Louis empfiehlt: KONG Senior Hundespielzeug – ASK THE DOGS"},
   {
     "id": "curli-vest-harness-camo",
     "dogKey": "roqsy",

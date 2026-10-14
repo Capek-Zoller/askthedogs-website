@@ -17,7 +17,7 @@ const EMPFEHLUNGEN = [
       "Doppelpack: immer eins bereit, während das andere in der Wäsche ist",
       "Waschbar bei 60 °C – hält auch schlammige Tage aus"
     ],
-    "link": "https://link.amazon/B03eEgZOG",
+    "link": "https://link.amazon/B028kjtnp",
     "pageTitle": "Luna empfiehlt: Fluffino Hundehandtuch – ASK THE DOGS"
   },
   {
@@ -34,7 +34,7 @@ const EMPFEHLUNGEN = [
       "Zeigt, welche Ursachen dahinterstecken – Genetik, Erfahrung, Sozialisierung",
       "Gibt konkrete Wege zu mehr Selbstvertrauen und Lebensqualität für den Hund"
     ],
-    "link": "https://link.amazon/B0bPEuIlB",
+    "link": "https://link.amazon/B0bnvMl8w",
     "pageTitle": "Roqsy empfiehlt: „Angst bei Hunden“ – ASK THE DOGS"
   },
   {
@@ -51,7 +51,7 @@ const EMPFEHLUNGEN = [
       "Sicherheitsverschluss, der bei einem Unfall nicht einfach aufspringt",
       "Passt in die meisten Kofferräume – leicht und trotzdem robust"
     ],
-    "link": "https://link.amazon/B04zZMW3j",
+    "link": "https://link.amazon/B0fgjnI6O",
     "pageTitle": "Luna empfiehlt: Hunde-Transportbox – ASK THE DOGS"
   },
   {
@@ -68,7 +68,7 @@ const EMPFEHLUNGEN = [
       "Lang genug für einen sanften Einstieg, ganz ohne steiles Klettern",
       "Klappbar und leicht im Kofferraum zu verstauen"
     ],
-    "link": "https://link.amazon/B0euj63J6",
+    "link": "https://link.amazon/B021x7Fib",
     "pageTitle": "Frida empfiehlt: Auto-Hunderampe – ASK THE DOGS"
   },
   {
@@ -85,7 +85,7 @@ const EMPFEHLUNGEN = [
       "Unterfütterte Schnalle für zusätzlichen Komfort",
       "Klettverschluss – mit einer Hand angezogen, ein Klick, fertig"
     ],
-    "link": "https://link.amazon/B02Jr8XAm",
+    "link": "https://link.amazon/B01jCQ9F6",
     "pageTitle": "Louis empfiehlt: Hunde-Brustgeschirr – ASK THE DOGS"
   },
   {
@@ -102,7 +102,7 @@ const EMPFEHLUNGEN = [
       "Single-Protein und getreidefrei, ohne Zusätze",
       "Schonend getrocknet, Made in Germany"
     ],
-    "link": "https://link.amazon/B05uJYb3J",
+    "link": "https://link.amazon/B04gHyyDN",
     "pageTitle": "Louis empfiehlt: Dorsch-Dörrfisch – ASK THE DOGS"
   },
   {
@@ -119,7 +119,7 @@ const EMPFEHLUNGEN = [
       "Entfernt Schmutz und Ohrenschmalz zuverlässig",
       "Ideal nach dem Schwimmen oder Baden – gerade bei Hängeohren wichtig"
     ],
-    "link": "https://link.amazon/B05BGbcq7",
+    "link": "https://link.amazon/B0iLsbqHx",
     "pageTitle": "Luna empfiehlt: Ohrpflege-Fingerpads – ASK THE DOGS"
   },
   {
@@ -136,7 +136,7 @@ const EMPFEHLUNGEN = [
       "Erhöhte Sitzposition – bestes Kino durch die Scheibe",
       "Bezug abnehmbar und waschbar, auch nach nassen oder schmutzigen Pfoten"
     ],
-    "link": "https://link.amazon/B05nR0rNG",
+    "link": "https://link.amazon/B0iDxoaSo",
     "pageTitle": "Roqsy empfiehlt: Hunde-Autositz – ASK THE DOGS"
   },
   {
@@ -153,7 +153,7 @@ const EMPFEHLUNGEN = [
       "Ideal zum Verstecken von Leckerlis – sinnvolle Beschäftigung für drinnen und draußen",
       "Waschbar und robust, für alle Hunderassen geeignet"
     ],
-    "link": "https://link.amazon/B0fVxI0sE",
+    "link": "https://link.amazon/B0axyrVjH",
     "pageTitle": "Felix empfiehlt: Schnüffelteppich – ASK THE DOGS"
   },
   {
@@ -170,7 +170,7 @@ const EMPFEHLUNGEN = [
       "Sanft und hautschonend – ideal für zwei Anwendungen pro Woche",
       "Spürbar weniger Haare auf Couch, im Auto und in der Wohnung"
     ],
-    "link": "https://link.amazon/B02vdUiqe",
+    "link": "https://link.amazon/B010Obnit",
     "pageTitle": "Luna empfiehlt: FURminator deShedding-Tool – ASK THE DOGS"
   },
   {
@@ -187,7 +187,7 @@ const EMPFEHLUNGEN = [
       "Einfach abrollen, Kammer leeren, fertig – keine Einwegteile nötig",
       "Kinderleicht zu handhaben und zu reinigen"
     ],
-    "link": "https://link.amazon/B0eUc5kZv",
+    "link": "https://link.amazon/B0awea0Vz",
     "pageTitle": "Luna empfiehlt: BluePet Tierhaarentferner – ASK THE DOGS"
   },
   {
@@ -204,7 +204,7 @@ const EMPFEHLUNGEN = [
       "Wasserdicht, kabellos und dank USB-C in 2 Stunden einsatzbereit",
       "Vibrationsarm und leise – auch für unsichere Hunde gut geeignet"
     ],
-    "link": "https://link.amazon/B08szEQuy",
+    "link": "https://link.amazon/B056HgCGh",
     "pageTitle": "Frida empfiehlt: oneisall Pfotentrimmer – ASK THE DOGS"
   },
   {
@@ -221,7 +221,7 @@ const EMPFEHLUNGEN = [
       "6 Kammaufsätze für unterschiedliche Fellhöhen, plus Kamm und Schere im Set",
       "Akkubetrieben mit LED-Anzeige, zuverlässig auch bei dichtem oder lockigem Fell"
     ],
-    "link": "https://link.amazon/B03gJfHAS",
+    "link": "https://link.amazon/B0566Pzjy",
     "pageTitle": "Roqsy empfiehlt: oneisall Hundeschermaschine – ASK THE DOGS"
   },
   {
@@ -238,7 +238,7 @@ const EMPFEHLUNGEN = [
       "Bereichert die Mahlzeit durch interaktives 'Erobern' jedes Happens",
       "Spülmaschinenfest und ohne Krümel-Chaos nach dem Essen"
     ],
-    "link": "https://link.amazon/B0147zjfU",
+    "link": "https://link.amazon/B079qXpL6",
     "pageTitle": "Louis empfiehlt: OHMO Anti-Schling-Napf – ASK THE DOGS"
   },
   {
@@ -255,7 +255,7 @@ const EMPFEHLUNGEN = [
       "Mit beruhigendem Aloe-Vera-Extrakt für die empfindliche Augenpartie",
       "Fertig getränkte Pads – schnell und einfach, kein Einweichen nötig"
     ],
-    "link": "https://link.amazon/B0hjbBbS4",
+    "link": "https://link.amazon/B04QrqCr5",
     "pageTitle": "Felix empfiehlt: Canosept Augenpflege-Pads – ASK THE DOGS"
   },
   {
@@ -272,7 +272,7 @@ const EMPFEHLUNGEN = [
       "Geschirr und Reißverschluss fix eingebaut – kein separates Anziehen nötig",
       "Weiter Brustschnitt, passt auch breiteren Rassen wie Französischen Bulldoggen"
     ],
-    "link": "https://link.amazon/B08uUd9An",
+    "link": "https://link.amazon/B053GwiTy",
     "pageTitle": "Louis empfiehlt: LUOWAN Hundemantel – ASK THE DOGS"
   },
   {
@@ -289,7 +289,7 @@ const EMPFEHLUNGEN = [
       "Rutschfester Boden – auch für ältere Hunde ein sicherer Stand",
       "Bezug abnehmbar und waschbar"
     ],
-    "link": "https://link.amazon/B0fWLQe4q",
+    "link": "https://link.amazon/B0aaqVZz7",
     "pageTitle": "Frida empfiehlt: Orthopädisches Hundebett – ASK THE DOGS"
   },
   {
@@ -306,7 +306,7 @@ const EMPFEHLUNGEN = [
       "Wäscht auch hartnäckigen Schlammloch-Duft zuverlässig raus",
       "Sanfte Formel, die Fell und Haut nicht austrocknet"
     ],
-    "link": "https://link.amazon/B02eLHER6",
+    "link": "https://link.amazon/B0hkJBLKE",
     "pageTitle": "Felix empfiehlt: Natur-Hundeshampoo – ASK THE DOGS"
   },
   {
@@ -323,7 +323,7 @@ const EMPFEHLUNGEN = [
       "Reich an Kürbisfleisch, Leinsamen und Hafer für eine gesunde Verdauung",
       "Als tägliches Leckerli einfach zu füttern – keine Kapseln oder Pulver nötig"
     ],
-    "link": "https://link.amazon/B0gKjd0Af",
+    "link": "https://link.amazon/B00WgbAwf",
     "pageTitle": "Roqsy empfiehlt: ivvi PROBIOTIC – ASK THE DOGS"
   },
   {
@@ -340,7 +340,7 @@ const EMPFEHLUNGEN = [
       "Lässt sich mit Trockenfutter oder Leckerlis befüllen",
       "Auch Kaustangen passen hinein – so wird Kauen zum Spiel"
     ],
-    "link": "https://link.amazon/B06tgcyQm",
+    "link": "https://link.amazon/B0ghPRGfH",
     "pageTitle": "Luna empfiehlt: PawsOnly Snack-Ball – ASK THE DOGS"
   },
   {
@@ -357,9 +357,9 @@ const EMPFEHLUNGEN = [
       "Mit warmem Wasser individuell an die Schnauzenform anpassbar",
       "Robustes TPE-Material verhindert Bisse zuverlässig, gepolsterte Riemen für bequemen Sitz"
     ],
-    "link": "https://link.amazon/B0gwiqX8p",
+    "link": "https://link.amazon/B040DgKDM",
     "pageTitle": "Frida empfiehlt: Baskerville Ultra Maulkorb – ASK THE DOGS"
-  },{"id": "kong-senior", "dogKey": "louis", "dogName": "Louis", "dogBreed": "Französische Bulldogge", "quote": "Ich muss es nur durch die Gegend rollen – dann fallen die Leckerlies raus!", "productImg": "assets/kong-senior.jpg", "productName": "KONG Senior Hundespielzeug", "productSub": "Größe M, hüpft unberechenbar, befüllbar mit Leckerlies", "reasons": ["Der unregelmäßige Hüpfer sorgt für Bewegung und Spaß beim Spielen und Apportieren", "Mit Leckerlies und Futter befüllbar – das beschäftigt jeden Feinschmecker", "Weicher Naturkautschuk, sanft zu Zähnen und Zahnfleisch"], "link": "https://link.amazon/B048dfscR", "pageTitle": "Louis empfiehlt: KONG Senior Hundespielzeug – ASK THE DOGS"},
+  },{"id": "kong-senior", "dogKey": "louis", "dogName": "Louis", "dogBreed": "Französische Bulldogge", "quote": "Ich muss es nur durch die Gegend rollen – dann fallen die Leckerlies raus!", "productImg": "assets/kong-senior.jpg", "productName": "KONG Senior Hundespielzeug", "productSub": "Größe M, hüpft unberechenbar, befüllbar mit Leckerlies", "reasons": ["Der unregelmäßige Hüpfer sorgt für Bewegung und Spaß beim Spielen und Apportieren", "Mit Leckerlies und Futter befüllbar – das beschäftigt jeden Feinschmecker", "Weicher Naturkautschuk, sanft zu Zähnen und Zahnfleisch"], "link": "https://link.amazon/B07P2Oae9", "pageTitle": "Louis empfiehlt: KONG Senior Hundespielzeug – ASK THE DOGS"},
   {
     "id": "curli-vest-harness-camo",
     "dogKey": "roqsy",
@@ -374,7 +374,7 @@ const EMPFEHLUNGEN = [
       "Zum Anlegen einfach hineinsteigen, ein Klick, fertig",
       "Robust, in verschiedenen Farben und Größen erhältlich"
     ],
-    "link": "https://link.amazon/B0bM0IBeS",
+    "link": "https://link.amazon/B03aL5Ll5",
     "pageTitle": "Roqsy empfiehlt: curli Vest Harness Camo – ASK THE DOGS"
   },
   {
@@ -391,7 +391,7 @@ const EMPFEHLUNGEN = [
       "3 Leuchtfarben und 3 Leuchtmodi, einfach per ON/OFF-Schalter bedienbar",
       "Weicher, voll verstellbarer Gurt, wasserdicht und per Micro-USB aufladbar"
     ],
-    "link": "https://link.amazon/B0dSUQQPG",
+    "link": "https://link.amazon/B0eyQLb7a",
     "pageTitle": "Frida empfiehlt: KOSKILL LED Leuchthalsband – ASK THE DOGS"
   },
   {

@@ -393,5 +393,22 @@ const EMPFEHLUNGEN = [
     ],
     "link": "https://link.amazon/B0dSUQQPG",
     "pageTitle": "Frida empfiehlt: KOSKILL LED Leuchthalsband – ASK THE DOGS"
+  },
+  {
+    "id": "kofferraumschutz",
+    "dogKey": "luna",
+    "dogName": "Luna",
+    "dogBreed": "Golden Retriever",
+    "quote": "Endlich Herbst! Regen! Pfützen! Matsch!",
+    "productImg": "assets/kofferraumschutz.jpg",
+    "productName": "HELDENWERK Kofferraumschutz mit Seiten- & Ladekantenschutz",
+    "productSub": "universal, wasserdicht, kratzfest, rutschfest, waschbar",
+    "reasons": [
+      "Wasserdicht und kratzfest – schützt Kofferraum, Seiten und Ladekante vor Matsch und Pfoten",
+      "Rutschfest und universal passend, mit Seiten- und Stoßstangenschutz",
+      "Waschbar und klein zusammenrollbar – schnell sauber, platzsparend verstaut"
+    ],
+    "link": "https://link.amazon/B02C21kXx",
+    "pageTitle": "Luna empfiehlt: HELDENWERK Kofferraumschutz — ASK THE DOGS"
   }
 ];

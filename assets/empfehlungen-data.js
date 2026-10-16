@@ -410,5 +410,22 @@ const EMPFEHLUNGEN = [
     ],
     "link": "https://link.amazon/B02C21kXx",
     "pageTitle": "Luna empfiehlt: HELDENWERK Kofferraumschutz — ASK THE DOGS"
+  },
+  {
+    "id": "hundetreppe",
+    "dogKey": "louis",
+    "dogName": "Louis",
+    "dogBreed": "Französische Bulldogge",
+    "quote": "Expedition Sofa, Etappe eins!",
+    "productImg": "assets/hundetreppe.jpg",
+    "productName": "EHEYCIGA Hundetreppe für kleine Hunde, 40 cm hoch",
+    "productSub": "3 Stufen, gelenkschonend, hochdichter Schaumstoff, rutschfest, grau",
+    "reasons": [
+      "Gelenkschonend: drei flache Stufen statt Sprung aufs Sofa oder Bett",
+      "Hochdichter Schaumstoff – stabil und trotzdem angenehm weich",
+      "Rutschfest und 40 cm hoch – ideal für kleine Hunde"
+    ],
+    "link": "https://link.amazon/B06L3kaq6",
+    "pageTitle": "Louis empfiehlt: EHEYCIGA Hundetreppe – ASK THE DOGS"
   }
 ];

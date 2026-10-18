@@ -73,5 +73,15 @@ const FRAGEN = [
     "tags": [
       { "key": "verhalten", "label": "Verhalten" }
     ]
+  },
+  {
+    "id": "warum-bringt-mein-hund-besuchern-spielzeug",
+    "dogKey": "luna",
+    "dogName": "Luna",
+    "title": "Warum bringt mein Hund jedem Besucher ein Spielzeug?",
+    "teaser": "Luna erklärt, was Retriever im Blut haben – und warum Gäste bei ihr nie ohne Quietschstier ankommen.",
+    "tags": [
+      { "key": "verhalten", "label": "Verhalten" }
+    ]
   }
 ];

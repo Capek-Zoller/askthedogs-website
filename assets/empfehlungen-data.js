@@ -427,5 +427,22 @@ const EMPFEHLUNGEN = [
     ],
     "link": "https://link.amazon/B06L3kaq6",
     "pageTitle": "Louis empfiehlt: EHEYCIGA Hundetreppe – ASK THE DOGS"
+  },
+  {
+    "id": "leckerlibeutel",
+    "dogKey": "felix",
+    "dogName": "Felix",
+    "dogBreed": "West Highland White Terrier",
+    "quote": "Rückruf? Klappt bei mir PERFEKT – wenn die TASCHE dabei ist!",
+    "productImg": "assets/leckerlibeutel.jpg",
+    "productName": "funPETic Futterbeutel, Leckerli-Tasche mit 4 Fächern",
+    "productSub": "4 Tragevarianten, wasserabweisend, mit Kotbeutelspender",
+    "reasons": [
+      "4 Fächer: Leckerlis, Schlüssel und Kleinkram sind immer griffbereit",
+      "4 Tragevarianten – Bauchgurt, Schultergurt, Gürtelclip oder Gürtelschlaufe",
+      "Wasserabweisend und mit Kotbeutelspender – ideal für Training und Spaziergang"
+    ],
+    "link": "https://link.amazon/B0eT6HxXe",
+    "pageTitle": "Felix empfiehlt: funPETic Futterbeutel – ASK THE DOGS"
   }
 ];

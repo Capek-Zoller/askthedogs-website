@@ -64,7 +64,7 @@
       <div class="breed">West Highland White Terrier</div>
       <p class="bio">Neugierig, lebendig und immer zuerst am Start, bevor er nachdenkt – meistens kurz bevor's schiefgeht. „Ich war nicht dreckig. Ich war draußen.“</p>
       <div class="profile-links">
-        <a href="frag-das-rudel/warum-dreht-sich-mein-hund-im-kreis.html">Frag das Rudel: Kreisdrehen →</a>
+        <a class="js-frage" data-dog="felix" href="frag-das-rudel/warum-dreht-sich-mein-hund-im-kreis.html">Frag das Rudel: Kreisdrehen →</a>
         <span class="js-empfehlungen" data-dog="felix"></span>
       </div>
     </div>
@@ -75,7 +75,7 @@
       <div class="breed">Bolonka Zwetna</div>
       <p class="bio">Winzig, hochsensibel und nach außen ein lautstarker Rambo – innerlich vorsichtig bei allem, was groß, laut oder unsichtbar ist. „Wind ist unsichtbar und deshalb grundsätzlich verdächtig.“</p>
       <div class="profile-links">
-        <a href="frag-das-rudel/warum-hat-mein-hund-angst-bei-gewitter.html">Frag das Rudel: Angst bei Gewitter →</a>
+        <a class="js-frage" data-dog="roqsy" href="frag-das-rudel/warum-hat-mein-hund-angst-bei-gewitter.html">Frag das Rudel: Angst bei Gewitter →</a>
         <span class="js-empfehlungen" data-dog="roqsy"></span>
       </div>
     </div>
@@ -86,7 +86,7 @@
       <div class="breed">Französische Bulldogge</div>
       <p class="bio">Gemütlich, genussorientiert und ein echter Verhandlungskünstler, wenn es um Portionsgrößen geht. „Ich bin nicht verfressen. Ich überprüfe nur sehr gewissenhaft die Vorräte.“</p>
       <div class="profile-links">
-        <a href="frag-das-rudel/warum-wedelt-mein-hund-beim-fressen.html">Frag das Rudel: Wedeln beim Fressen →</a>
+        <a class="js-frage" data-dog="louis" href="frag-das-rudel/warum-wedelt-mein-hund-beim-fressen.html">Frag das Rudel: Wedeln beim Fressen →</a>
         <span class="js-empfehlungen" data-dog="louis"></span>
       </div>
     </div>
@@ -97,7 +97,7 @@
       <div class="breed">Riesenschnauzer, Senior</div>
       <p class="bio">Erfahren, ruhig und klug – hat schon fast alles gesehen und kommentiert jugendlichen Übereifer mit Gelassenheit. „Langsam ist nicht dasselbe wie planlos.“</p>
       <div class="profile-links">
-        <a href="frag-das-rudel/warum-schlaeft-mein-hund-im-alter-mehr.html">Frag das Rudel: Schlaf im Alter →</a>
+        <a class="js-frage" data-dog="frida" href="frag-das-rudel/warum-schlaeft-mein-hund-im-alter-mehr.html">Frag das Rudel: Schlaf im Alter →</a>
         <span class="js-empfehlungen" data-dog="frida"></span>
       </div>
     </div>
@@ -108,7 +108,7 @@
       <div class="breed">Golden Retriever</div>
       <p class="bio">Warmherzig, verlässlich und die verbindende Figur im Familienalltag. „Familie heißt: Alle haben einen Plan. Ich passe auf, dass trotzdem alles funktioniert.“</p>
       <div class="profile-links">
-        <a href="frag-das-rudel/warum-legt-mein-hund-den-kopf-schief.html">Frag das Rudel: Kopfschräglage →</a>
+        <a class="js-frage" data-dog="luna" href="frag-das-rudel/warum-legt-mein-hund-den-kopf-schief.html">Frag das Rudel: Kopfschräglage →</a>
         <span class="js-empfehlungen" data-dog="luna"></span>
       </div>
     </div>
@@ -140,6 +140,16 @@
       a.textContent = 'Empfehlung: ' + e.productName + ' →';
       span.appendChild(a);
     });
+  });
+
+  // Frag-das-Rudel-Link je Hund auf die jeweils neueste Antwort dieses Hundes setzen
+  document.querySelectorAll('.js-frage').forEach(a => {
+    const dog = a.getAttribute('data-dog');
+    const f = FRAGEN.slice().reverse().find(x => x.dogKey === dog);
+    if (f) {
+      a.href = 'frag-das-rudel/' + encodeURIComponent(f.id) + '.html';
+      a.textContent = 'Frag das Rudel: ' + f.title + ' →';
+    }
   });
 
   // Neueste-Frage-Teaser oben auf der Startseite befüllen (neueste Antwort = letzter Eintrag in FRAGEN)

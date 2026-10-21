@@ -444,5 +444,22 @@ const EMPFEHLUNGEN = [
     ],
     "link": "https://link.amazon/B0eT6HxXe",
     "pageTitle": "Felix empfiehlt: funPETic Futterbeutel – ASK THE DOGS"
+  },
+  {
+    "id": "trinkflasche",
+    "dogKey": "roqsy",
+    "dogName": "Roqsy",
+    "dogBreed": "Bolonka Zwetna",
+    "quote": "Heute geht's auf den Berg, juhuuu!",
+    "productImg": "assets/trinkflasche.jpg",
+    "productName": "Hunde-Trinkflasche für unterwegs, 1 Liter, Edelstahl",
+    "productSub": "3-in-1 mit Wassernapf und Futternapf, doppelwandig isoliert",
+    "reasons": [
+      "3-in-1: Flasche, Wassernapf und Futternapf in einem – nur ein Teil im Rucksack",
+      "Edelstahl, doppelwandig isoliert – 1 Liter Wasser für Wanderung, Spaziergang und Camping",
+      "Näpfe abschraubbar und spülmaschinengeeignet"
+    ],
+    "link": "https://link.amazon/B03XU2uGr",
+    "pageTitle": "Roqsy empfiehlt: Hunde-Trinkflasche 3-in-1 – ASK THE DOGS"
   }
 ];

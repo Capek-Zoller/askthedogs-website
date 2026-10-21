@@ -42,9 +42,9 @@
 <section class="split-teasers">
   <div class="teaser">
     <span class="eyebrow">Neueste Frage</span>
-    <h2>„Warum dreht sich mein Hund im Kreis, bevor er sich hinlegt?“</h2>
-    <p>Felix erklärt, warum das ein uralter Instinkt ist – und warum er trotzdem auf dem Teppich nicht davon ablässt.</p>
-    <a class="link-arrow" href="frag-das-rudel/warum-dreht-sich-mein-hund-im-kreis.html">Antwort lesen →</a>
+    <h2 id="teaser-frage-title">„Warum bringt mein Hund jedem Besucher ein Spielzeug?“</h2>
+    <p id="teaser-frage-text">Luna erklärt, was Retriever im Blut haben – und warum Gäste bei ihr nie ohne Quietschstier ankommen.</p>
+    <a class="link-arrow" id="teaser-frage-link" href="frag-das-rudel/warum-bringt-mein-hund-besuchern-spielzeug.html">Antwort lesen →</a>
   </div>
   <div class="teaser" id="teaser-empfehlung">
     <span class="eyebrow">Neueste Empfehlung</span>
@@ -129,6 +129,7 @@
 </footer>
 
 <script src="assets/empfehlungen-data.js"></script>
+<script src="assets/frag-das-rudel-data.js"></script>
 <script>
   document.querySelectorAll('.js-empfehlungen').forEach(span => {
     const dog = span.getAttribute('data-dog');
@@ -140,6 +141,14 @@
       span.appendChild(a);
     });
   });
+
+  // Neueste-Frage-Teaser oben auf der Startseite befüllen (neueste Antwort = letzter Eintrag in FRAGEN)
+  const newestFrage = FRAGEN[FRAGEN.length - 1];
+  if (newestFrage) {
+    document.getElementById('teaser-frage-title').textContent = '„' + newestFrage.title + '“';
+    document.getElementById('teaser-frage-text').textContent = newestFrage.teaser;
+    document.getElementById('teaser-frage-link').href = 'frag-das-rudel/' + encodeURIComponent(newestFrage.id) + '.html';
+  }
 
   // Neueste-Empfehlung-Teaser oben auf der Startseite befüllen
   const newest = EMPFEHLUNGEN[EMPFEHLUNGEN.length - 1];

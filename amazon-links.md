@@ -6,34 +6,35 @@ Aktuelle Kurzlinks aller Produktempfehlungen mit der Tracking-ID `askthedogs-web
 
 | Nr. | Produktname | Hund | Eintrag (`id`) | Aktueller Link |
 |---|---|---|---|---|
-| 1 | Hunde-Trinkflasche für unterwegs, 1 Liter, Edelstahl, 3-in-1 mit Wassernapf und Futternapf | Roqsy | `trinkflasche` | https://link.amazon/B03XU2uGr |
-| 2 | funPETic Futterbeutel, Leckerli-Tasche mit 4 Fächern | Felix | `leckerlibeutel` | https://link.amazon/B0eT6HxXe |
-| 3 | EHEYCIGA Hundetreppe für kleine Hunde, 40 cm hoch | Louis | `hundetreppe` | https://link.amazon/B06L3kaq6 |
-| 4 | HELDENWERK Kofferraumschutz mit Seiten- & Ladekantenschutz | Luna | `kofferraumschutz` | https://link.amazon/B02C21kXx |
-| 5 | KOSKILL LED Leuchthalsband | Frida | `koskill-leuchthalsband` | https://link.amazon/B0eyQLb7a |
-| 6 | curli Vest Harness Brustgeschirr, Air-Mesh | Roqsy | `curli-vest-harness-camo` | https://link.amazon/B03aL5Ll5 |
-| 7 | KONG Senior Hundespielzeug | Louis | `kong-senior` | https://link.amazon/B07P2Oae9 |
-| 8 | Baskerville Ultra Maulkorb | Frida | `maulkorb-baskerville` | https://link.amazon/B040DgKDM |
-| 9 | PawsOnly Snack-Ball | Luna | `snackball` | https://link.amazon/B0ghPRGfH |
-| 10 | ivvi PROBIOTIC Hunde-Leckerli | Roqsy | `ivvi-probiotic` | https://link.amazon/B00WgbAwf |
-| 11 | ROQSY Natur-Hundeshampoo | Felix | `natur-shampoo` | https://link.amazon/B0hkJBLKE |
-| 12 | BEDSURE Orthopädisches Hundebett | Frida | `ortho-bett` | https://link.amazon/B0aaqVZz7 |
-| 13 | LUOWAN Hundemantel mit Geschirr | Louis | `hundemantel` | https://link.amazon/B053GwiTy |
-| 14 | Canosept Augenpflege-Pads | Felix | `augenpflege-pads` | https://link.amazon/B04QrqCr5 |
-| 15 | OHMO Anti-Schling-Napf | Louis | `anti-schling-napf` | https://link.amazon/B079qXpL6 |
-| 16 | oneisall Hundeschermaschine | Roqsy | `hundeschermaschine` | https://link.amazon/B0566Pzjy |
-| 17 | oneisall Pfotentrimmer für Hunde | Frida | `pfotentrimmer` | https://link.amazon/B056HgCGh |
-| 18 | BluePet RolloTollo Tierhaarentferner | Luna | `tierhaarentferner` | https://link.amazon/B0awea0Vz |
-| 19 | FURminator deShedding-Tool | Luna | `furminator` | https://link.amazon/B010Obnit |
-| 20 | OSDUE Schnüffelteppich | Felix | `schnueffelteppich` | https://link.amazon/B0axyrVjH |
-| 21 | GL Glenslave Hunde-Autositz | Roqsy | `autositz` | https://link.amazon/B0iDxoaSo |
-| 22 | Canosept Ohrpflege-Fingerpads | Luna | `ohrpflege-fingerpads` | https://link.amazon/B0iLsbqHx |
-| 23 | ROQSY Natur-Dörrfisch, 100 % Dorsch | Louis | `dorsch-doerrfisch` | https://link.amazon/B04gHyyDN |
-| 24 | curli Vest Harness, Air-Mesh | Louis | `brustgeschirr` | https://link.amazon/B01jCQ9F6 |
-| 25 | Klappbare Teleskop-Hunderampe | Frida | `hunderampe` | https://link.amazon/B021x7Fib |
-| 26 | EUGAD Hunde-Transportbox | Luna | `transportbox` | https://link.amazon/B0fgjnI6O |
-| 27 | „Angst bei Hunden“ | Roqsy | `angst-bei-hunden-buch` | https://link.amazon/B0bnvMl8w |
-| 28 | Fluffino Hundehandtuch – 2er Set | Luna | `fluffino-handtuch` | https://link.amazon/B028kjtnp |
+| 1 | GIZZY Futterdummy, orange, für Training & Apportieren | Luna | `futterdummy` | https://link.amazon/B00Q4V7uC |
+| 2 | Hunde-Trinkflasche für unterwegs, 1 Liter, Edelstahl, 3-in-1 mit Wassernapf und Futternapf | Roqsy | `trinkflasche` | https://link.amazon/B03XU2uGr |
+| 3 | funPETic Futterbeutel, Leckerli-Tasche mit 4 Fächern | Felix | `leckerlibeutel` | https://link.amazon/B0eT6HxXe |
+| 4 | EHEYCIGA Hundetreppe für kleine Hunde, 40 cm hoch | Louis | `hundetreppe` | https://link.amazon/B06L3kaq6 |
+| 5 | HELDENWERK Kofferraumschutz mit Seiten- & Ladekantenschutz | Luna | `kofferraumschutz` | https://link.amazon/B02C21kXx |
+| 6 | KOSKILL LED Leuchthalsband | Frida | `koskill-leuchthalsband` | https://link.amazon/B0eyQLb7a |
+| 7 | curli Vest Harness Brustgeschirr, Air-Mesh | Roqsy | `curli-vest-harness-camo` | https://link.amazon/B03aL5Ll5 |
+| 8 | KONG Senior Hundespielzeug | Louis | `kong-senior` | https://link.amazon/B07P2Oae9 |
+| 9 | Baskerville Ultra Maulkorb | Frida | `maulkorb-baskerville` | https://link.amazon/B040DgKDM |
+| 10 | PawsOnly Snack-Ball | Luna | `snackball` | https://link.amazon/B0ghPRGfH |
+| 11 | ivvi PROBIOTIC Hunde-Leckerli | Roqsy | `ivvi-probiotic` | https://link.amazon/B00WgbAwf |
+| 12 | ROQSY Natur-Hundeshampoo | Felix | `natur-shampoo` | https://link.amazon/B0hkJBLKE |
+| 13 | BEDSURE Orthopädisches Hundebett | Frida | `ortho-bett` | https://link.amazon/B0aaqVZz7 |
+| 14 | LUOWAN Hundemantel mit Geschirr | Louis | `hundemantel` | https://link.amazon/B053GwiTy |
+| 15 | Canosept Augenpflege-Pads | Felix | `augenpflege-pads` | https://link.amazon/B04QrqCr5 |
+| 16 | OHMO Anti-Schling-Napf | Louis | `anti-schling-napf` | https://link.amazon/B079qXpL6 |
+| 17 | oneisall Hundeschermaschine | Roqsy | `hundeschermaschine` | https://link.amazon/B0566Pzjy |
+| 18 | oneisall Pfotentrimmer für Hunde | Frida | `pfotentrimmer` | https://link.amazon/B056HgCGh |
+| 19 | BluePet RolloTollo Tierhaarentferner | Luna | `tierhaarentferner` | https://link.amazon/B0awea0Vz |
+| 20 | FURminator deShedding-Tool | Luna | `furminator` | https://link.amazon/B010Obnit |
+| 21 | OSDUE Schnüffelteppich | Felix | `schnueffelteppich` | https://link.amazon/B0axyrVjH |
+| 22 | GL Glenslave Hunde-Autositz | Roqsy | `autositz` | https://link.amazon/B0iDxoaSo |
+| 23 | Canosept Ohrpflege-Fingerpads | Luna | `ohrpflege-fingerpads` | https://link.amazon/B0iLsbqHx |
+| 24 | ROQSY Natur-Dörrfisch, 100 % Dorsch | Louis | `dorsch-doerrfisch` | https://link.amazon/B04gHyyDN |
+| 25 | curli Vest Harness, Air-Mesh | Louis | `brustgeschirr` | https://link.amazon/B01jCQ9F6 |
+| 26 | Klappbare Teleskop-Hunderampe | Frida | `hunderampe` | https://link.amazon/B021x7Fib |
+| 27 | EUGAD Hunde-Transportbox | Luna | `transportbox` | https://link.amazon/B0fgjnI6O |
+| 28 | „Angst bei Hunden“ | Roqsy | `angst-bei-hunden-buch` | https://link.amazon/B0bnvMl8w |
+| 29 | Fluffino Hundehandtuch – 2er Set | Luna | `fluffino-handtuch` | https://link.amazon/B028kjtnp |
 
 Reihenfolge wie auf der Empfehlungsseite (neueste zuerst).
 
@@ -43,3 +44,4 @@ Reihenfolge wie auf der Empfehlungsseite (neueste zuerst).
 - 2026-10-16: Neue Empfehlung EHEYCIGA Hundetreppe (Louis) ergänzt, Link `B06L3kaq6`.
 - 2026-10-19: Neue Empfehlung funPETic Futterbeutel (Felix) ergänzt, Link `B0eT6HxXe`.
 - 2026-10-21: Neue Empfehlung Hunde-Trinkflasche 3-in-1 (Roqsy) ergänzt, Link `B03XU2uGr`.
+- 2026-10-24: Neue Empfehlung GIZZY Futterdummy (Luna) ergänzt, Link `B00Q4V7uC`.

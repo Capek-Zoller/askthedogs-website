@@ -461,5 +461,22 @@ const EMPFEHLUNGEN = [
     ],
     "link": "https://link.amazon/B03XU2uGr",
     "pageTitle": "Roqsy empfiehlt: Hunde-Trinkflasche 3-in-1 – ASK THE DOGS"
+  },
+  {
+    "id": "futterdummy",
+    "dogKey": "luna",
+    "dogName": "Luna",
+    "dogBreed": "Golden Retriever",
+    "quote": "Werfen – holen – bringen – und wieder von vorn! Das liebe ich!",
+    "productImg": "assets/futterdummy.jpg",
+    "productName": "GIZZY Futterdummy, orange, für Training & Apportieren",
+    "productSub": "strapazierfähiges Nylon, ca. 24 cm, mit Weitwurfschlaufe und Reflektor",
+    "reasons": [
+      "Strapazierfähiges Nylon, weich im Maul – robust für Apportieren und Training",
+      "Weitwurfschlaufe und Reflektor – gut zu werfen und auch in der Dämmerung sichtbar",
+      "Reißverschluss-Fach (ca. 770 ml) zum Befüllen mit Leckerlis"
+    ],
+    "link": "https://link.amazon/B00Q4V7uC",
+    "pageTitle": "Luna empfiehlt: GIZZY Futterdummy – ASK THE DOGS"
   }
 ];

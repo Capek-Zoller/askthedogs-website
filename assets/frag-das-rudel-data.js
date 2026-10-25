@@ -83,5 +83,15 @@ const FRAGEN = [
     "tags": [
       { "key": "verhalten", "label": "Verhalten" }
     ]
+  },
+  {
+    "id": "warum-weckt-mich-mein-hund-nach-der-zeitumstellung",
+    "dogKey": "roqsy",
+    "dogName": "Roqsy",
+    "title": "Warum weckt mich mein Hund nach der Zeitumstellung eine Stunde zu früh?",
+    "teaser": "Roqsy erklärt, warum die Zeitumstellung für Hundebäuche ein Schock ist – und wie du das Frühstück sanft verschiebst.",
+    "tags": [
+      { "key": "verhalten", "label": "Verhalten" }
+    ]
   }
 ];

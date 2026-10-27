@@ -478,5 +478,22 @@ const EMPFEHLUNGEN = [
     ],
     "link": "https://link.amazon/B00Q4V7uC",
     "pageTitle": "Luna empfiehlt: GIZZY Futterdummy – ASK THE DOGS"
+  },
+  {
+    "id": "chuckit-glow",
+    "dogKey": "felix",
+    "dogName": "Felix",
+    "dogBreed": "West Highland White Terrier",
+    "quote": "Ballspielen trotz Dunkelheit? Mit dem Chuckit Glow sooo ein Spaß!",
+    "productImg": "assets/chuckit-glow.jpg",
+    "productName": "Chuckit! Max Glow Ball, Small (5,2 cm)",
+    "productSub": "leuchtet im Dunkeln, zum Apportieren bei Dunkelheit",
+    "reasons": [
+      "Leuchtet im Dunkeln – Ballspielen und Apportieren auch in der Dämmerung",
+      "Tagsüber im Licht aufladen (mind. 3 Minuten), dann leuchtet er abends von selbst",
+      "Small mit 5,2 cm – passend für kleine Hunde"
+    ],
+    "link": "https://link.amazon/B00wcAB8r",
+    "pageTitle": "Felix empfiehlt: Chuckit! Max Glow Ball – ASK THE DOGS"
   }
 ];

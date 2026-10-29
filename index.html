@@ -184,7 +184,7 @@
   // Hero: neueste Empfehlung (= letzter Eintrag in EMPFEHLUNGEN) befüllen
   const newest = EMPFEHLUNGEN[EMPFEHLUNGEN.length - 1];
   if (newest) {
-    const detail = 'empfehlungen/produkt.html?p=' + encodeURIComponent(newest.id);
+    const detail = 'empfehlungen/index.html'; // "Mehr dazu" führt direkt zur Empfehlungsseite
     document.getElementById('hf-hi').textContent = 'Hi, hier ist ' + newest.dogName + '!';
     const av = document.getElementById('hf-avatar');
     av.src = 'assets/' + newest.dogKey + '.png';

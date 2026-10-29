@@ -873,3 +873,21 @@ a.filter-pill{ text-decoration:none; display:inline-block; }
 @media (max-width:860px){ .hero-rudel{ order:2; } }
 .hero-rudel img{ margin-bottom:-22px; }
 @media (max-width:860px){ .hero-rudel img{ margin-bottom:0; } }
+
+/* Begrüßung jetzt im Empfehlungsfeld */
+.feature-card{ grid-template-areas:"who who" "img body"; }
+.feature-card .hf-who.in-card{ grid-area:who; margin:0; padding-right:90px; }
+.feature-card .fc-img{ grid-area:img; }
+.feature-card .fc-body{ grid-area:body; }
+.hf-who.in-card p{ font-size:1.08rem; }
+.hero-feature{ grid-template-rows:auto; }
+.hr-cap{
+  background:none; padding:0; border-radius:0; margin:0 0 4px;
+  font-size:2.15rem; line-height:1.12; font-weight:600;
+  color:var(--ink); text-align:center;
+}
+@media (max-width:860px){ .hr-cap{ font-size:1.7rem; } }
+@media (max-width:560px){
+  .feature-card{ grid-template-areas:"who" "img" "body"; }
+  .feature-card .hf-who.in-card{ padding-right:0; margin-top:26px; }
+}

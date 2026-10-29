@@ -4,7 +4,7 @@
 // Pflichtfelder: id, dogKey, dogName, dogBreed, quote, productImg, productName, productSub, reasons (3 Stichpunkte), link
 const EMPFEHLUNGEN = [
   {
-    "id": "fluffino-handtuch",
+    "id": "fluffino-handtuch", "category": "Pflege & Fell",
     "dogKey": "luna",
     "dogName": "Luna",
     "dogBreed": "Golden Retriever",
@@ -21,7 +21,7 @@ const EMPFEHLUNGEN = [
     "pageTitle": "Luna empfiehlt: Fluffino Hundehandtuch – ASK THE DOGS"
   },
   {
-    "id": "angst-bei-hunden-buch",
+    "id": "angst-bei-hunden-buch", "category": "Wohlbefinden & Komfort",
     "dogKey": "roqsy",
     "dogName": "Roqsy",
     "dogBreed": "Bolonka Zwetna",
@@ -38,7 +38,7 @@ const EMPFEHLUNGEN = [
     "pageTitle": "Roqsy empfiehlt: „Angst bei Hunden“ – ASK THE DOGS"
   },
   {
-    "id": "transportbox",
+    "id": "transportbox", "category": "Unterwegs & Auto",
     "dogKey": "luna",
     "dogName": "Luna",
     "dogBreed": "Golden Retriever",
@@ -55,7 +55,7 @@ const EMPFEHLUNGEN = [
     "pageTitle": "Luna empfiehlt: Hunde-Transportbox – ASK THE DOGS"
   },
   {
-    "id": "hunderampe",
+    "id": "hunderampe", "category": "Wohlbefinden & Komfort",
     "dogKey": "frida",
     "dogName": "Frida",
     "dogBreed": "Riesenschnauzer, Senior",
@@ -72,7 +72,7 @@ const EMPFEHLUNGEN = [
     "pageTitle": "Frida empfiehlt: Auto-Hunderampe – ASK THE DOGS"
   },
   {
-    "id": "brustgeschirr",
+    "id": "brustgeschirr", "category": "Unterwegs & Auto",
     "dogKey": "louis",
     "dogName": "Louis",
     "dogBreed": "Französische Bulldogge",
@@ -89,7 +89,7 @@ const EMPFEHLUNGEN = [
     "pageTitle": "Louis empfiehlt: Hunde-Brustgeschirr – ASK THE DOGS"
   },
   {
-    "id": "dorsch-doerrfisch",
+    "id": "dorsch-doerrfisch", "category": "Fressen & Trinken",
     "dogKey": "louis",
     "dogName": "Louis",
     "dogBreed": "Französische Bulldogge",
@@ -106,7 +106,7 @@ const EMPFEHLUNGEN = [
     "pageTitle": "Louis empfiehlt: Dorsch-Dörrfisch – ASK THE DOGS"
   },
   {
-    "id": "ohrpflege-fingerpads",
+    "id": "ohrpflege-fingerpads", "category": "Pflege & Fell",
     "dogKey": "luna",
     "dogName": "Luna",
     "dogBreed": "Golden Retriever",
@@ -123,7 +123,7 @@ const EMPFEHLUNGEN = [
     "pageTitle": "Luna empfiehlt: Ohrpflege-Fingerpads – ASK THE DOGS"
   },
   {
-    "id": "autositz",
+    "id": "autositz", "category": "Unterwegs & Auto",
     "dogKey": "roqsy",
     "dogName": "Roqsy",
     "dogBreed": "Bolonka Zwetna",
@@ -140,7 +140,7 @@ const EMPFEHLUNGEN = [
     "pageTitle": "Roqsy empfiehlt: Hunde-Autositz – ASK THE DOGS"
   },
   {
-    "id": "schnueffelteppich",
+    "id": "schnueffelteppich", "category": "Spielen & Training",
     "dogKey": "felix",
     "dogName": "Felix",
     "dogBreed": "West Highland White Terrier",
@@ -157,7 +157,7 @@ const EMPFEHLUNGEN = [
     "pageTitle": "Felix empfiehlt: Schnüffelteppich – ASK THE DOGS"
   },
   {
-    "id": "furminator",
+    "id": "furminator", "category": "Pflege & Fell",
     "dogKey": "luna",
     "dogName": "Luna",
     "dogBreed": "Golden Retriever",
@@ -174,7 +174,7 @@ const EMPFEHLUNGEN = [
     "pageTitle": "Luna empfiehlt: FURminator deShedding-Tool – ASK THE DOGS"
   },
   {
-    "id": "tierhaarentferner",
+    "id": "tierhaarentferner", "category": "Pflege & Fell",
     "dogKey": "luna",
     "dogName": "Luna",
     "dogBreed": "Golden Retriever",
@@ -191,7 +191,7 @@ const EMPFEHLUNGEN = [
     "pageTitle": "Luna empfiehlt: BluePet Tierhaarentferner – ASK THE DOGS"
   },
   {
-    "id": "pfotentrimmer",
+    "id": "pfotentrimmer", "category": "Pflege & Fell",
     "dogKey": "frida",
     "dogName": "Frida",
     "dogBreed": "Riesenschnauzer, Senior",
@@ -208,7 +208,7 @@ const EMPFEHLUNGEN = [
     "pageTitle": "Frida empfiehlt: oneisall Pfotentrimmer – ASK THE DOGS"
   },
   {
-    "id": "hundeschermaschine",
+    "id": "hundeschermaschine", "category": "Pflege & Fell",
     "dogKey": "roqsy",
     "dogName": "Roqsy",
     "dogBreed": "Bolonka Zwetna",
@@ -225,7 +225,7 @@ const EMPFEHLUNGEN = [
     "pageTitle": "Roqsy empfiehlt: oneisall Hundeschermaschine – ASK THE DOGS"
   },
   {
-    "id": "anti-schling-napf",
+    "id": "anti-schling-napf", "category": "Fressen & Trinken",
     "dogKey": "louis",
     "dogName": "Louis",
     "dogBreed": "Französische Bulldogge",
@@ -242,7 +242,7 @@ const EMPFEHLUNGEN = [
     "pageTitle": "Louis empfiehlt: OHMO Anti-Schling-Napf – ASK THE DOGS"
   },
   {
-    "id": "augenpflege-pads",
+    "id": "augenpflege-pads", "category": "Pflege & Fell",
     "dogKey": "felix",
     "dogName": "Felix",
     "dogBreed": "West Highland White Terrier",
@@ -259,7 +259,7 @@ const EMPFEHLUNGEN = [
     "pageTitle": "Felix empfiehlt: Canosept Augenpflege-Pads – ASK THE DOGS"
   },
   {
-    "id": "hundemantel",
+    "id": "hundemantel", "category": "Unterwegs & Auto",
     "dogKey": "louis",
     "dogName": "Louis",
     "dogBreed": "Französische Bulldogge",
@@ -276,7 +276,7 @@ const EMPFEHLUNGEN = [
     "pageTitle": "Louis empfiehlt: LUOWAN Hundemantel – ASK THE DOGS"
   },
   {
-    "id": "ortho-bett",
+    "id": "ortho-bett", "category": "Wohlbefinden & Komfort",
     "dogKey": "frida",
     "dogName": "Frida",
     "dogBreed": "Riesenschnauzer, Senior",
@@ -293,7 +293,7 @@ const EMPFEHLUNGEN = [
     "pageTitle": "Frida empfiehlt: Orthopädisches Hundebett – ASK THE DOGS"
   },
   {
-    "id": "natur-shampoo",
+    "id": "natur-shampoo", "category": "Pflege & Fell",
     "dogKey": "felix",
     "dogName": "Felix",
     "dogBreed": "West Highland White Terrier",
@@ -310,7 +310,7 @@ const EMPFEHLUNGEN = [
     "pageTitle": "Felix empfiehlt: Natur-Hundeshampoo – ASK THE DOGS"
   },
   {
-    "id": "ivvi-probiotic",
+    "id": "ivvi-probiotic", "category": "Fressen & Trinken",
     "dogKey": "roqsy",
     "dogName": "Roqsy",
     "dogBreed": "Bolonka Zwetna",
@@ -327,7 +327,7 @@ const EMPFEHLUNGEN = [
     "pageTitle": "Roqsy empfiehlt: ivvi PROBIOTIC – ASK THE DOGS"
   },
   {
-    "id": "snackball",
+    "id": "snackball", "category": "Spielen & Training",
     "dogKey": "luna",
     "dogName": "Luna",
     "dogBreed": "Golden Retriever",
@@ -344,7 +344,7 @@ const EMPFEHLUNGEN = [
     "pageTitle": "Luna empfiehlt: PawsOnly Snack-Ball – ASK THE DOGS"
   },
   {
-    "id": "maulkorb-baskerville",
+    "id": "maulkorb-baskerville", "category": "Unterwegs & Auto",
     "dogKey": "frida",
     "dogName": "Frida",
     "dogBreed": "Riesenschnauzer, Senior",
@@ -359,9 +359,9 @@ const EMPFEHLUNGEN = [
     ],
     "link": "https://link.amazon/B040DgKDM",
     "pageTitle": "Frida empfiehlt: Baskerville Ultra Maulkorb – ASK THE DOGS"
-  },{"id": "kong-senior", "dogKey": "louis", "dogName": "Louis", "dogBreed": "Französische Bulldogge", "quote": "Ich muss es nur durch die Gegend rollen – dann fallen die Leckerlies raus!", "productImg": "assets/kong-senior.jpg", "productName": "KONG Senior Hundespielzeug", "productSub": "Größe M, hüpft unberechenbar, befüllbar mit Leckerlies", "reasons": ["Der unregelmäßige Hüpfer sorgt für Bewegung und Spaß beim Spielen und Apportieren", "Mit Leckerlies und Futter befüllbar – das beschäftigt jeden Feinschmecker", "Weicher Naturkautschuk, sanft zu Zähnen und Zahnfleisch"], "link": "https://link.amazon/B07P2Oae9", "pageTitle": "Louis empfiehlt: KONG Senior Hundespielzeug – ASK THE DOGS"},
+  },{"id": "kong-senior", "category": "Spielen & Training", "dogKey": "louis", "dogName": "Louis", "dogBreed": "Französische Bulldogge", "quote": "Ich muss es nur durch die Gegend rollen – dann fallen die Leckerlies raus!", "productImg": "assets/kong-senior.jpg", "productName": "KONG Senior Hundespielzeug", "productSub": "Größe M, hüpft unberechenbar, befüllbar mit Leckerlies", "reasons": ["Der unregelmäßige Hüpfer sorgt für Bewegung und Spaß beim Spielen und Apportieren", "Mit Leckerlies und Futter befüllbar – das beschäftigt jeden Feinschmecker", "Weicher Naturkautschuk, sanft zu Zähnen und Zahnfleisch"], "link": "https://link.amazon/B07P2Oae9", "pageTitle": "Louis empfiehlt: KONG Senior Hundespielzeug – ASK THE DOGS"},
   {
-    "id": "curli-vest-harness-camo",
+    "id": "curli-vest-harness-camo", "category": "Unterwegs & Auto",
     "dogKey": "roqsy",
     "dogName": "Roqsy",
     "dogBreed": "Bolonka Zwetna",
@@ -378,7 +378,7 @@ const EMPFEHLUNGEN = [
     "pageTitle": "Roqsy empfiehlt: curli Vest Harness Camo – ASK THE DOGS"
   },
   {
-    "id": "koskill-leuchthalsband",
+    "id": "koskill-leuchthalsband", "category": "Unterwegs & Auto",
     "dogKey": "frida",
     "dogName": "Frida",
     "dogBreed": "Riesenschnauzer, Senior",
@@ -395,7 +395,7 @@ const EMPFEHLUNGEN = [
     "pageTitle": "Frida empfiehlt: KOSKILL LED Leuchthalsband – ASK THE DOGS"
   },
   {
-    "id": "kofferraumschutz",
+    "id": "kofferraumschutz", "category": "Unterwegs & Auto",
     "dogKey": "luna",
     "dogName": "Luna",
     "dogBreed": "Golden Retriever",
@@ -412,7 +412,7 @@ const EMPFEHLUNGEN = [
     "pageTitle": "Luna empfiehlt: HELDENWERK Kofferraumschutz — ASK THE DOGS"
   },
   {
-    "id": "hundetreppe",
+    "id": "hundetreppe", "category": "Wohlbefinden & Komfort",
     "dogKey": "louis",
     "dogName": "Louis",
     "dogBreed": "Französische Bulldogge",
@@ -429,7 +429,7 @@ const EMPFEHLUNGEN = [
     "pageTitle": "Louis empfiehlt: EHEYCIGA Hundetreppe – ASK THE DOGS"
   },
   {
-    "id": "leckerlibeutel",
+    "id": "leckerlibeutel", "category": "Spielen & Training",
     "dogKey": "felix",
     "dogName": "Felix",
     "dogBreed": "West Highland White Terrier",
@@ -446,7 +446,7 @@ const EMPFEHLUNGEN = [
     "pageTitle": "Felix empfiehlt: funPETic Futterbeutel – ASK THE DOGS"
   },
   {
-    "id": "trinkflasche",
+    "id": "trinkflasche", "category": "Unterwegs & Auto",
     "dogKey": "roqsy",
     "dogName": "Roqsy",
     "dogBreed": "Bolonka Zwetna",
@@ -463,7 +463,7 @@ const EMPFEHLUNGEN = [
     "pageTitle": "Roqsy empfiehlt: Hunde-Trinkflasche 3-in-1 – ASK THE DOGS"
   },
   {
-    "id": "futterdummy",
+    "id": "futterdummy", "category": "Spielen & Training",
     "dogKey": "luna",
     "dogName": "Luna",
     "dogBreed": "Golden Retriever",
@@ -480,7 +480,7 @@ const EMPFEHLUNGEN = [
     "pageTitle": "Luna empfiehlt: GIZZY Futterdummy – ASK THE DOGS"
   },
   {
-    "id": "chuckit-glow",
+    "id": "chuckit-glow", "category": "Spielen & Training",
     "dogKey": "felix",
     "dogName": "Felix",
     "dogBreed": "West Highland White Terrier",

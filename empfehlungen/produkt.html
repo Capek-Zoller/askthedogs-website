@@ -24,6 +24,8 @@
   .product-image{ width:100%; max-width:260px; display:block; margin:0 auto 18px; border-radius:var(--radius-sm); }
   .product-name{ font-family:var(--font-display); font-weight:600; font-size:1.2rem; text-align:center; margin:0 0 4px; }
   .product-sub{ text-align:center; color:var(--ink-soft); font-size:0.92rem; margin:0 0 20px; }
+  .sec-h{ font-family:var(--font-display); font-weight:600; font-size:1.2rem; margin:26px 0 0; }
+  .product-desc{ margin:16px 0 0; font-size:0.97rem; line-height:1.6; color:var(--ink-soft); }
   .reasons{ list-style:none; margin:20px 0 0; padding:0; display:grid; gap:12px; }
   .reasons li{ display:flex; gap:10px; align-items:flex-start; font-size:0.95rem; }
   .reasons li .dot{ flex:0 0 auto; width:8px; height:8px; border-radius:50%; background:var(--mustard); margin-top:7px; }
@@ -66,7 +68,13 @@
     </a>
     <p class="cta-note" style="text-align:center;">Affiliate-Link – kostet dich nichts extra, wir erhalten dafür eine kleine Provision. <span class="ad-label">Anzeige</span></p>
 
+    <p id="product-desc" class="product-desc" style="display:none;"></p>
+    <h2 class="sec-h" id="benefits-h">Vorteile</h2>
     <ul id="reasons" class="reasons"></ul>
+    <div id="suitable-box" style="display:none;">
+      <h2 class="sec-h">Für wen geeignet?</h2>
+      <p id="suitable" class="product-desc"></p>
+    </div>
   </main>
 
   <p class="quote-box">„<span id="quote"></span>“</p>
@@ -109,7 +117,9 @@
     document.getElementById('product-name').textContent = entry.productName;
     document.getElementById('product-sub').textContent = entry.productSub;
     const ul = document.getElementById('reasons');
-    entry.reasons.forEach(r => {
+    if (entry.description) { const pd = document.getElementById('product-desc'); pd.textContent = entry.description; pd.style.display = ''; }
+    if (entry.suitable) { document.getElementById('suitable').textContent = entry.suitable; document.getElementById('suitable-box').style.display = ''; }
+    (entry.benefits || entry.reasons).forEach(r => {
       const li = document.createElement('li');
       li.innerHTML = '<span class="dot"></span> ' + r;
       ul.appendChild(li);

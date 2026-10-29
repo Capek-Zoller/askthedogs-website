@@ -36,6 +36,7 @@ Aktuelle Kurzlinks aller Produktempfehlungen mit der Tracking-ID `askthedogs-web
 | 28 | EUGAD Hunde-Transportbox | Luna | `transportbox` | https://link.amazon/B0fgjnI6O |
 | 29 | „Angst bei Hunden“ | Roqsy | `angst-bei-hunden-buch` | https://link.amazon/B0bnvMl8w |
 | 30 | Fluffino Hundehandtuch – 2er Set | Luna | `fluffino-handtuch` | https://link.amazon/B028kjtnp |
+| 31 | Canosept Zahnpflege Finger-Pads für Hunde | Roqsy | `zahnpflege-fingerpads` | https://link.amazon/B009wbIUe |
 
 Reihenfolge wie auf der Empfehlungsseite (neueste zuerst).
 
@@ -47,3 +48,4 @@ Reihenfolge wie auf der Empfehlungsseite (neueste zuerst).
 - 2026-10-21: Neue Empfehlung Hunde-Trinkflasche 3-in-1 (Roqsy) ergänzt, Link `B03XU2uGr`.
 - 2026-10-24: Neue Empfehlung GIZZY Futterdummy (Luna) ergänzt, Link `B00Q4V7uC`.
 - 2026-10-27: Neue Empfehlung Chuckit! Max Glow Ball (Felix) ergänzt, Link `B00wcAB8r`.
+- 2026-10-29: Neue Empfehlung Canosept Zahnpflege Finger-Pads (Roqsy) ergänzt, Link `B009wbIUe` (geprüft: Tag `askthedogs-web-21`, ASIN B07RHNQL6Z).

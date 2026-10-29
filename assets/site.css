@@ -855,3 +855,21 @@ a.filter-pill{ text-decoration:none; display:inline-block; }
   .cat-wrap{ padding:0 16px 50px; }
   .cat-section .card-grid{ grid-template-columns:repeat(2,1fr); gap:12px; }
 }
+
+/* Feinschliff Hero: Rudelbild bündig mit Unterkante der Empfehlungskarte */
+.hero-feature{ align-items:end; }
+.hero-rudel{ align-self:end; display:flex; flex-direction:column; align-items:center; }
+.hr-cap{
+  font-family:var(--font-display);
+  font-weight:600;
+  font-size:1.25rem;
+  color:var(--forest-dark);
+  background:var(--mustard-soft);
+  padding:6px 18px;
+  border-radius:999px;
+  margin-bottom:6px;
+}
+.hero-rudel img{ display:block; max-height:520px; }
+@media (max-width:860px){ .hero-rudel{ order:2; } }
+.hero-rudel img{ margin-bottom:-22px; }
+@media (max-width:860px){ .hero-rudel img{ margin-bottom:0; } }

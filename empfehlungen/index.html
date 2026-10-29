@@ -25,9 +25,35 @@
   <p class="lede">Jeder Hund testet nur, was zu ihm und seinem Alltag passt. Kein Produkt landet hier, das wir nicht selbst verwendet hätten.</p>
 </header>
 
-<div id="card-grid" class="card-grid">
-  <!-- wird automatisch aus assets/empfehlungen-data.js befüllt -->
-</div>
+<section class="rec-top" aria-labelledby="rt-hi">
+  <div class="hf-who">
+    <img class="hf-avatar" id="rt-avatar" src="../assets/felix.png" alt="">
+    <div>
+      <h2 id="rt-hi">Hi, hier ist Felix!</h2>
+      <p>Das ist meine aktuellste Empfehlung:</p>
+    </div>
+  </div>
+  <article class="rec-feature">
+    <span class="ad-label">Anzeige</span>
+    <a class="rf-img" id="rt-img-link" href="#"><img id="rt-img" src="" alt=""></a>
+    <div class="rf-body">
+      <span class="eyebrow">Neueste Empfehlung</span>
+      <h3 id="rt-title">…</h3>
+      <p class="fc-sub" id="rt-sub"></p>
+      <p class="fc-quote" id="rt-quote"></p>
+      <ul class="rf-reasons" id="rt-reasons"></ul>
+      <div class="fc-actions">
+        <a class="cta" id="rt-amazon" href="#" target="_blank" rel="noopener sponsored">Auf Amazon ansehen</a>
+        <a class="btn-outline" id="rt-more" href="#">Details &amp; Gründe</a>
+      </div>
+      <p class="fc-note">Affiliate-Link – kostet dich nichts extra, wir erhalten dafür eine kleine Provision.</p>
+    </div>
+  </article>
+</section>
+
+<nav class="cat-nav" id="cat-nav" aria-label="Kategorien"></nav>
+<div class="cat-wrap" id="cat-wrap"></div>
+
 
 <footer class="site-footer">
   <p>ASK THE DOGS ist ein eigenständiges Affiliate-Content-Projekt von Dr. Griet Capek-Zoller.</p>
@@ -43,23 +69,53 @@
 
 <script src="../assets/empfehlungen-data.js"></script>
 <script>
-  const grid = document.getElementById('card-grid');
-  // .slice().reverse() zeigt die neueste Empfehlung zuerst (Datenliste ist chronologisch, älteste zuerst)
-  EMPFEHLUNGEN.slice().reverse().forEach(e => {
-    const card = document.createElement('div');
-    card.className = 'p-card';
-    card.innerHTML = `
-      <a class="p-card-link" href="produkt.html?p=${encodeURIComponent(e.id)}">
-        <img src="${e.productImg}" alt="${e.productName}">
-        <div class="body">
-          <div class="who">${e.dogName} empfiehlt</div>
-          <h3>${e.productName}</h3>
-          <div class="price">${e.productSub}</div>
-        </div>
-      </a>
-      <a class="p-card-cta" href="${e.link}" target="_blank" rel="noopener sponsored">Jetzt auf Amazon</a>
-    `;
-    grid.appendChild(card);
+  const ORDER = ['Pflege & Fell','Spielen & Training','Unterwegs & Auto','Fressen & Trinken','Wohlbefinden & Komfort'];
+  const FALLBACK = 'Weitere Empfehlungen';
+  const esc = s => String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  const slug = s => s.toLowerCase().replace(/&/g,'und').replace(/[^a-z0-9äöüß]+/g,'-').replace(/^-|-$/g,'');
+
+  const all = EMPFEHLUNGEN.slice().reverse();   // neueste zuerst
+  const newest = all[0];
+  const rest = all.slice(1);
+
+  // Highlight: neueste Empfehlung
+  if (newest) {
+    const detail = 'produkt.html?p=' + encodeURIComponent(newest.id);
+    document.getElementById('rt-hi').textContent = 'Hi, hier ist ' + newest.dogName + '!';
+    const av = document.getElementById('rt-avatar'); av.src = '../assets/' + newest.dogKey + '.png'; av.alt = newest.dogName;
+    const img = document.getElementById('rt-img'); img.src = newest.productImg; img.alt = newest.productName;
+    document.getElementById('rt-img-link').href = detail;
+    document.getElementById('rt-title').textContent = newest.productName;
+    document.getElementById('rt-sub').textContent = newest.productSub;
+    document.getElementById('rt-quote').textContent = '„' + newest.quote + '“';
+    document.getElementById('rt-amazon').href = newest.link;
+    document.getElementById('rt-more').href = detail;
+    const ul = document.getElementById('rt-reasons');
+    (newest.reasons || []).forEach(r => { const li = document.createElement('li'); li.textContent = r; ul.appendChild(li); });
+  }
+
+  // Kategorien
+  const groups = {};
+  rest.forEach(e => { const c = e.category || FALLBACK; (groups[c] = groups[c] || []).push(e); });
+  const names = ORDER.filter(c => groups[c]).concat(Object.keys(groups).filter(c => !ORDER.includes(c)));
+  const nav = document.getElementById('cat-nav');
+  const wrap = document.getElementById('cat-wrap');
+  names.forEach(c => {
+    const id = 'cat-' + slug(c);
+    nav.insertAdjacentHTML('beforeend', `<a class="filter-pill" href="#${id}">${esc(c)}</a>`);
+    const cards = groups[c].map(e => `
+      <div class="p-card">
+        <a class="p-card-link" href="produkt.html?p=${encodeURIComponent(e.id)}">
+          <img src="${esc(e.productImg)}" alt="${esc(e.productName)}">
+          <div class="body">
+            <div class="who">${esc(e.dogName)} empfiehlt</div>
+            <h3>${esc(e.productName)}</h3>
+            <div class="price">${esc(e.productSub)}</div>
+          </div>
+        </a>
+        <a class="p-card-cta" href="${esc(e.link)}" target="_blank" rel="noopener sponsored">Jetzt auf Amazon</a>
+      </div>`).join('');
+    wrap.insertAdjacentHTML('beforeend', `<section class="cat-section" id="${id}"><h2>${esc(c)} <span class="count">${groups[c].length}</span></h2><div class="card-grid">${cards}</div></section>`);
   });
 </script>
 

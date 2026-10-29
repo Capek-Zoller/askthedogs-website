@@ -504,5 +504,31 @@ const EMPFEHLUNGEN = [
     "suitable": "Für kleine Hunde, die gern Bällen hinterherjagen, und für alle, die im Herbst und Winter früh morgens oder nach der Arbeit unterwegs sind. Für mittelgroße und große Hunde gibt es den Ball in größeren Varianten.",
     "link": "https://link.amazon/B00wcAB8r",
     "pageTitle": "Felix empfiehlt: Chuckit! Max Glow Ball – ASK THE DOGS"
+  },
+  {
+    "id": "zahnpflege-fingerpads", "category": "Pflege & Fell",
+    "dogKey": "roqsy",
+    "dogName": "Roqsy",
+    "dogBreed": "Bolonka Zwetna",
+    "quote": "Mein Lächeln ist mein Kapital. Gepflegt wird es mit dem Finger-Pad. Ohne Bürste. Ohne Drama.",
+    "productImg": "assets/zahnpflege-fingerpads.jpg",
+    "productName": "Canosept Zahnpflege Finger-Pads für Hunde",
+    "productSub": "50 Stück, reinigen mit dem Finger – ohne Zahnbürste",
+    "reasons": [
+      "Reinigen mit dem Finger – ganz ohne Zahnbürste und Zahnpasta",
+      "Reduzieren die Bildung von Plaque und fördern frischen Atem",
+      "50 Stück in praktischer Spender-Box"
+    ],
+    "description": "Die Canosept Zahnpflege Finger-Pads sind Fingerlinge zur Zahnreinigung für Hunde. Du streifst ein Pad über den Finger und reinigst damit die Zähne – ohne Zahnbürste und ohne Zahnpasta. Laut Hersteller reduzieren sie die Bildung von Plaque und helfen gegen Mundgeruch. 50 Stück liegen in einer praktischen Spender-Box.",
+    "benefits": [
+      "Einfache Anwendung: Pad auf den Finger, Zähne reinigen – kein Hantieren mit Zahnbürste und Zahnpasta",
+      "Reduzieren die Bildung von Plaque",
+      "Fördern frischen Atem und wirken gegen Mundgeruch",
+      "50 Stück in der Spender-Box – reicht für viele Anwendungen",
+      "Laut Produktangaben für alle Altersklassen geeignet"
+    ],
+    "suitable": "Für alle Hunde, die eine Zahnbürste nicht mögen oder bei denen das Putzen damit schwierig ist – und für alle, die die Zahnpflege einfach und ohne Drama in den Alltag einbauen möchten.",
+    "link": "https://link.amazon/B009wbIUe",
+    "pageTitle": "Roqsy empfiehlt: Canosept Zahnpflege Finger-Pads – ASK THE DOGS"
   }
 ];

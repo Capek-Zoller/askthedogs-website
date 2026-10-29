@@ -72,7 +72,7 @@ const EMPFEHLUNGEN = [
     "pageTitle": "Frida empfiehlt: Auto-Hunderampe – ASK THE DOGS"
   },
   {
-    "id": "brustgeschirr", "category": "Unterwegs & Auto",
+    "id": "brustgeschirr", "category": "Kleidung & Zubehör",
     "dogKey": "louis",
     "dogName": "Louis",
     "dogBreed": "Französische Bulldogge",
@@ -259,7 +259,7 @@ const EMPFEHLUNGEN = [
     "pageTitle": "Felix empfiehlt: Canosept Augenpflege-Pads – ASK THE DOGS"
   },
   {
-    "id": "hundemantel", "category": "Unterwegs & Auto",
+    "id": "hundemantel", "category": "Kleidung & Zubehör",
     "dogKey": "louis",
     "dogName": "Louis",
     "dogBreed": "Französische Bulldogge",
@@ -344,7 +344,7 @@ const EMPFEHLUNGEN = [
     "pageTitle": "Luna empfiehlt: PawsOnly Snack-Ball – ASK THE DOGS"
   },
   {
-    "id": "maulkorb-baskerville", "category": "Unterwegs & Auto",
+    "id": "maulkorb-baskerville", "category": "Kleidung & Zubehör",
     "dogKey": "frida",
     "dogName": "Frida",
     "dogBreed": "Riesenschnauzer, Senior",
@@ -361,7 +361,7 @@ const EMPFEHLUNGEN = [
     "pageTitle": "Frida empfiehlt: Baskerville Ultra Maulkorb – ASK THE DOGS"
   },{"id": "kong-senior", "category": "Spielen & Training", "dogKey": "louis", "dogName": "Louis", "dogBreed": "Französische Bulldogge", "quote": "Ich muss es nur durch die Gegend rollen – dann fallen die Leckerlies raus!", "productImg": "assets/kong-senior.jpg", "productName": "KONG Senior Hundespielzeug", "productSub": "Größe M, hüpft unberechenbar, befüllbar mit Leckerlies", "reasons": ["Der unregelmäßige Hüpfer sorgt für Bewegung und Spaß beim Spielen und Apportieren", "Mit Leckerlies und Futter befüllbar – das beschäftigt jeden Feinschmecker", "Weicher Naturkautschuk, sanft zu Zähnen und Zahnfleisch"], "link": "https://link.amazon/B07P2Oae9", "pageTitle": "Louis empfiehlt: KONG Senior Hundespielzeug – ASK THE DOGS"},
   {
-    "id": "curli-vest-harness-camo", "category": "Unterwegs & Auto",
+    "id": "curli-vest-harness-camo", "category": "Kleidung & Zubehör",
     "dogKey": "roqsy",
     "dogName": "Roqsy",
     "dogBreed": "Bolonka Zwetna",
@@ -378,7 +378,7 @@ const EMPFEHLUNGEN = [
     "pageTitle": "Roqsy empfiehlt: curli Vest Harness Camo – ASK THE DOGS"
   },
   {
-    "id": "koskill-leuchthalsband", "category": "Unterwegs & Auto",
+    "id": "koskill-leuchthalsband", "category": "Kleidung & Zubehör",
     "dogKey": "frida",
     "dogName": "Frida",
     "dogBreed": "Riesenschnauzer, Senior",
@@ -493,6 +493,15 @@ const EMPFEHLUNGEN = [
       "Tagsüber im Licht aufladen (mind. 3 Minuten), dann leuchtet er abends von selbst",
       "Small mit 5,2 cm – passend für kleine Hunde"
     ],
+    "description": "Der Chuckit! Max Glow Ball ist ein Apportierball, der im Dunkeln leuchtet. Er lädt sich bei Tageslicht oder unter einer Lampe auf und gibt das Licht danach wieder ab – ideal für Spaziergänge in der Dämmerung und in der dunklen Jahreszeit. In der Größe Small (5,2 cm) ist er für kleine Hunde wie Felix gemacht.",
+    "benefits": [
+      "Leuchtet im Dunkeln – du siehst jederzeit, wo der Ball liegt und wohin dein Hund rennt",
+      "Einfach aufzuladen: mindestens 3 Minuten ins Licht halten, dann leuchtet er abends von selbst",
+      "Ballspielen und Apportieren auch an dunklen Morgen und Abenden",
+      "Small mit 5,2 cm – passende Größe für kleine Hunde",
+      "Lässt die Leuchtkraft nach: einfach wieder kurz ins Licht halten"
+    ],
+    "suitable": "Für kleine Hunde, die gern Bällen hinterherjagen, und für alle, die im Herbst und Winter früh morgens oder nach der Arbeit unterwegs sind. Für mittelgroße und große Hunde gibt es den Ball in größeren Varianten.",
     "link": "https://link.amazon/B00wcAB8r",
     "pageTitle": "Felix empfiehlt: Chuckit! Max Glow Ball – ASK THE DOGS"
   }

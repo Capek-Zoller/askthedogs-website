@@ -19,7 +19,37 @@
   </div>
 </nav>
 
-<header class="hero-home">
+<section class="hero-feature" aria-labelledby="hf-hi">
+  <div class="hf-main">
+    <div class="hf-who">
+      <img class="hf-avatar" id="hf-avatar" src="assets/felix.png" alt="">
+      <div>
+        <h1 id="hf-hi">Hi, hier ist Felix!</h1>
+        <p>Das hier ist unsere aktuellste Empfehlung:</p>
+      </div>
+    </div>
+    <article class="feature-card">
+      <span class="ad-label">Anzeige</span>
+      <a class="fc-img" id="fc-img-link" href="empfehlungen/index.html"><img id="fc-img" src="" alt=""></a>
+      <div class="fc-body">
+        <span class="eyebrow">Neueste Empfehlung</span>
+        <h2 id="fc-title">…</h2>
+        <p class="fc-sub" id="fc-sub"></p>
+        <p class="fc-quote" id="fc-quote"></p>
+        <div class="fc-actions">
+          <a class="cta" id="fc-amazon" href="#" target="_blank" rel="noopener sponsored">Auf Amazon ansehen</a>
+          <a class="btn-outline" id="fc-more" href="empfehlungen/index.html">Mehr dazu</a>
+        </div>
+        <p class="fc-note">Affiliate-Link – kostet dich nichts extra, wir erhalten dafür eine kleine Provision.</p>
+      </div>
+    </article>
+  </div>
+  <figure class="hero-rudel">
+    <img src="assets/rudel-hochformat.jpg" alt="Das ganze Rudel: Frida, Luna, Felix, Roqsy und Louis" width="820" height="1035">
+  </figure>
+</section>
+
+<header class="hero-home hero-home-intro">
   <div class="pack-row">
     <a href="#felix"><img src="assets/felix.png" alt="Felix"><span class="pname">Felix</span></a>
     <a href="#roqsy"><img src="assets/roqsy.png" alt="Roqsy"><span class="pname">Roqsy</span></a>
@@ -35,22 +65,12 @@
   </div>
 </header>
 
-<div class="rudel-photo">
-  <img src="assets/rudel-gruppe.jpg" alt="Das ganze Rudel: Luna, Louis, Roqsy, Felix und Frida">
-</div>
-
-<section class="split-teasers">
+<section class="split-teasers single">
   <div class="teaser">
     <span class="eyebrow">Neueste Frage</span>
     <h2 id="teaser-frage-title">„Warum bringt mein Hund jedem Besucher ein Spielzeug?“</h2>
     <p id="teaser-frage-text">Luna erklärt, was Retriever im Blut haben – und warum Gäste bei ihr nie ohne Quietschstier ankommen.</p>
     <a class="link-arrow" id="teaser-frage-link" href="frag-das-rudel/warum-bringt-mein-hund-besuchern-spielzeug.html">Antwort lesen →</a>
-  </div>
-  <div class="teaser" id="teaser-empfehlung">
-    <span class="eyebrow">Neueste Empfehlung</span>
-    <h2 id="teaser-empf-title">…</h2>
-    <p id="teaser-empf-text"></p>
-    <a class="link-arrow" id="teaser-empf-link" href="#">Empfehlung ansehen →</a>
   </div>
 </section>
 
@@ -160,12 +180,24 @@
     document.getElementById('teaser-frage-link').href = 'frag-das-rudel/' + encodeURIComponent(newestFrage.id) + '.html';
   }
 
-  // Neueste-Empfehlung-Teaser oben auf der Startseite befüllen
+  // Hero: neueste Empfehlung (= letzter Eintrag in EMPFEHLUNGEN) befüllen
   const newest = EMPFEHLUNGEN[EMPFEHLUNGEN.length - 1];
   if (newest) {
-    document.getElementById('teaser-empf-title').textContent = newest.productName;
-    document.getElementById('teaser-empf-text').textContent = newest.dogName + ' empfiehlt: ' + newest.quote;
-    document.getElementById('teaser-empf-link').href = 'empfehlungen/produkt.html?p=' + encodeURIComponent(newest.id);
+    const detail = 'empfehlungen/produkt.html?p=' + encodeURIComponent(newest.id);
+    document.getElementById('hf-hi').textContent = 'Hi, hier ist ' + newest.dogName + '!';
+    const av = document.getElementById('hf-avatar');
+    av.src = 'assets/' + newest.dogKey + '.png';
+    av.alt = newest.dogName;
+    const img = document.getElementById('fc-img');
+    img.src = 'empfehlungen/' + newest.productImg;
+    img.alt = newest.productName;
+    document.getElementById('fc-img-link').href = detail;
+    document.getElementById('fc-title').textContent = newest.productName;
+    document.getElementById('fc-sub').textContent = newest.productSub;
+    document.getElementById('fc-quote').textContent = '„' + newest.quote + '“';
+    document.getElementById('fc-amazon').href = newest.link;
+    document.getElementById('fc-more').href = detail;
+    document.title = 'ASK THE DOGS – Ein Rudel. Fünf Hunde. Fünf Meinungen.';
   }
 </script>
 

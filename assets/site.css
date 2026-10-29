@@ -891,3 +891,25 @@ a.filter-pill{ text-decoration:none; display:inline-block; }
   .feature-card{ grid-template-areas:"who" "img" "body"; }
   .feature-card .hf-who.in-card{ padding-right:0; margin-top:26px; }
 }
+
+/* Überschrift mittig über Empfehlung + Rudel; Begrüßung klein */
+.hero-feature .hr-cap{
+  grid-column:1/-1;
+  text-align:center;
+  font-family:var(--font-display);
+  font-weight:600;
+  font-size:2.3rem;
+  line-height:1.15;
+  margin:0 0 4px;
+}
+.hf-who.in-card h2{
+  font-family:var(--font-display);
+  font-weight:600;
+  font-size:1.05rem;
+  line-height:1.2;
+  margin:0 0 2px;
+}
+.hf-who.in-card p{ font-size:0.9rem; }
+.feature-card .hf-who.in-card .hf-avatar{ width:52px; height:52px; border-width:3px; }
+.feature-card .hf-who.in-card{ gap:12px; }
+@media (max-width:860px){ .hero-feature .hr-cap{ font-size:1.7rem; } }

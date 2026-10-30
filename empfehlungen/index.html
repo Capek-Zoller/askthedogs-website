@@ -81,7 +81,6 @@
 
   const all = EMPFEHLUNGEN.slice().reverse();   // neueste zuerst
   const newest = all[0];
-  const rest = all.slice(1);
 
   // Highlight: neueste Empfehlung
   if (newest) {
@@ -113,7 +112,7 @@
 
   // Kategorien
   const groups = {};
-  rest.forEach(e => { const c = e.category || FALLBACK; (groups[c] = groups[c] || []).push(e); });
+  all.forEach(e => { const c = e.category || FALLBACK; (groups[c] = groups[c] || []).push(e); });
   const names = ORDER.filter(c => groups[c]).concat(Object.keys(groups).filter(c => !ORDER.includes(c)));
   const nav = document.getElementById('cat-nav');
   const wrap = document.getElementById('cat-wrap');

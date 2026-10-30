@@ -51,6 +51,11 @@
   </article>
 </section>
 
+<section class="recent-row" id="recent-row" style="display:none;" aria-labelledby="recent-h">
+  <h2 id="recent-h">Zuletzt empfohlen</h2>
+  <div class="recent-grid" id="recent-grid"></div>
+</section>
+
 <nav class="cat-nav" id="cat-nav" aria-label="Kategorien"></nav>
 <div class="cat-wrap" id="cat-wrap"></div>
 
@@ -92,6 +97,18 @@
     document.getElementById('rt-more').href = detail;
     const ul = document.getElementById('rt-reasons');
     (newest.reasons || []).forEach(r => { const li = document.createElement('li'); li.textContent = r; ul.appendChild(li); });
+  }
+
+  // Zuletzt empfohlen: die 4 Produkte vor der neuesten (sie bleiben zusätzlich in ihrer Kategorie)
+  const recent = all.slice(1, 5);
+  if (recent.length) {
+    document.getElementById('recent-grid').innerHTML = recent.map(e => `
+      <a class="recent-card" href="produkt.html?p=${encodeURIComponent(e.id)}">
+        <img src="${esc(e.productImg)}" alt="${esc(e.productName)}">
+        <span class="who">${esc(e.dogName)} empfiehlt</span>
+        <span class="name">${esc(e.productName)}</span>
+      </a>`).join('');
+    document.getElementById('recent-row').style.display = '';
   }
 
   // Kategorien

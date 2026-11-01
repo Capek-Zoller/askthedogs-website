@@ -93,5 +93,15 @@ const FRAGEN = [
     "tags": [
       { "key": "verhalten", "label": "Verhalten" }
     ]
+  },
+  {
+    "id": "spuert-mein-hund-wenn-ich-traurig-bin",
+    "dogKey": "frida",
+    "dogName": "Frida",
+    "title": "Spürt mein Hund, wenn ich traurig bin?",
+    "teaser": "Frida erklärt, wie Hunde merken, wenn wir traurig sind – und warum Trost bei ihr Gewicht hat.",
+    "tags": [
+      { "key": "verhalten", "label": "Verhalten" }
+    ]
   }
 ];

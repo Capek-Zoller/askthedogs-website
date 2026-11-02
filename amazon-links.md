@@ -37,7 +37,7 @@ Aktuelle Kurzlinks aller Produktempfehlungen mit der Tracking-ID `askthedogs-web
 | 29 | „Angst bei Hunden“ | Roqsy | `angst-bei-hunden-buch` | https://link.amazon/B0bnvMl8w |
 | 30 | Fluffino Hundehandtuch – 2er Set | Luna | `fluffino-handtuch` | https://link.amazon/B028kjtnp |
 | 31 | Canosept Zahnpflege Finger-Pads für Hunde | Roqsy | `zahnpflege-fingerpads` | https://link.amazon/B009wbIUe |
-| 32 | SANOZOO Napfunterlage | Louis | `napfunterlage-sanozoo` | https://link.amazon/B0dCRFHfA |
+| 32 | SANOZOO Napfunterlage | Louis | `napfunterlage-sanozoo` | https://link.amazon/B02qLI3VE |
 
 Reihenfolge wie auf der Empfehlungsseite (neueste zuerst).
 
@@ -50,4 +50,4 @@ Reihenfolge wie auf der Empfehlungsseite (neueste zuerst).
 - 2026-10-24: Neue Empfehlung GIZZY Futterdummy (Luna) ergänzt, Link `B00Q4V7uC`.
 - 2026-10-27: Neue Empfehlung Chuckit! Max Glow Ball (Felix) ergänzt, Link `B00wcAB8r`.
 - 2026-10-29: Neue Empfehlung Canosept Zahnpflege Finger-Pads (Roqsy) ergänzt, Link `B009wbIUe` (geprüft: Tag `askthedogs-web-21`, ASIN B07RHNQL6Z).
-- 2026-11-02: Neue Empfehlung SANOZOO Napfunterlage (Louis) ergänzt, Link `B0dCRFHfA` (Variante grau, halbrund, 30 x 60 cm; geprüft: Tag `askthedogs-web-21`, Amazon öffnet beim Test die Seite ASIN B0G2BD44T1 mit Voreinstellung Rot/Blatt 60 x 90 cm, die Variante wird über den Link nicht vorausgewählt).
+- 2026-11-02: Neue Empfehlung SANOZOO Napfunterlage (Louis) ergänzt, Link `B02qLI3VE` (Variante grau, halbrund, 30 x 60 cm, ASIN B0BZ45F6DV; geprüft: Seite zeigt „Halbrund 30x60cm Grau", Tag `askthedogs-web-21`). Vorherige Links B08WymtzJ und B0dCRFHfA führten auf die Variante Rot/Blatt 60 x 90 cm.

@@ -555,7 +555,7 @@ const EMPFEHLUNGEN = [
       "Auch outdoor geeignet und platzsparend zusammenrollbar für unterwegs"
     ],
     "suitable": "Für alle Hunde, die beim Trinken und Fressen gern kleckern und schlabbern, und für Halter, die einen trockenen Boden möchten. Laut Hersteller auch ideal für ältere Hunde, denen das Stehen nicht mehr so leichtfällt. Wähle Farbe, Form und Größe passend zu Napf und Wohnung.",
-    "link": "https://link.amazon/B0dCRFHfA",
+    "link": "https://link.amazon/B02qLI3VE",
     "pageTitle": "Louis empfiehlt: SANOZOO Napfunterlage – ASK THE DOGS"
   }
 ];

@@ -530,5 +530,32 @@ const EMPFEHLUNGEN = [
     "suitable": "Für alle Hunde, die eine Zahnbürste nicht mögen oder bei denen das Putzen damit schwierig ist – und für alle, die die Zahnpflege einfach und ohne Drama in den Alltag einbauen möchten.",
     "link": "https://link.amazon/B009wbIUe",
     "pageTitle": "Roqsy empfiehlt: Canosept Zahnpflege Finger-Pads – ASK THE DOGS"
+  },
+  {
+    "id": "napfunterlage-sanozoo", "category": "Fressen & Trinken",
+    "dogKey": "louis",
+    "dogName": "Louis",
+    "dogBreed": "Französische Bulldogge",
+    "quote": "Ich schlabbere – oui – ich geb's zu. Früher gab es Überschwemmung. Heute fängt die MATTE alles auf.",
+    "productImg": "assets/napfunterlage-sanozoo.jpg",
+    "productName": "SANOZOO Napfunterlage",
+    "productSub": "beidseitig rutschfest, wasserundurchlässig, waschbar – Made in Germany",
+    "reasons": [
+      "Beidseitig rutschfest – Napf und Matte bleiben an Ort und Stelle",
+      "Wasserundurchlässig und waschbar, auch in der Spül- oder Waschmaschine (bis 60 Grad)",
+      "Öko-Tex-100-zertifiziert und Made in Germany"
+    ],
+    "description": "Die SANOZOO Napfunterlage fängt verschüttetes Wasser und Futter auf und schützt so den Boden. Sie ist beidseitig rutschfest und wasserundurchlässig, sodass der Napf nicht wandert und nichts durchsickert. Zum Reinigen genügt Abwischen oder Abspülen, für gründliche Sauberkeit darf sie in die Spül- oder Waschmaschine (bis 60 Grad). Es gibt sie in über 200 Kombinationen aus Farbe, Form und Größe, und sie lässt sich bei Bedarf zuschneiden.",
+    "benefits": [
+      "Beidseitig rutschfest – hält den Napf auch bei sehr aktiven Hunden an Ort und Stelle",
+      "Wasserundurchlässig – schützt den Boden vor Wasser und Futterresten",
+      "Einfach zu reinigen: abwischen, abspülen oder in die Spül- bzw. Waschmaschine (bis 60 Grad)",
+      "Öko-Tex-100-zertifiziert, frei von schädlichen Chemikalien, Farbstoffen, Gummi und Silikonen",
+      "Made in Germany, in über 200 Kombinationen aus Farbe, Form und Größe, zuschneidbar",
+      "Auch outdoor geeignet und platzsparend zusammenrollbar für unterwegs"
+    ],
+    "suitable": "Für alle Hunde, die beim Trinken und Fressen gern kleckern und schlabbern, und für Halter, die einen trockenen Boden möchten. Laut Hersteller auch ideal für ältere Hunde, denen das Stehen nicht mehr so leichtfällt. Wähle Farbe, Form und Größe passend zu Napf und Wohnung.",
+    "link": "https://link.amazon/B08WymtzJ",
+    "pageTitle": "Louis empfiehlt: SANOZOO Napfunterlage – ASK THE DOGS"
   }
 ];

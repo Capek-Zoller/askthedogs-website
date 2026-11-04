@@ -17,7 +17,7 @@ Aktuelle Kurzlinks aller Produktempfehlungen mit der Tracking-ID `askthedogs-web
 | 9 | KONG Senior Hundespielzeug | Louis | `kong-senior` | https://link.amazon/B07P2Oae9 |
 | 10 | Baskerville Ultra Maulkorb | Frida | `maulkorb-baskerville` | https://link.amazon/B040DgKDM |
 | 11 | PawsOnly Snack-Ball | Luna | `snackball` | https://link.amazon/B0ghPRGfH |
-| 12 | ivvi PROBIOTIC Hunde-Leckerli | Roqsy | `ivvi-probiotic` | https://link.amazon/B00WgbAwf |
+| 12 | ivvi PROBIOTIC Hunde-Leckerli | Roqsy | `ivvi-probiotic` | https://link.amazon/B085SCnu9 |
 | 13 | ROQSY Natur-Hundeshampoo | Felix | `natur-shampoo` | https://link.amazon/B0hkJBLKE |
 | 14 | BEDSURE Orthopädisches Hundebett | Frida | `ortho-bett` | https://link.amazon/B0aaqVZz7 |
 | 15 | LUOWAN Hundemantel mit Geschirr | Louis | `hundemantel` | https://link.amazon/B053GwiTy |
@@ -51,3 +51,4 @@ Reihenfolge wie auf der Empfehlungsseite (neueste zuerst).
 - 2026-10-27: Neue Empfehlung Chuckit! Max Glow Ball (Felix) ergänzt, Link `B00wcAB8r`.
 - 2026-10-29: Neue Empfehlung Canosept Zahnpflege Finger-Pads (Roqsy) ergänzt, Link `B009wbIUe` (geprüft: Tag `askthedogs-web-21`, ASIN B07RHNQL6Z).
 - 2026-11-02: Neue Empfehlung SANOZOO Napfunterlage (Louis) ergänzt, Link `B02qLI3VE` (Variante grau, halbrund, 30 x 60 cm, ASIN B0BZ45F6DV; geprüft: Seite zeigt „Halbrund 30x60cm Grau", Tag `askthedogs-web-21`). Vorherige Links B08WymtzJ und B0dCRFHfA führten auf die Variante Rot/Blatt 60 x 90 cm.
+- 2026-11-04: Wiederholte Empfehlung ivvi PROBIOTIC (Roqsy, Nr. 12) mit neuem Link `B085SCnu9` (geprüft: Tag `askthedogs-web-21`, ASIN B0BC2B6K5B, 60 Snacks mit Huhn), alter Link `B00WgbAwf` ersetzt; Eintrag aktualisiert (Beschreibung, Vorteile, neues Bild) und als neueste Empfehlung nach vorn gestellt.

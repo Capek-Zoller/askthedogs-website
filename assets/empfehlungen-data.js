@@ -310,23 +310,6 @@ const EMPFEHLUNGEN = [
     "pageTitle": "Felix empfiehlt: Natur-Hundeshampoo – ASK THE DOGS"
   },
   {
-    "id": "ivvi-probiotic", "category": "Fressen & Trinken",
-    "dogKey": "roqsy",
-    "dogName": "Roqsy",
-    "dogBreed": "Bolonka Zwetna",
-    "quote": "Kein Sodbrennen mehr – einfach Ruhe im Bauch!",
-    "productImg": "assets/ivvi-probiotic.jpg",
-    "productName": "ivvi PROBIOTIC Hunde-Leckerli",
-    "productSub": "mit Bacillus Subtilis & Enterococcus Faecium, gegen Sodbrennen",
-    "reasons": [
-      "Reguliert die Darmflora mit 2 Probiotikastämmen (Bacillus Subtilis & Enterococcus Faecium)",
-      "Reich an Kürbisfleisch, Leinsamen und Hafer für eine gesunde Verdauung",
-      "Als tägliches Leckerli einfach zu füttern – keine Kapseln oder Pulver nötig"
-    ],
-    "link": "https://link.amazon/B00WgbAwf",
-    "pageTitle": "Roqsy empfiehlt: ivvi PROBIOTIC – ASK THE DOGS"
-  },
-  {
     "id": "snackball", "category": "Spielen & Training",
     "dogKey": "luna",
     "dogName": "Luna",
@@ -557,5 +540,32 @@ const EMPFEHLUNGEN = [
     "suitable": "Für alle Hunde, die beim Trinken und Fressen gern kleckern und schlabbern, und für Halter, die einen trockenen Boden möchten. Laut Hersteller auch ideal für ältere Hunde, denen das Stehen nicht mehr so leichtfällt. Wähle Farbe, Form und Größe passend zu Napf und Wohnung.",
     "link": "https://link.amazon/B02qLI3VE",
     "pageTitle": "Louis empfiehlt: SANOZOO Napfunterlage – ASK THE DOGS"
+  },
+  {
+    "id": "ivvi-probiotic", "category": "Fressen & Trinken",
+    "dogKey": "roqsy",
+    "dogName": "Roqsy",
+    "dogBreed": "Bolonka Zwetna",
+    "quote": "Lippen lecken, schlucken, schmatzen, nachts keine Ruhe! Ich mag kein Feuerwerk. Schon gar nicht im Bauch! Wenn auch dein Hund ein Feuerwerk im Bauch hat: Versuch's mit ivvi Probiotic – mir hilft es!",
+    "productImg": "assets/probiotic-ivvi.jpg",
+    "productName": "ivvi PROBIOTIC Hunde-Leckerli",
+    "productSub": "Probiotika als Leckerli – 60 Snacks mit Huhn, Kürbis & Leinsamen",
+    "reasons": [
+      "Reguliert die Darmflora mit 2 Probiotikastämmen (Bacillus subtilis & Enterococcus faecium)",
+      "Reich an Kürbisfleisch, Leinsamen und Hafer für eine gesunde Verdauung",
+      "Als tägliches Leckerli einfach zu füttern – keine Kapseln oder Pulver nötig"
+    ],
+    "description": "ivvi PROBIOTIC sind Probiotika im Leckerli-Format: 60 Snacks (270 g) mit Huhn, Kürbis und Leinsamen. Laut Hersteller enthalten sie zwei Probiotikastämme sowie MicroFOS ULTRA, eine Kombination aus Präbiotika FOS, MOS und Beta-Glucan, die die Mikroflora des Darms unterstützt. Dazu kommen Kürbisfleisch, Leinsamen, Hafer und Kürbiskerne als Quelle von Ballaststoffen, Vitaminen und Antioxidantien.",
+    "benefits": [
+      "2 Probiotikastämme (Bacillus subtilis und Enterococcus faecium) zur Regulierung der Darm- und Verdauungsgesundheit",
+      "MicroFOS ULTRA: Kombination aus Präbiotika FOS, MOS und Beta-Glucan zur Unterstützung der Mikroflora des Darms",
+      "Kürbisfleisch – reich an löslichen und unlöslichen Ballaststoffen für eine gut funktionierende Verdauung",
+      "Leinsamen – eine Kulturpflanze, reich an Ballaststoffen und Omega-3-Fettsäuren",
+      "Hafer mit Beta-Glucan und Kürbiskerne mit Vitaminen, Ballaststoffen und Antioxidantien",
+      "60 Snacks mit Huhn – als Leckerli leicht zu geben"
+    ],
+    "suitable": "Für Hunde, deren Bauch öfter mal Theater macht, und für Halter, die die Darmflora ihres Hundes mit einem Leckerli statt mit Pulver oder Tabletten unterstützen möchten. Bei anhaltenden Verdauungsproblemen bitte den Tierarzt fragen.",
+    "link": "https://link.amazon/B085SCnu9",
+    "pageTitle": "Roqsy empfiehlt: ivvi PROBIOTIC – ASK THE DOGS"
   }
 ];

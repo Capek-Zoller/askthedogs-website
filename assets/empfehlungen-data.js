@@ -567,5 +567,32 @@ const EMPFEHLUNGEN = [
     "suitable": "Für Hunde, deren Bauch öfter mal Theater macht, und für Halter, die die Darmflora ihres Hundes mit einem Leckerli statt mit Pulver oder Tabletten unterstützen möchten. Bei anhaltenden Verdauungsproblemen bitte den Tierarzt fragen.",
     "link": "https://link.amazon/B085SCnu9",
     "pageTitle": "Roqsy empfiehlt: ivvi PROBIOTIC – ASK THE DOGS"
+  },
+  {
+    "id": "kauspielzeug-buygoo", "category": "Spielen & Training",
+    "dogKey": "felix",
+    "dogName": "Felix",
+    "dogBreed": "West Highland White Terrier",
+    "quote": "Tauziehen ist ganz einfach. Wer loslässt, verliert. Ich lasse nie los. Hihi.",
+    "productImg": "assets/kauspielzeug-buygoo.jpg",
+    "productName": "BUYGOO Kauspielzeug-Set",
+    "productSub": "6 Spielzeuge aus Baumwollseil zum Kauen, Werfen und Zerren",
+    "reasons": [
+      "6 verschiedene Spielzeuge in einem Set – Tauziehen, Werfen und Kauen mit Abwechslung",
+      "Aus Baumwollseil, griffig für kleine Hundekiefer",
+      "Verschiedene Formen und Größen von 6 bis 29 cm"
+    ],
+    "description": "Das BUYGOO Kauspielzeug-Set enthält sechs Spielzeuge aus Baumwollseil: Seile mit Griff und Knoten, Hantel, Knotenball und Zugschlaufen. Sie eignen sich zum Zerren, Werfen und Kauen und sind laut Produktbild griffig für kleine Hundekiefer. Mit sechs verschiedenen Formen ist für jede Spielrunde etwas dabei – vom Tauziehen mit dem Menschen bis zum Kauen allein.",
+    "benefits": [
+      "6 Spielzeuge in einem Set – viel Abwechslung für wenig Geld",
+      "Aus Baumwollseil, griffig für kleine Hundekiefer",
+      "Zum Zerren (Tauziehen), Werfen und Kauen geeignet",
+      "Verschiedene Formen: Seile mit Knoten, Hantel, Zugschlaufen und Knotenball",
+      "Größen von ca. 6 cm (Ball) bis 29 cm – handlich für kleine und mittlere Hunde",
+      "Bunt in Grün, Blau und Orange – gut zu sehen und zu finden"
+    ],
+    "suitable": "Für verspielte Hunde, die gern zerren, tauziehen und kauen, vor allem kleine und mittelgroße Rassen. Beim Spielen bitte dabeibleiben und das Spielzeug austauschen, sobald es kaputt geht oder sich Fäden lösen.",
+    "link": "https://link.amazon/B0czmoMs6",
+    "pageTitle": "Felix empfiehlt: BUYGOO Kauspielzeug-Set – ASK THE DOGS"
   }
 ];

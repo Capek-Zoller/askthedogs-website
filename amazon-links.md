@@ -39,6 +39,7 @@ Aktuelle Kurzlinks aller Produktempfehlungen mit der Tracking-ID `askthedogs-web
 | 31 | Canosept Zahnpflege Finger-Pads für Hunde | Roqsy | `zahnpflege-fingerpads` | https://link.amazon/B009wbIUe |
 | 32 | SANOZOO Napfunterlage | Louis | `napfunterlage-sanozoo` | https://link.amazon/B02qLI3VE |
 | 33 | BUYGOO Kauspielzeug-Set (6 Stück, Baumwollseil) | Felix | `kauspielzeug-buygoo` | https://link.amazon/B0czmoMs6 |
+| 34 | TRIXIE Hunde-Regenmantel Vimy | Frida | `regenmantel-trixie` | https://link.amazon/B09NVTtt6 |
 
 Reihenfolge wie auf der Empfehlungsseite (neueste zuerst).
 
@@ -54,3 +55,4 @@ Reihenfolge wie auf der Empfehlungsseite (neueste zuerst).
 - 2026-11-02: Neue Empfehlung SANOZOO Napfunterlage (Louis) ergänzt, Link `B02qLI3VE` (Variante grau, halbrund, 30 x 60 cm, ASIN B0BZ45F6DV; geprüft: Seite zeigt „Halbrund 30x60cm Grau", Tag `askthedogs-web-21`). Vorherige Links B08WymtzJ und B0dCRFHfA führten auf die Variante Rot/Blatt 60 x 90 cm.
 - 2026-11-04: Wiederholte Empfehlung ivvi PROBIOTIC (Roqsy, Nr. 12) mit neuem Link `B085SCnu9` (geprüft: Tag `askthedogs-web-21`, ASIN B0BC2B6K5B, 60 Snacks mit Huhn), alter Link `B00WgbAwf` ersetzt; Eintrag aktualisiert (Beschreibung, Vorteile, neues Bild) und als neueste Empfehlung nach vorn gestellt.
 - 2026-11-06: Neue Empfehlung BUYGOO Kauspielzeug-Set (Felix) ergänzt, Link `B0czmoMs6` (geprüft: Tag `askthedogs-web-21`, ASIN B0BZKZCJNB).
+- 2026-11-09: Neue Empfehlung TRIXIE Hunde-Regenmantel Vimy (Frida) ergänzt, Link `B09NVTtt6` (geprüft: Tag `askthedogs-web-21`, ASIN B089ZC7Q7G, Variante XL gelb). Ein erster Link `B0cLEXIRZ` hatte das falsche Tag `askthedogs-21` und wurde nicht verwendet.

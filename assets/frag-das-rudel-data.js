@@ -103,5 +103,15 @@ const FRAGEN = [
     "tags": [
       { "key": "verhalten", "label": "Verhalten" }
     ]
+  },
+  {
+    "id": "warum-gaehnt-mein-hund-wenn-ich-gaehne",
+    "dogKey": "louis",
+    "dogName": "Louis",
+    "title": "Warum gähnt mein Hund, wenn ich gähne?",
+    "teaser": "Louis erklärt, warum Gähnen ansteckend ist – und warum wir Hunde einfach mitgähnen.",
+    "tags": [
+      { "key": "verhalten", "label": "Verhalten" }
+    ]
   }
 ];

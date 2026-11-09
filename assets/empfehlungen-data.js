@@ -594,5 +594,32 @@ const EMPFEHLUNGEN = [
     "suitable": "Für verspielte Hunde, die gern zerren, tauziehen und kauen, vor allem kleine und mittelgroße Rassen. Beim Spielen bitte dabeibleiben und das Spielzeug austauschen, sobald es kaputt geht oder sich Fäden lösen.",
     "link": "https://link.amazon/B0czmoMs6",
     "pageTitle": "Felix empfiehlt: BUYGOO Kauspielzeug-Set – ASK THE DOGS"
+  },
+  {
+    "id": "regenmantel-trixie", "category": "Kleidung & Zubehör",
+    "dogKey": "frida",
+    "dogName": "Frida",
+    "dogBreed": "Riesenschnauzer, Senior",
+    "quote": "Ich bin ein Riesenschnauzer, und ich bin nicht aus Zucker. Aber nass werde ich trotzdem nicht gern! Wenn auch dein Hund bei Regen ungern nass wird: Der Trixie Regenmantel Vimy hält ihn trocken!",
+    "productImg": "assets/regenmantel-trixie.jpg",
+    "productName": "TRIXIE Hunde-Regenmantel Vimy",
+    "productSub": "wasserdicht und windundurchlässig, mit reflektierenden Elementen, verstellbar",
+    "reasons": [
+      "Wasserdicht und windundurchlässig – schützt vor Nässe und Kälte",
+      "Reflektierende Elemente und auffällige Farbe für mehr Sicherheit im Dunkeln",
+      "Schnalle am Bauchgurt – schnell an- und auszuziehen und individuell verstellbar"
+    ],
+    "description": "Der TRIXIE Regenmantel Vimy hält Hunde bei Regen trocken. Das Material ist laut Hersteller wasserdicht und windundurchlässig und schützt so vor Nässe und Kälte, besonders wetterempfindliche, kurzhaarige und ältere Hunde. Reflektierende Elemente und die auffällige Farbe sorgen im Herbst und Winter für mehr Sicherheit im Dunkeln. Über die Schnalle am Bauchgurt lässt sich der Mantel schnell an- und ausziehen und individuell anpassen.",
+    "benefits": [
+      "Wasserdicht und windundurchlässig – schützt vor Nässe und Kälte",
+      "Reflektierende Elemente und auffällige Farbe – mehr Sicherheit im Dunkeln",
+      "Schnalle am Bauchgurt – schnell an- und auszuziehen",
+      "Individuell verstellbar für eine gute Passform",
+      "Pflegeleicht: Schmutz lässt sich abwischen, bei 30 Grad waschbar",
+      "In verschiedenen Größen erhältlich – achte auf Rückenlänge und Bauchumfang deines Hundes"
+    ],
+    "suitable": "Für Hunde, die bei Regen ungern nass werden, besonders für wetterempfindliche, kurzhaarige und ältere Hunde. Miss vor dem Kauf Rückenlänge und Bauchumfang deines Hundes und wähle danach die passende Größe.",
+    "link": "https://link.amazon/B09NVTtt6",
+    "pageTitle": "Frida empfiehlt: TRIXIE Hunde-Regenmantel Vimy – ASK THE DOGS"
   }
 ];

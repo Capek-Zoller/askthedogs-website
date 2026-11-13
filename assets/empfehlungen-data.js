@@ -621,5 +621,32 @@ const EMPFEHLUNGEN = [
     "suitable": "Für Hunde, die bei Regen ungern nass werden, besonders für wetterempfindliche, kurzhaarige und ältere Hunde. Miss vor dem Kauf Rückenlänge und Bauchumfang deines Hundes und wähle danach die passende Größe.",
     "link": "https://link.amazon/B09NVTtt6",
     "pageTitle": "Frida empfiehlt: TRIXIE Hunde-Regenmantel Vimy – ASK THE DOGS"
+  },
+  {
+    "id": "fellpflegehandschuh-drzoo", "category": "Pflege & Fell",
+    "dogKey": "louis",
+    "dogName": "Louis",
+    "dogBreed": "Französische Bulldogge",
+    "quote": "Mmm. Streicheln mit Mehrwert. Frauchen trägt einen Handschuh, der meine losen Haare mitnimmt. Ich bekomme mehr Streicheleinheiten. Das Sofa bekommt weniger Haare. Win-win. Oui.",
+    "productImg": "assets/fellpflegehandschuh-drzoo.jpg",
+    "productName": "DR Zoo Fellpflegehandschuh",
+    "productSub": "Handschuh-Paar mit weichen Noppen – Haare einfach abziehen",
+    "reasons": [
+      "748 weiche Noppen schonen Haut und Fell – das Fell haftet am Handschuh und lässt sich wie ein Teppich abziehen",
+      "Für Kurz- und Langhaar, trockenes und nasses Fell",
+      "Streicheln und Fellpflege in einem – viele Hunde lieben es"
+    ],
+    "description": "Der DR Zoo Fellpflegehandschuh verbindet Streicheln und Fellpflege: Du streichelst deinen Hund wie gewohnt, und der Handschuh nimmt dabei lose Haare mit. Laut Hersteller haben beide Handflächen insgesamt 748 weiche Noppen, die Haut und Fell schonen. Das Fell bleibt am Handschuh haften und lässt sich danach wie ein Teppich abziehen. Er wird als Paar mit Klettverschluss geliefert, in den Größen S, M und L, und ist eine deutsche Marke.",
+    "benefits": [
+      "Streicheln mit Mehrwert – lose Haare bleiben im Handschuh statt auf dem Sofa",
+      "748 weiche Noppen auf beiden Handflächen schonen Haut und Fell",
+      "Fell haftet am Handschuh und lässt sich wie ein Teppich abziehen",
+      "Für Kurz- und Langhaar, trockenes und nasses Fell – täglich anwendbar, auch im Fellwechsel",
+      "Handschuh-Paar in den Größen S, M und L mit Klettverschluss – beidhändig nutzbar",
+      "Deutsche Marke – auch für Katzen, Pferde und Kleintiere geeignet"
+    ],
+    "suitable": "Für alle Hunde, die gern gestreichelt werden und haaren, vor allem für Kurzhaar- und Langhaarrassen im Fellwechsel, und für alle, die weniger Haare auf Sofa und Kleidung möchten. Wähle die Größe passend zu deiner Hand.",
+    "link": "https://link.amazon/B0aL4rdss",
+    "pageTitle": "Louis empfiehlt: DR Zoo Fellpflegehandschuh – ASK THE DOGS"
   }
 ];

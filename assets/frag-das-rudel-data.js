@@ -113,5 +113,15 @@ const FRAGEN = [
     "tags": [
       { "key": "verhalten", "label": "Verhalten" }
     ]
+  },
+  {
+    "id": "warum-stupst-mein-hund-mich-an",
+    "dogKey": "luna",
+    "dogName": "Luna",
+    "title": "Warum stupst mein Hund mich an?",
+    "teaser": "Luna erklärt, warum Hunde uns anstupsen – und warum es so gut funktioniert.",
+    "tags": [
+      { "key": "verhalten", "label": "Verhalten" }
+    ]
   }
 ];

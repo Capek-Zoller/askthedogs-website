@@ -648,5 +648,32 @@ const EMPFEHLUNGEN = [
     "suitable": "Für alle Hunde, die gern gestreichelt werden und haaren, vor allem für Kurzhaar- und Langhaarrassen im Fellwechsel, und für alle, die weniger Haare auf Sofa und Kleidung möchten. Wähle die Größe passend zu deiner Hand.",
     "link": "https://link.amazon/B0aL4rdss",
     "pageTitle": "Louis empfiehlt: DR Zoo Fellpflegehandschuh – ASK THE DOGS"
+  },
+  {
+    "id": "hundepullover-hunter", "category": "Kleidung & Zubehör",
+    "dogKey": "felix",
+    "dogName": "Felix",
+    "dogBreed": "West Highland White Terrier",
+    "quote": "Frauchen sagt: Es hat –3 Grad – dir ist kalt. Ich sage: Ich bin ein Westie. Mir ist nie kalt. Aber schön kuschelig ist er schon. Pscht – das bleibt unter uns. Hihi.",
+    "productImg": "assets/hundepullover-hunter.jpg",
+    "productName": "HUNTER Genf Hundepullover",
+    "productSub": "pflegeleicht und elastisch, mit umschlagbarem Rollkragen",
+    "reasons": [
+      "Weicher Strickpullover – hält warm bei kühlem Wetter",
+      "Elastisch und anschmiegsam – volle Bewegungsfreiheit, ohne einzuengen",
+      "Pflegeleicht: bei 30 °C in der Maschine waschbar"
+    ],
+    "description": "Der HUNTER Genf ist ein weicher Strickpullover aus Polyester für kalte Tage. Das elastische Material passt sich an und lässt deinem Hund volle Bewegungsfreiheit. Der hohe Kragen lässt sich individuell umschlagen, und die geschlossene Bauchseite gibt zusätzlichen Schutz vor Kälte. Der Pullover ist pflegeleicht und bei 30 °C in der Maschine waschbar.",
+    "benefits": [
+      "Weicher Strickpullover – kuschelige Wärme an kalten Tagen",
+      "Elastisches, anschmiegsames Material – volle Bewegungsfreiheit",
+      "Hoher, individuell umschlagbarer Rollkragen",
+      "Geschlossene Bauchseite für zusätzlichen Kälteschutz",
+      "Pflegeleicht: bei 30 °C in der Maschine waschbar",
+      "Stilvoller Look in Anthrazit – in mehreren Größen erhältlich"
+    ],
+    "suitable": "Für Hunde, die bei kühlem Wetter einen warmen, bequemen Pullover brauchen – oder die einfach gern gut aussehen. Miss vor dem Kauf Halsumfang, Bauchumfang und Rückenlänge deines Hundes. Die in diesem Beitrag verlinkte Größe 25 passt zu Halsumfang 20–27 cm, Bauchumfang 33–41 cm und Rückenlänge 25 cm.",
+    "link": "https://link.amazon/B09WFIipn",
+    "pageTitle": "Felix empfiehlt: HUNTER Genf Hundepullover – ASK THE DOGS"
   }
 ];

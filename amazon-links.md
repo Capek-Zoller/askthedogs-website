@@ -41,6 +41,7 @@ Aktuelle Kurzlinks aller Produktempfehlungen mit der Tracking-ID `askthedogs-web
 | 33 | BUYGOO Kauspielzeug-Set (6 Stück, Baumwollseil) | Felix | `kauspielzeug-buygoo` | https://link.amazon/B0czmoMs6 |
 | 34 | TRIXIE Hunde-Regenmantel Vimy | Frida | `regenmantel-trixie` | https://link.amazon/B09NVTtt6 |
 | 35 | DR Zoo Fellpflegehandschuh | Louis | `fellpflegehandschuh-drzoo` | https://link.amazon/B0aL4rdss |
+| 36 | HUNTER Genf Hundepullover | Felix | `hundepullover-hunter` | https://link.amazon/B09WFIipn |
 
 Reihenfolge wie auf der Empfehlungsseite (neueste zuerst).
 
@@ -58,3 +59,4 @@ Reihenfolge wie auf der Empfehlungsseite (neueste zuerst).
 - 2026-11-06: Neue Empfehlung BUYGOO Kauspielzeug-Set (Felix) ergänzt, Link `B0czmoMs6` (geprüft: Tag `askthedogs-web-21`, ASIN B0BZKZCJNB).
 - 2026-11-09: Neue Empfehlung TRIXIE Hunde-Regenmantel Vimy (Frida) ergänzt, Link `B09NVTtt6` (geprüft: Tag `askthedogs-web-21`, ASIN B089ZC7Q7G, Variante XL gelb). Ein erster Link `B0cLEXIRZ` hatte das falsche Tag `askthedogs-21` und wurde nicht verwendet.
 - 2026-11-13: Neue Empfehlung DR Zoo Fellpflegehandschuh (Louis) ergänzt, Link `B0aL4rdss` (geprüft: Tag `askthedogs-web-21`, ASIN B072MD743Y, Gr. M).
+- 2026-11-17: Neue Empfehlung HUNTER Genf Hundepullover (Felix) ergänzt, Link `B09WFIipn` (geprüft: Tag `askthedogs-web-21`, ASIN B0FL7M2PKB, Anthrazit, Größe 25).

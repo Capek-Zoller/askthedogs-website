@@ -928,3 +928,11 @@ a.filter-pill{ text-decoration:none; display:inline-block; }
 .recent-card .who{ font-size:0.75rem; color:var(--ink-soft); }
 .recent-card .name{ font-family:var(--font-display); font-weight:600; font-size:0.95rem; line-height:1.25; }
 @media (max-width:760px){ .recent-grid{ grid-template-columns:repeat(2,minmax(0,1fr)); } .recent-row{ padding:0 16px; } }
+
+/* BFW-CSS Anfang (entfernen nach 30.11.2026) */
+.bfw-wrap{ max-width:var(--maxw); margin:22px auto 0; padding:0 24px; text-align:center; }
+.bfw-wrap .ad-label{ display:inline-block; margin-bottom:10px; }
+.bfw-wrap .bfw-btn{ display:block; width:100%; max-width:640px; margin:0 auto; box-sizing:border-box; padding:18px 26px; font-size:1.1rem; line-height:1.3; border:3px solid var(--mustard); box-shadow:0 6px 18px rgba(74,107,82,.25); }
+.bfw-wrap .cta-note{ margin-top:10px; }
+@media (max-width:560px){ .bfw-wrap{ padding:0 16px; } .bfw-wrap .bfw-btn{ max-width:none; font-size:1.02rem; } }
+/* BFW-CSS Ende */

@@ -675,5 +675,32 @@ const EMPFEHLUNGEN = [
     "suitable": "Für Hunde, die bei kühlem Wetter einen warmen, bequemen Pullover brauchen – oder die einfach gern gut aussehen. Miss vor dem Kauf Halsumfang, Bauchumfang und Rückenlänge deines Hundes. Die in diesem Beitrag verlinkte Größe 25 passt zu Halsumfang 20–27 cm, Bauchumfang 33–41 cm und Rückenlänge 25 cm.",
     "link": "https://link.amazon/B09WFIipn",
     "pageTitle": "Felix empfiehlt: HUNTER Genf Hundepullover – ASK THE DOGS"
+  },
+  {
+    "id": "rollleine-flexi", "category": "Unterwegs & Auto",
+    "dogKey": "louis",
+    "dogName": "Louis",
+    "dogBreed": "Französische Bulldogge",
+    "quote": "Frauchen hat eine Roll-Leine gekauft. Acht Meter Auslauf! Jetzt gehe ICH spazieren, und Frauchen kommt mit. Oui.",
+    "productImg": "assets/rollleine-flexi.jpg",
+    "productName": "flexi Classic S Roll-Leine, 8 m",
+    "productSub": "die original flexi Leine, Made in Germany, für Hunde bis 12 kg",
+    "reasons": [
+      "8 m Seil – viel Auslauf beim Spaziergang",
+      "Die original flexi Leine, seit 1973, Made in Germany",
+      "Größe S für Hunde bis 12 kg"
+    ],
+    "description": "Die flexi Classic in Größe S ist eine Roll-Leine mit 8 m Seil in Schwarz, geeignet für Hunde bis 12 kg. Dein Hund bekommt Auslauf, um seine Umgebung zu erkunden, und du behältst dabei die Kontrolle. Laut Hersteller entsteht jede original flexi Leine im eigenen Werk in Bargteheide bei Hamburg und wird im firmeneigenen Testzentrum auf Sicherheit und Funktion geprüft.",
+    "benefits": [
+      "8 m Seil – mehr Freiheit beim Schnuppern und Erkunden",
+      "Dein Hund erkundet, du behältst jederzeit die Kontrolle",
+      "Größe S für Hunde bis 12 kg",
+      "Die original flexi Leine – seit 1973, Made in Germany",
+      "Vom Hersteller im eigenen Testzentrum auf Sicherheit und Funktion geprüft",
+      "Robuste Konstruktion für den täglichen Einsatz – kurze Runde oder lange Tour"
+    ],
+    "suitable": "Für Hunde bis 12 kg, die auf Spaziergängen gern schnuppern und die Umgebung erkunden, und für alle, die ihrem Hund mehr Auslauf geben möchten. Eine Roll-Leine eignet sich nur dort, wo Leinenführung mit viel Auslauf erlaubt und sicher ist. Achte auf das maximale Hundegewicht der gewählten Größe.",
+    "link": "https://link.amazon/B08sJ4PPW",
+    "pageTitle": "Louis empfiehlt: flexi Classic S Roll-Leine 8 m – ASK THE DOGS"
   }
 ];

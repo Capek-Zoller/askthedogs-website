@@ -60,3 +60,4 @@ Reihenfolge wie auf der Empfehlungsseite (neueste zuerst).
 - 2026-11-09: Neue Empfehlung TRIXIE Hunde-Regenmantel Vimy (Frida) ergänzt, Link `B09NVTtt6` (geprüft: Tag `askthedogs-web-21`, ASIN B089ZC7Q7G, Variante XL gelb). Ein erster Link `B0cLEXIRZ` hatte das falsche Tag `askthedogs-21` und wurde nicht verwendet.
 - 2026-11-13: Neue Empfehlung DR Zoo Fellpflegehandschuh (Louis) ergänzt, Link `B0aL4rdss` (geprüft: Tag `askthedogs-web-21`, ASIN B072MD743Y, Gr. M).
 - 2026-11-17: Neue Empfehlung HUNTER Genf Hundepullover (Felix) ergänzt, Link `B09WFIipn` (geprüft: Tag `askthedogs-web-21`, ASIN B0FL7M2PKB, Anthrazit, Größe 25).
+- 2026-11-20: Neue Empfehlung flexi Classic S Roll-Leine 8 m (Louis) ergänzt, Link `B08sJ4PPW` (geprüft: Tag `askthedogs-web-21`, ASIN B00O3B1VDM, Größe S, 8 m Seil, schwarz, bis 12 kg).

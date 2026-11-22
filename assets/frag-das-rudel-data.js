@@ -99,7 +99,7 @@ const FRAGEN = [
     "dogKey": "frida",
     "dogName": "Frida",
     "title": "Spürt mein Hund, wenn ich traurig bin?",
-    "teaser": "Frida erklärt, wie Hunde merken, wenn wir traurig sind – und warum Trost bei ihr Gewicht hat.",
+    "teaser": "Frida erklärt, wie Hunde merken, wenn ihre Menschen traurig sind – und warum Trost bei ihr Gewicht hat.",
     "tags": [
       { "key": "verhalten", "label": "Verhalten" }
     ]
@@ -109,7 +109,7 @@ const FRAGEN = [
     "dogKey": "louis",
     "dogName": "Louis",
     "title": "Warum gähnt mein Hund, wenn ich gähne?",
-    "teaser": "Louis erklärt, warum Gähnen ansteckend ist – und warum wir Hunde einfach mitgähnen.",
+    "teaser": "Louis erklärt, warum Gähnen ansteckend ist – und warum Hunde einfach mitgähnen.",
     "tags": [
       { "key": "verhalten", "label": "Verhalten" }
     ]
@@ -119,7 +119,7 @@ const FRAGEN = [
     "dogKey": "luna",
     "dogName": "Luna",
     "title": "Warum stupst mein Hund mich an?",
-    "teaser": "Luna erklärt, warum Hunde uns anstupsen – und warum es so gut funktioniert.",
+    "teaser": "Luna erklärt, warum Hunde ihre Menschen anstupsen – und warum es so gut funktioniert.",
     "tags": [
       { "key": "verhalten", "label": "Verhalten" }
     ]
@@ -129,7 +129,7 @@ const FRAGEN = [
     "dogKey": "roqsy",
     "dogName": "Roqsy",
     "title": "Warum legt sich mein Hund auf meine getragenen Socken?",
-    "teaser": "Roqsy erklärt, warum Hunde sich auf getragene Socken legen – und was Herrchens Geruch für uns bedeutet.",
+    "teaser": "Roqsy erklärt, warum Hunde sich auf getragene Socken legen – und was der Geruch von Herrchen für Hunde bedeutet.",
     "tags": [
       { "key": "verhalten", "label": "Verhalten" }
     ]

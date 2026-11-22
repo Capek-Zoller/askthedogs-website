@@ -123,5 +123,15 @@ const FRAGEN = [
     "tags": [
       { "key": "verhalten", "label": "Verhalten" }
     ]
+  },
+  {
+    "id": "warum-legt-sich-mein-hund-auf-getragene-socken",
+    "dogKey": "roqsy",
+    "dogName": "Roqsy",
+    "title": "Warum legt sich mein Hund auf meine getragenen Socken?",
+    "teaser": "Roqsy erklärt, warum Hunde sich auf getragene Socken legen – und was Herrchens Geruch für uns bedeutet.",
+    "tags": [
+      { "key": "verhalten", "label": "Verhalten" }
+    ]
   }
 ];

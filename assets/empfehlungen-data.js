@@ -702,5 +702,32 @@ const EMPFEHLUNGEN = [
     "suitable": "Für Hunde bis 12 kg, die auf Spaziergängen gern schnuppern und die Umgebung erkunden, und für alle, die ihrem Hund mehr Auslauf geben möchten. Eine Roll-Leine eignet sich nur dort, wo Leinenführung mit viel Auslauf erlaubt und sicher ist. Achte auf das maximale Hundegewicht der gewählten Größe.",
     "link": "https://link.amazon/B08sJ4PPW",
     "pageTitle": "Louis empfiehlt: flexi Classic S Roll-Leine 8 m – ASK THE DOGS"
+  },
+  {
+    "id": "chuckit-ultra-ball", "category": "Spielen & Training",
+    "dogKey": "luna",
+    "dogName": "Luna",
+    "dogBreed": "Golden Retriever",
+    "quote": "Zwei Bälle. Ein Hund. Frauchen wirft. Ich bringe. Sie wirft. Ich bringe. Ich nenne das: Dauerauftrag. Für immer und ewig – haha.",
+    "productImg": "assets/chuckit-ultra-ball.jpg",
+    "productName": "Chuckit! Ultra Ball Medium, 2er-Pack",
+    "productSub": "Apportierball aus Gummi, schwimmt, hohe Sprungkraft",
+    "reasons": [
+      "Dicker Gummikern für ausdauerndes Apportieren",
+      "Hohe Sprungkraft und schwimmfähig – für Wiese und Wasser",
+      "Leuchtend orange-blaue Farben, gut zu finden"
+    ],
+    "description": "Der Chuckit! Ultra Ball in Größe Medium kommt als 2er-Pack. Laut Hersteller besteht er aus Naturkautschuk mit einem dicken Gummikern, springt hoch, schwimmt auf dem Wasser und ist durch die orange-blauen Farben in hohem Gras oder auf dem Wasser gut zu sehen. Die glatte Gummioberfläche ist leicht zu reinigen. Der Ball ist mit den Chuckit! Ballwerfern (Launchern) kompatibel, die du separat kaufen kannst.",
+    "benefits": [
+      "2 Bälle im Pack – einer zum Werfen, einer zum Bringen",
+      "Dicker Gummikern und stabile Wände für langes Spielen",
+      "Hohe Sprungkraft durch hochfedernden Naturkautschuk",
+      "Schwimmt auf dem Wasser – auch für See und Pool geeignet",
+      "Leuchtend orange und blau – in Gras und Wasser gut zu finden",
+      "Kompatibel mit Chuckit! Ballwerfern (separat erhältlich)"
+    ],
+    "suitable": "Für Hunde, die gern apportieren, besonders für mittelgroße und große Hunde, die Land- und Wasserspiele lieben. Beachte die Größe: Die Ausführung Medium ist ein Ball in mittlerer Größe, es gibt den Ball auch in kleineren und größeren Varianten. Benutze Spielzeug nur unter deiner Aufsicht.",
+    "link": "https://link.amazon/B0gNXoEkG",
+    "pageTitle": "Luna empfiehlt: Chuckit! Ultra Ball Medium – ASK THE DOGS"
   }
 ];

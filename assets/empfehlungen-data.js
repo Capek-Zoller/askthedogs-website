@@ -729,5 +729,32 @@ const EMPFEHLUNGEN = [
     "suitable": "Für Hunde, die gern apportieren, besonders für mittelgroße und große Hunde, die Land- und Wasserspiele lieben. Beachte die Größe: Die Ausführung Medium ist ein Ball in mittlerer Größe, es gibt den Ball auch in kleineren und größeren Varianten. Benutze Spielzeug nur unter deiner Aufsicht.",
     "link": "https://link.amazon/B0gNXoEkG",
     "pageTitle": "Luna empfiehlt: Chuckit! Ultra Ball Medium – ASK THE DOGS"
+  },
+  {
+    "id": "enzymreiniger-hauszauber", "category": "Wohlbefinden & Komfort",
+    "dogKey": "felix",
+    "dogName": "Felix",
+    "dogBreed": "West Highland White Terrier",
+    "quote": "Ich dufte. Nach Gartenloch, Pfütze und Fuchs – meine eigene Kreation – hihi. Frauchen nennt es Gestank. Und sprüht ein Zeug auf den Teppich, das Gerüche löst. Mein Duft – weg. So schade – schnief.",
+    "productImg": "assets/enzymreiniger-hauszauber.jpg",
+    "productName": "hauszauber Enzymreiniger, 1 l",
+    "productSub": "Geruchsentferner für Polster, Textilien und Böden",
+    "reasons": [
+      "Enzyme neutralisieren üble Gerüche, statt sie nur zu überdecken",
+      "Sprühfertig für Polster, Textilien und Böden",
+      "Frischer Duft nach dem Spaziergang im Flur"
+    ],
+    "description": "Der hauszauber Enzymreiniger ist ein Geruchsentferner in der 1-Liter-Sprühflasche. Laut Hersteller neutralisiert er mithilfe von Enzymen üble Gerüche, zum Beispiel von Hundeurin oder Katzenurin, auf Sofa, Teppich, Textilien und Böden und hinterlässt einen frischen Wäscheduft. Die Flasche reicht laut Angabe für bis zu 1.500 Sprühstöße. Der Reiniger wird in Deutschland hergestellt.",
+    "benefits": [
+      "Neutralisiert Gerüche, statt sie nur zu überdecken",
+      "Für Polster, Textilien und Böden geeignet",
+      "Sprühfertig in der 1-Liter-Flasche",
+      "Bis zu 1.500 Sprühstöße pro Flasche",
+      "Frischer Duft, der nicht aufdringlich wirkt",
+      "Hergestellt in Deutschland"
+    ],
+    "suitable": "Für alle, die Hundegeruch oder Urinflecken aus Teppich, Sofa oder Textilien entfernen möchten. Teste den Reiniger vorab an einer unauffälligen Stelle. Laut Produktseite enthält er Duftstoffe (Hexylsalicylat), die allergische Reaktionen hervorrufen können, und das Sicherheitsdatenblatt gibt es auf Anfrage. Bewahre ihn außerhalb der Reichweite von Hunden auf.",
+    "link": "https://link.amazon/B0g2NzuUX",
+    "pageTitle": "Felix empfiehlt: hauszauber Enzymreiniger – ASK THE DOGS"
   }
 ];

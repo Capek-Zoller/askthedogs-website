@@ -756,5 +756,32 @@ const EMPFEHLUNGEN = [
     "suitable": "Für alle, die Hundegeruch oder Urinflecken aus Teppich, Sofa oder Textilien entfernen möchten. Teste den Reiniger vorab an einer unauffälligen Stelle. Laut Produktseite enthält er Duftstoffe (Hexylsalicylat), die allergische Reaktionen hervorrufen können, und das Sicherheitsdatenblatt gibt es auf Anfrage. Bewahre ihn außerhalb der Reichweite von Hunden auf.",
     "link": "https://link.amazon/B0g2NzuUX",
     "pageTitle": "Felix empfiehlt: hauszauber Enzymreiniger – ASK THE DOGS"
+  },
+  {
+    "id": "dokas-minis-entenbrust", "category": "Fressen & Trinken",
+    "dogKey": "louis",
+    "dogName": "Louis",
+    "dogBreed": "Französische Bulldogge",
+    "quote": "Alors. Ich bin Genießer – und heute habe ich einen Tipp für dich und deinen Hund: Entenbrust – in kleinen Würfeln. Klein genug, dass es viele sind. Und die sind GUT! – Oui! – soooo gut!",
+    "productImg": "assets/dokas-minis-entenbrust.jpg",
+    "productName": "DOKAS Minis Entenbrust, 9 × 70 g",
+    "productSub": "Kleine Belohnungshappen für Training und zwischendurch",
+    "reasons": [
+      "Winzige Würfel – perfekt zum Belohnen, ohne satt zu machen",
+      "Soja-, getreide- und glutenfrei, ohne Zuckerzusatz",
+      "Wiederverschließbare Beutel, praktisch für unterwegs"
+    ],
+    "description": "Die DOKAS Minis Entenbrust sind sehr kleine Snackwürfel und kommen als 9er-Pack mit je 70 g. Laut Hersteller bestehen sie im Fleischanteil zu 100 % aus Entenbrustfilet, sind soja-, getreide- und glutenfrei, ohne Zuckerzusatz und fettarm. Enthaltenes L-Carnitin kann laut Hersteller die Fettverbrennung unterstützen. Die Snacks werden regelmäßig vom SGS Institut Fresenius kontrolliert und sind als Belohnung zwischen den Mahlzeiten gedacht.",
+    "benefits": [
+      "Sehr kleine Würfel – ideal für Training und Belohnungen",
+      "Im Fleischanteil 100 % Entenbrustfilet",
+      "Soja-, getreide- und glutenfrei, ohne Zuckerzusatz",
+      "Fettarm, mit L-Carnitin",
+      "Wiederverschließbare Beutel für unterwegs",
+      "Regelmäßige Qualitätskontrolle durch das SGS Institut Fresenius"
+    ],
+    "suitable": "Für Hunde, die beim Training oder zwischendurch kleine Belohnungen bekommen sollen, auch für kleine Hunde und Welpen. Die Minis sind ein Ergänzungsfuttermittel, füttere sie als Belohnung zwischen den Mahlzeiten und reduziere die tägliche Futtermenge nach Bedarf. Stelle immer frisches Wasser bereit und gib die Snacks nur unter Aufsicht.",
+    "link": "https://link.amazon/B0cmiOKIb",
+    "pageTitle": "Louis empfiehlt: DOKAS Minis Entenbrust – ASK THE DOGS"
   }
 ];

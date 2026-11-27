@@ -63,3 +63,4 @@ Reihenfolge wie auf der Empfehlungsseite (neueste zuerst).
 - 2026-11-20: Neue Empfehlung flexi Classic S Roll-Leine 8 m (Louis) ergänzt, Link `B08sJ4PPW` (geprüft: Tag `askthedogs-web-21`, ASIN B00O3B1VDM, Größe S, 8 m Seil, schwarz, bis 12 kg).
 - 2026-11-23: Neue Empfehlung Chuckit! Ultra Ball Medium 2er-Pack (Luna) ergänzt, Link `B0gNXoEkG` (geprüft: Tag `askthedogs-web-21`, ASIN B000F4AVPA, Medium, 2er-Pack, Multicolor).
 - 2026-11-25: Neue Empfehlung hauszauber Enzymreiniger 1 l (Felix) ergänzt, Link `B0g2NzuUX` (geprüft: Tag `askthedogs-web-21`, ASIN B0BZJK7D83, 1 l (1er Pack)).
+- 2026-11-27: Neue Empfehlung DOKAS Minis Entenbrust 9 × 70 g (Louis, Black-Friday-Reel) ergänzt, Link `B0cmiOKIb` (geprüft: Tag `askthedogs-web-21`, ASIN B08H8XFBJQ, Stil Ente, 9 x 70 g).

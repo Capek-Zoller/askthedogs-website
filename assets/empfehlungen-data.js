@@ -542,7 +542,7 @@ const EMPFEHLUNGEN = [
     "pageTitle": "Louis empfiehlt: SANOZOO Napfunterlage – ASK THE DOGS"
   },
   {
-    "id": "ivvi-probiotic", "category": "Fressen & Trinken",
+    "id": "ivvi-probiotic", "category": "Wohlbefinden & Komfort",
     "dogKey": "roqsy",
     "dogName": "Roqsy",
     "dogBreed": "Bolonka Zwetna",
